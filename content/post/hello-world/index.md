@@ -1,22 +1,20 @@
 ---
-title: Hello World
-description: Welcome to Hugo Theme Stack
+title: Hello!
+description: If you see this, I probably managed to post it, LOL.
 slug: hello-world
-date: 2022-03-06 00:00:00+0000
+date: 2023-08-08 00:00:00+0000
 image: cover.jpg
 categories:
-    - Dolls
     - Rambles
-    - Art
-    - Security
+
 tags:
-    - Example Tag
+    - First post
+    - Rambles
+    - Arima Kana cutest idol
+    - Oshi No Ko biggest fan
 ---
 
-Welcome to Hugo theme Stack. This is your first post. Edit or delete it, then start writing!
+Hello! Thank you so much for watching my blog! I'll post random shit, LOL!
+Anyways, next time I'll post is Ame-chan doll making process or a fanfic. Or make people triggered because I use Edge, Brave and Safari on iPad.
 
-For more information about this theme, check the documentation: https://docs.stack.jimmycai.com/
-
-Want a site like this? Check out [hugo-theme-stack-stater](https://github.com/CaiJimmy/hugo-theme-stack-starter)
-
-> Photo by [Pawel Czerwinski](https://unsplash.com/@pawel_czerwinski) on [Unsplash](https://unsplash.com/)
+No comments or beta, we die like Hoshino Ai. Off I go to light up my Sanrio lamp and understand how to actually publish on Github pages! Yay.
