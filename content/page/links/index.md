@@ -9,6 +9,10 @@ links:
     description: Chat with me on Matrix, I don't bite that hard! @ashleehee:beeper.com
     website: https://element.io/
     image: https://matrix.org/images/matrix-favicon.svg
+  - title: Source Code
+    description: Free Open Source goes brr
+    website: https://github.com/leeashlee/leeashlee.github.io
+    image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
 menu:
     main: 
         weight: 4
