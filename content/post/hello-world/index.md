@@ -1,7 +1,7 @@
 ---
 title: Hello!
 description: If you see this, I probably managed to post it, LOL.
-slug: hello-world
+slug: hello
 date: 2023-08-08 00:00:00+0000
 image: cover.jpg
 categories:
