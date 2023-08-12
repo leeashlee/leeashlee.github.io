@@ -22,7 +22,7 @@ tags:
     - I Wrote This Instead of Sleeping
     - Futaba is a child in this
     - Protective Goro Akechi
-    - Kurusu Kazuki Needs a Hug
+    - Persona 5 Protagonist Needs a Hug
     - Persona 5 Protagonist & Sakura Futaba Are Siblings
     - Android!Ren
     - Goro Akechi and Sakura Futaba Are Siblings
