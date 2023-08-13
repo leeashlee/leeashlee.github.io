@@ -19,7 +19,7 @@ subtitle = "I like talking about security, dolls, arts and video games."
 [sidebar.avatar]
 enabled = true
 local = true
-src = "img/Kana.jpg"
+src = "img/IMG_0268.PNG"
 
 [article]
 math = false
