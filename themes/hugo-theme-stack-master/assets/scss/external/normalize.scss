@@ -92,9 +92,10 @@
     cursor: help;
   }
   
+  /**
   abbr[title]:hover::after {
     content: ' (' attr(title) ')';
-  }
+  }/*
   
   /**
    * Add the correct font weight in Chrome, Edge, and Safari.
