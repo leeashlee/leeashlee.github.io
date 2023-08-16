@@ -82,10 +82,18 @@
    * 2. Add the correct text decoration in Chrome, Edge, IE, Opera, and Safari.
    */
   
-  abbr[title]:hover {
+  abbr[title] {
     border-bottom: none; /* 1 */
     text-decoration: underline; /* 2 */
     text-decoration: underline dotted; /* 2 */
+  }
+
+  abbr:hover {
+    cursor: help;
+  }
+  
+  abbr[title]:hover::after {
+    content: ' (' attr(title) ')';
   }
   
   /**
