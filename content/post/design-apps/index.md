@@ -5,7 +5,7 @@ slug: my-design-and-art-apps
 date: 2023-08-16 00:00:00+0000
 image: cover.jpg
 categories:
-    - Security
+    - Art
 
 tags:
     - design and art apps
