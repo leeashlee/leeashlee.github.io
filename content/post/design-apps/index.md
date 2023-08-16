@@ -58,7 +58,7 @@ If you're here, I assume you don't know which drawing app to use or you wanna sw
 
 **FOSS?:** Yes.
 
-Blender is a highly popular 3D making software, for a good reason. It's great, easy to use, FOSS, and free of charge. I personally use Blender to make/adapt 3D references for <abbr title="Clip Studio Paint">CSP</abbr>.
+Blender is a highly popular 3D making software, for a good reason. It's great, easy to use, FOSS, and free of charge. I personally use Blender to make/adapt 3D references for Clip Studio Paint.
 
 I might also use it for Story Artist feature once Mental Canvas won't be free of charge anymore and if it'll arrive on an iPad.
 
@@ -126,7 +126,7 @@ For now, it's here for frame by frame animation. I really recommend it if you wa
 
 **FOSS?:** No, come on, it's Adobe.
 
-Do I recommend it for Vector art? Nah, we have <abbr title="Clip Studio Paint">CSP</abbr>.
+Do I recommend it for Vector art? Nah, we have Clip Studio Paint.
 
 Is it still usable for other shit? Yes. It's that Adobe program I use almost everyday for school and my design works. Typography, logos and other variables you must have in a design work.
 
@@ -186,7 +186,7 @@ Logos should be vector too. Periodt.
 
 **FOSS?:** No.
 
-That's a rather... Creative program here. But since <abbr title="Clip Studio Paint">CSP</abbr> has vector layer features, it's really nice to make a more creative and complex logo.
+That's a rather... Creative program here. But since Clip Studio Paint has vector layer features, it's really nice to make a more creative and complex logo.
 
 For text I less recommend it, due to lack of tracking, kerning and leading features. Just use Illustrator. Perhaps In-Design if you write a book.
 
