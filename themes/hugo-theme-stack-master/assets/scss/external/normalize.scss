@@ -83,6 +83,7 @@
    */
   
   abbr[title] {
+    cursor: help;
     border-bottom: none; /* 1 */
     text-decoration: underline; /* 2 */
     text-decoration: underline dotted; /* 2 */
@@ -92,10 +93,16 @@
     cursor: help;
   }
   
-  /**
-  abbr[title]:hover::after {
+  abbr[title]::after {
     content: ' (' attr(title) ')';
-  }/*
+  }
+  
+  @media screen and (min-width: 992px) {
+    abbr[title]::after {
+      content: '';
+    }
+  }
+  
   
   /**
    * Add the correct font weight in Chrome, Edge, and Safari.
