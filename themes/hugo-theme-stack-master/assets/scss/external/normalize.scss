@@ -93,12 +93,12 @@
     cursor: help;
   }
   
-  abbr[title]::after {
+  abbr[title]:hover:after {
     content: ' (' attr(title) ')';
   }
   
   @media screen and (min-width: 992px) {
-    abbr[title]::after {
+    abbr[title]:after {
       content: '';
     }
   }
