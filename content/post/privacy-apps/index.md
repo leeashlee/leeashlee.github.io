@@ -14,7 +14,7 @@ tags:
     - mostly FOSS
 ---
 
-you've probably didn't use some private/FOSS apps and switched to a less private alternative. The UX isn't quite as friendly than the apps you tried to replace, the UI is outdated at best and doesn't work for you at worst.
+you've probably didn't use some private/<abbr title="Free Open Source Software">FOSS</abbr> apps and switched to a less private alternative. The <abbr title="User Experience">UX</abbr> isn't quite as friendly than the apps you tried to replace, the <abbr title="User Interface">UI</abbr> is outdated at best and doesn't work for you at worst.
 
 I've been looking left and right for over a year to find apps that are private, secured and with a minimal and modern look. I'm not much into retro design unless it's Windows XP aesthetics or KDE.
 
@@ -28,11 +28,9 @@ If you want to further learn about privacy and security, please check PrivacyGui
 
 No sharing links to not start fights, many can be found on F-Droid, most if not all can be found on the play-store.
 
-Besides my Android phone, which I use 99% of the time, I use a Mac and an iPad. As you can see, I didn't get too far there, LOL.
+Besides my Android phone, which I use 99% of the time, I use a Mac and an iPad. As you can see, I didn't get too far there, <abbr title="Laugh out Loud">LOL</abbr>.
 
-For design tools, use a sketch book and pirate Adobe, LOL. x)
-
-(I mostly use Adobe but other tools too. They're not necesarily private/FOSS so I won't share here, perhaps on a different post if interested.)
+For design tools, [here](https://leeashlee.github.io/p/my-design-and-art-apps/).
 
 ----
 
@@ -42,19 +40,19 @@ For design tools, use a sketch book and pirate Adobe, LOL. x)
 
 ### 1. Shizuku
 
-**OS:** Android.
+**<abbr title="Operating System">OS</abbr>:** Android.
 
-Shizuku is an app that helps you run ADB through your phone on terminal apps such as Termux. You do need developer settings on to makw it work, but it's easy as pie to turn it on. I don't use it for using ADB on my phone, but I use it to operate other tools I use all the time. If you use ADB a lot and are lazy to grab a PC, this app is for you. If you wanna use one the apps that uses Shizuku to run, this app is for you. If you love cats, this app is for you.
+Shizuku is an app that helps you run <abbr title="Android Debug Bridge">ADB</abbr> through your phone on terminal apps such as Termux. You do need developer settings on to make it work, but it's easy as pie to turn it on. I don't use it for using <abbr title="Android Debug Bridge">ADB</abbr> on my phone, but I use it to operate other tools I use all the time. If you use <abbr title="Android Debug Bridge">ADB</abbr> a lot and are lazy to grab a PC, this app is for you. If you wanna use one the apps that uses Shizuku to run, this app is for you. If you love cats, this app is for you.
 
 ### 2. Adguard
 
-**OS:** Android, MacOS, iOS, Windows, Linux. (Works on browser too.)
+**<abbr title="Operating System">OS</abbr>:** Android, MacOS, iOS, Windows, Linux. (Works on browser too.)
 
-Adguard is a DNS blocking trackers and ads. Without it I wouldn't be alive right now. It's encrypted, it's simple, it's cool. I use their DNS address on Android (to keep my VPN slot) and their Adguard app everywhere.
+Adguard is a <abbr title=" Domain Name System">DNS</abbr> blocking trackers and ads. Without it I wouldn't be alive right now. It's encrypted, it's simple, it's cool. I use their <abbr title=" Domain Name System">DNS</abbr> address on Android (to keep my <abbr title="Virtual Private Network">VPN</abbr> slot) and their Adguard app everywhere.
 
 ### 3. App Ops
 
-**OSes:** Android.
+**<abbr title="Operating System">OS</abbr>:** Android.
 
 If there's one app you must grab, grab this one with Shizuku. It uses Shizuku to operate, shows you permissions of all your apps, many permissions the Android settings doesn't show you, you can put templates to disable permissions automatically everytime you download a new app, it shows you which permission an app used currently, clipboard monitor, usage monitor...
 
@@ -64,25 +62,25 @@ I did pay for this app to use all it's features and I don't regret it one bit. J
 
 ### 4. Caffeine
 
-**OSes:** Android. 
+**<abbr title="Operating System">OS</abbr>:** Android. 
 
-If you're not running a custom ROM because it's Samsung and Samsung is a meme, yet you really miss using Caffeine when cooking or reading articles or using walkthroughs for games, I gotchu.
+If you're not running a custom <abbr title="Read-only memory">ROM</abbr> because it's Samsung and Samsung is a meme, yet you really miss using Caffeine when cooking or reading articles or using walkthroughs for games, I gotchu.
 
 In case you don't understand, Caffeine is something you can put on your notification menu and you can keep your phone from sleeping for an extended period of time.
 
-Many ROMs that use LineageOS as a base has Caffeine in them. However, you can download the same one and continue using Caffeine despite having a Samsung! You welcome!
+Many <abbr title="Read-only memory">ROM</abbr>s that use LineageOS as a base has Caffeine in them. However, you can download the same one and continue using Caffeine despite having a Samsung! You welcome!
 
-### 5. SD Maid
+### 5. <abbr title="Secure Digital">SD</abbr> Maid
 
-**OSes:** Android.
+**<abbr title="Operating System">OS</abbr>:** Android.
 
-If you're not familiar, SD maid removes junk from your storage. SD card & main storage. It can also remove junk from your apps that just keeps space on your phone for no reason.
+If you're not familiar, <abbr title="Secure Digital">SD</abbr> maid removes junk from your storage. <abbr title="Secure Digital">SD</abbr> card & main storage. It can also remove junk from your apps that just keeps space on your phone for no reason.
 
-This app has been around since 2011, early Android releases! Respect your eldery apps, LOL.
+This app has been around since 2011, early Android releases! Respect your eldery apps, <abbr title="Laugh out Loud">LOL</abbr>.
 
 ### 6. Shelter
 
-**OSes:** Android.
+**<abbr title="Operating System">OS</abbr>:** Android.
 
 Unless you run GrapheneOS and you can run sandboxed apps systemlessly through profiles. I really recommend Shelter. It opens a Work Profile on your phone, there you can shelter certain apps and test them. 
 
@@ -90,15 +88,15 @@ It's nice if you wanna sandbox certain apps and test their features or anything 
 
 ### 7. Swift Backup
 
-**OSes:** Android.
+**<abbr title="Operating System">OS</abbr>:** Android.
 
-Another app that uses Shizuku to operate. It's an app that replaces Google One backup and backup your phone. You can run on schedule, backup your phone on an SD card or on the cloud. It has several cloud options, including self host. I personally connected a mega account that only backup my phone. I also use an SD card to have a local backup.
+Another app that uses Shizuku to operate. It's an app that replaces Google One backup and backup your phone. You can run on schedule, backup your phone on an <abbr title="Secure Digital">SD</abbr> card or on the cloud. It has several cloud options, including self host. I personally connected a mega account that only backup my phone. I also use an <abbr title="Secure Digital">SD</abbr> card to have a local backup.
 
 I really recommend it as a phone backup alternative. It's solid. It's one of my favourite apps.
 
 ### 8. Untrack Me
 
-**OSes:** Android.
+**<abbr title="Operating System">OS</abbr>:** Android.
 
 It's a simple app that automatically opens links on their front-end instances. You can set on which browser you want the front-ended link to be opened. 
 
@@ -110,13 +108,13 @@ It's a simple app that automatically opens links on their front-end instances. Y
 
 ### 1. Bitwarden
 
-**OSes:** Android, Linux, iOS, MacOS, Windows and browser.
+**<abbr title="Operating System">OS</abbr>:** Android, Linux, iOS, MacOS, Windows and browser.
 
-Personally, my preferable option out of the two password managers, it's much more stable, you can put and save your password everywhere, has an awesome system of secure notes (which I use a lot. What is it with me and anything notes?), you can save credit card information, addresses, connect email aliases, get username randomization. Honestly, go download Bitwarden now, you won't regret it. Easy to sign up, easy to use, FOSS, and just really cool.
+Personally, my preferable option out of the two password managers, it's much more stable, you can put and save your password everywhere, has an awesome system of secure notes (which I use a lot. What is it with me and anything notes?), you can save credit card information, addresses, connect email aliases, get username randomization. Honestly, go download Bitwarden now, you won't regret it. Easy to sign up, easy to use, <abbr title="Free Open Source Software">FOSS</abbr>, and just really cool.
 
 ### 2. Proton Pass
 
-**OSes:** Android, Linux(?), iOS, MacOS, Windows, Browsers.
+**<abbr title="Operating System">OS</abbr>:** Android, Linux(?), iOS, MacOS, Windows, Browsers.
 
 A newer password manager and therefore less solid. I mostly use it for tests, I enjoy it the most on my iPad since it works the most smooth there. At browser and Android it's 🫠. I like it for the email alias inside the system itself and the general design of the app. You can save notes and credit cards, but notes are way less advanced than Bitwarden so I barely use them.
 
@@ -126,19 +124,19 @@ If you're not patient testing shit out like me, use Bitwarden.
 
 ### 3. Picocrypt
 
-**OSes:** Linux, MacOS, Windows
+**<abbr title="Operating System">OS</abbr>:** Linux, MacOS, Windows
 
-I don't know about you, but I still use SD cards and flash drives outside of dual booting. Encrypting certain files is important to me. Besides feeling like a secret agent, I like to keep certain files hidden. 
+I don't know about you, but I still use <abbr title="Secure Digital">SD</abbr> cards and flash drives outside of dual booting. Encrypting certain files is important to me. Besides feeling like a secret agent, I like to keep certain files hidden. 
 
 Picocrypt is a simple app that encrypts files you want wherever you want. It's simple and minimal. If you need to encrypt files, instead of encrypting a certain drive, I recommend this.
 
 ### 4. Yubico Authenticator
 
-I don't know about you, but 2FAs app annoys me. It's hard to restore them if you don't have the original device with you and are just pain 90% of the times. Sure, I can use my password managers to store my 2FAs, but it always felt hard to understand and hard to navigate.
+I don't know about you, but <abbr title="2 Factor Authentication">2FA</abbr>s app annoys me. It's hard to restore them if you don't have the original device with you and are just pain 90% of the times. Sure, I can use my password managers to store my <abbr title="2 Factor Authentication">2FA</abbr>s, but it always felt hard to understand and hard to navigate.
 
-As a person who loves physical things, Yubikey really hit that spot for me. It's simple, easy, and you can carry it everywhere. Yubico Authenticator is a 2FA app, but it operates with your Yubikey instead of your phone, which makes it easier for me to control if I suddenly switch phones or the app got uninstalled. 
+As a person who loves physical things, Yubikey really hit that spot for me. It's simple, easy, and you can carry it everywhere. Yubico Authenticator is a <abbr title="2 Factor Authentication">2FA</abbr> app, but it operates with your Yubikey instead of your phone, which makes it easier for me to control if I suddenly switch phones or the app got uninstalled. 
 
-If you're the kind of person who loses keys a lot, or a regular human being, get a Yubikey spare. I'm sure you can connect another key to the 2FA authenticator.
+If you're the kind of person who loses keys a lot, or a regular human being, get a Yubikey spare. I'm sure you can connect another key to the <abbr title="2 Factor Authentication">2FA</abbr> authenticator.
 
 I'm working towards getting a spare key, so let's hope nothing will happen to my Yubikey--- 
 
@@ -150,21 +148,21 @@ I'm working towards getting a spare key, so let's hope nothing will happen to my
 
 ### 1. Brave
 
-**OSes:** Android, iOS (Safari in disguise), Linux, MacOS, Windows.
+**<abbr title="Operating System">OS</abbr>:** Android, iOS (Safari in disguise), Linux, MacOS, Windows.
 
 It's my day to day browser on Android and Mac, I really enjoy it. It's one of the best chromium browsers in terms of privacy. I don't mind the crypto that much, you can opt out of it. 
 
-The CEO slightly bothers me but that's why I don't use Brave everywhere and cut it every way I can.
+The <abbr title="Chief executive officer">CEO</abbr> slightly bothers me but that's why I don't use Brave everywhere and cut it every way I can.
 
 ### 2. Edge
 
-**OSes:** Windows.
+**<abbr title="Operating System">OS</abbr>:** Windows.
 
 My go to browser on Windows at school or my Virtual Machine.
 
 ### 3. Firefox
 
-**OSes:** Android, iOS (Safari in disguise), Linux, MacOS, Windows.
+**<abbr title="Operating System">OS</abbr>:** Android, iOS (Safari in disguise), Linux, MacOS, Windows.
 
 I like Firefox, I mostly use it on Linux but I still like it. I used to be a regular Firefox user, and switched for unknown reason to Chromium.
 
@@ -172,21 +170,21 @@ Firefox on Android isn't the best, so use a different browser on Android.
 
 ### 4. Safari
 
-**OSes:** iOS, MacOS
+**<abbr title="Operating System">OS</abbr>:** iOS, MacOS
 
 I only use on my iPad because it's actually pleasant there. I don't vibe for Safari in my Mac for some reason, the minimal design doesn't work for me on my Mac as much as it does on iPad.
 
-On iOS every browser is Safari apparently, so I just stick to the original. You can use DDG as a default search so that's nice.
+On iOS every browser is Safari apparently, so I just stick to the original. You can use <abbr title="Duck Duck Go">DDG</abbr> as a default search so that's nice.
 
 ### 5. Setter
 
-**OSes:** Android.
+**<abbr title="Operating System">OS</abbr>:** Android.
 
 I use Setter when I need anonymous Google search or I need translation in various translation programs for comparison. It's not really a browser, just a way to translate across all engines and search across various search engines. I recommend it for those reasons.
 
 ### 6. Tor Browser
 
-**OSes:** Android, Linux, Windows.
+**<abbr title="Operating System">OS</abbr>:** Android, Linux, Windows.
 
 I'm not too sure if Tor Browser runs on Apple, so please let me know. I use the browser itself on Android while I use Tor on Brave for the rest.
 
@@ -202,19 +200,19 @@ If you have certain needs to be anonymous or you wanna be safe when opening link
 
 ### 1. iA Writer
 
-**OSes:** Android, iOS, MacOS, Windows.
+**<abbr title="Operating System">OS</abbr>:** Android, iOS, MacOS, Windows.
 
-I actually write this guide through iA writer! I'm a writer and it helps me a lot with writing stories, LOL. It's a Markdown writing tool with minimal design and distractions. You can write in device, share it to cloud, or write online anonymously through online collaboration. Online collaboration doesn't add things directly in your original doc in device, but rather, once you stop the online collaboration, it saves you a new file in your device.
+I actually write this guide through iA writer! I'm a writer and it helps me a lot with writing stories, <abbr title="Laugh out Loud">LOL</abbr>. It's a Markdown writing tool with minimal design and distractions. You can write in device, share it to cloud, or write online anonymously through online collaboration. Online collaboration doesn't add things directly in your original doc in device, but rather, once you stop the online collaboration, it saves you a new file in your device.
 
-I personally only use on Android and through online collaboration because buying 2 more versions for iOs and MacOS is rough for me. *Gotta save for those dolls, y'know?*
+I personally only use on Android and through online collaboration because buying 2 more versions for iOS and MacOS is rough for me. *Gotta save for those dolls, y'know?*
 
-It doesn't have any crazy permissions on Android. There is contacts permission but it works fine with the permission denied. If you wanna keep safe, block internet access, but IDK if you'll be able to use Online Collaboration.
+It doesn't have any crazy permissions on Android. There is contacts permission but it works fine with the permission denied. If you wanna keep safe, block internet access, but <abbr title="I Don't Know">IDK</abbr> if you'll be able to use Online Collaboration.
 
 ### 2. Goodnotes
 
-**OSes:**: iOS, MacOS, Android, Windows.
+**<abbr title="Operating System">OS</abbr>:** iOS, MacOS, Android, Windows.
 
-I use Goodnotes on my iPad to write my school-notes. It's not FOSS, but their privacy policy isn't awful. I'm happy they give a TLDR of sorts at the beginning of their policy.
+I use Goodnotes on my iPad to write my school-notes. It's not <abbr title="Free Open Source Software">FOSS</abbr>, but their privacy policy isn't awful. I'm happy they give a <abbr title="Too Long Don't Read">TLDR</abbr> of sorts at the beginning of their policy.
 
 According to their [privacy policy](https://www.goodnotes.com/privacy-policy):
 
@@ -230,17 +228,17 @@ According to their [privacy policy](https://www.goodnotes.com/privacy-policy):
 > - Basic personal data (name, email, country) when you register.
 > - Anonymous statistical data (crash frequency, feature usage) to enhance the app experience.
 
-If you DO mind any of those terms, feel free to skip that one. Personally, I don't mind. I wanted to add Goodnotes here because it's something I genuinely use for University and I like it. If there's any alternative of FOSS notebook apps you can draw inside/use your apple pencil, please let me know!
+If you DO mind any of those terms, feel free to skip that one. Personally, I don't mind. I wanted to add Goodnotes here because it's something I genuinely use for University and I like it. If there's any alternative of <abbr title="Free Open Source Software">FOSS</abbr> notebook apps you can draw inside/use your apple pencil, please let me know!
 
 ### 3. Noto
 
-**OSes:** Android.
+**<abbr title="Operating System">OS</abbr>:** Android.
 
-I use this app to take quick notes and write random story ideas, thoughts, lyrics and projects I want to do. This app is FOSS. The data is kept locally, I keep the data on my SD card so I could redownload it on Noto once I'll transfer to a different phone. There's no automatic backup so you gotta remember to do so.
+I use this app to take quick notes and write random story ideas, thoughts, lyrics and projects I want to do. This app is <abbr title="Free Open Source Software">FOSS</abbr>. The data is kept locally, I keep the data on my <abbr title="Secure Digital">SD</abbr> card so I could redownload it on Noto once I'll transfer to a different phone. There's no automatic backup so you gotta remember to do so.
 
 ### 4. Pages
 
-**OSes:** iOS, MacOS
+**<abbr title="Operating System">OS</abbr>:** iOS, MacOS
 
 Bitches using default docs app, I'm bitches.
 
@@ -250,7 +248,7 @@ Do what you may.
 
 ### 5. Qt Notes
 
-**OSes:** Android
+**<abbr title="Operating System">OS</abbr>:** Android
 
 Really Kawaii app you can open "notebooks", decorate them and add to do lists and notes in them. The design and overall app is very minimal. I use it for more dedicated to do lists. 
 
@@ -258,7 +256,7 @@ The permissions are minimal. It asks for coarse location but it works fine when 
 
 The data of your notes are saved locally and are not moving with you when you download the app on a new phone.
 
-It's not FOSS though, IIRC. If you want FOSS, use Noto. :)
+It's not <abbr title="Free Open Source Software">FOSS</abbr> though, <abbr title="If I Remember Correctly">IIRC</abbr>. If you want <abbr title="Free Open Source Software">FOSS</abbr>, use Noto. :)
 
 ----
 
@@ -268,13 +266,13 @@ It's not FOSS though, IIRC. If you want FOSS, use Noto. :)
 
 ### 1. CloudStream
 
-**OSes:** Android.
+**<abbr title="Operating System">OS</abbr>:** Android.
 
 It's a nice looking app with several instances where you can watch anime and K-dramas. I think I saw western TV shows there too. It's nice and free to use. It's also Open Source, so check it out and decide for yourself.
 
 ### 2. LibreTube
 
-**OSes:** Android.
+**<abbr title="Operating System">OS</abbr>:** Android.
 
 A beautiful app that runs Piped instances. For me it's much nicer than PipeTube. It looks nicer, you can block sponsorships and it looks like a genuine modern YouTube app. I usually open videos I kept on Watch Later on my YouTube app through LibreTube, making the experience easy.
 
@@ -282,7 +280,7 @@ Instances can crash at times though, which can make the experience annoying.
 
 ### 3. Piped on The Browser
 
-**OSes:** Everywhere that runs a browser.
+**<abbr title="Operating System">OS</abbr>:** Everywhere that runs a browser.
 
 If you want a smoother YouTube experience, I recommend using your favourite Piped instance on the browser. You gotta download the SponsorBlock extention if you wanna skip sponsorships though.
 
@@ -290,30 +288,30 @@ If you want a smoother YouTube experience, I recommend using your favourite Pipe
 
 ## More Apps
 
-### 1. MuPDF Viewer
+### 1. Mu<abbr title="Portable Document Format">PDF</abbr> Viewer
 
-**OSes:** Android.
+**<abbr title="Operating System">OS</abbr>:** Android.
 
-A FOSS PDF Viewer. That's it. You can view PDFs in it.
+A <abbr title="Free Open Source Software">FOSS</abbr> <abbr title="Portable Document Format">PDF</abbr> Viewer. That's it. You can view <abbr title="Portable Document Format">PDF</abbr>s in it.
 
 ### 2. Paseo
 
-**OSes:** Android.
+**<abbr title="Operating System">OS</abbr>:** Android.
 
 You can count steps and be happy. I use it everyday to count my steps, nice and easy brainer.
 
 ### 3. Proton Mail
 
-**OSes:** Android, iOS, your browser, any email client you have.
+**<abbr title="Operating System">OS</abbr>:** Android, iOS, your browser, any email client you have.
 
 Pretty and private email service. I'm sure you heard about Proton. If you didn't switch from G-mail yet and you want a fast experience without ads, just open an account. Really, you won't regret it. Look how pretty Proton is.
 
-### 4. Proton VPN
+### 4. Proton <abbr title="Virtual Private Network">VPN</abbr>
 
-**OSes:** Android, iOS, Linux, MacOS, Windows.
+**<abbr title="Operating System">OS</abbr>:** Android, iOS, Linux, MacOS, Windows.
 
-Do you need a VPN? That leaks everywhere unless it's iOS? Do you need a VPN with Netshield to block ads and trackers and Secure Core? Well, ProtonVPN is your friend!
+Do you need a <abbr title="Virtual Private Network">VPN</abbr>? That leaks everywhere unless it's iOS? Do you need a <abbr title="Virtual Private Network">VPN</abbr> with Netshield to block ads and trackers and Secure Core? Well, Proton<abbr title="Virtual Private Network">VPN</abbr> is your friend!
 
-In case you don't know what a VPN is, you probably do but I wanna sound smart. VPN stands for Virtual Private Network. It sends your internet traffic to the VPN provider instead of your internet provider. Yes, you can watch Netflix all over the world, as long as Netflix works there and the DNS doesn't leak.
+In case you don't know what a <abbr title="Virtual Private Network">VPN</abbr> is, you probably do but I wanna sound smart. <abbr title="Virtual Private Network">VPN</abbr> stands for Virtual Private Network. It sends your internet traffic to the <abbr title="Virtual Private Network">VPN</abbr> provider instead of your internet provider. Yes, you can watch Netflix all over the world, as long as Netflix works there and the <abbr title=" Domain Name System">DNS</abbr> doesn't leak.
 
-Make sure you use VPN when connected to free WiFi! 
+Make sure you use <abbr title="Virtual Private Network">VPN</abbr> when connected to free WiFi! 
