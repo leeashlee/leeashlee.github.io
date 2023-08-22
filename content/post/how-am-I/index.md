@@ -17,7 +17,9 @@ tags:
 ---
 
 I'm alive, I think. I'm mostly bored and lonely but that's normal.
+
 I'm fine, except feeling aimless and lonely. Mostly frustrated I can't beat Sisters VS Sisters final boss and too lazy to grind! >:
+
 Cheat Engine doesn't work either so that's sad. ):
 
 Off I go to figure out Cheat Engine and run Neptunia! :)
