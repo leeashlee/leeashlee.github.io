@@ -2,8 +2,8 @@
 title: Hello everyone!
 description: I know y'all didn't miss me nor care about me, but hey, for the one person who do.
 slug: how-am-I-doing
-date: 2023-08-10 00:00:00+0000
-image: 
+date: 2023-08-22 00:00:00+0000
+image: cover.jpg
 categories:
     - Rambles
 
