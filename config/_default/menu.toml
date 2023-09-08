@@ -22,3 +22,11 @@ url = "https://matrix.to/#/@ashleehee:beeper.com"
 
 [social.params]
 icon = "brand-matrix"
+
+[[social]]
+identifier = "rss"
+name = "RSS reader"
+url = "https://rss.app/feeds/kLlhruVQVNw3NQg5.xml"
+
+[social.params]
+icon = "brand-rss"
