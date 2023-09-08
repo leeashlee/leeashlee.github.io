@@ -26,7 +26,7 @@ icon = "brand-matrix"
 [[social]]
 identifier = "rss"
 name = "RSS reader"
-url = "https://rss.app/feeds/kLlhruVQVNw3NQg5.xml"
+url = "https://www.ashleehee.com/index.xml"
 
 [social.params]
 icon = "brand-rss"
