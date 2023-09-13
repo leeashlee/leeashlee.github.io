@@ -5,8 +5,8 @@ slug: my-favourite-makeup-products-2023
 date: 2023-09-10 00:00:00+0000
 image: cover.jpg
 categories:
-    - rambles
-    - makeup
+    - Rambles
+    - Makeup
 tags:
     - everyday makeup routine
     - daily makeup routine
