@@ -2,7 +2,7 @@
 title: Sorry for lack of inactivity!
 description: For who ever reads it, thanks for checking out on me! :D
 slug: where-have-I-been
-date: 2023-09-06 00:00:00+0000
+date: 2023-12-06 00:00:00+0000
 image: cover.jpg
 categories:
     - Rambles
