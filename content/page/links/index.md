@@ -7,8 +7,12 @@ links:
     image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
   - title: Matrix.org
     description: Chat with me on Matrix, I don't bite that hard!
-    website: https://matrix.to/#/@ashleehee:beeper.com
+    website: https://matrix.to/#/@ashleebby:ashleehee.com
     image: https://matrix.org/images/matrix-favicon.svg
+  - title: Twitter (memos)
+    description: Check my self hosted "Twitter"! It's a gae microblog! xD
+    website: https://matrix.to/#/@ashleebby:ashleehee.com
+    image: https://svgshare.com/i/12yq.svg
   - title: Ao3
     description: Check my fics if you want, they're gaes.
     website: https://archiveofourown.org/users/noel_artist
