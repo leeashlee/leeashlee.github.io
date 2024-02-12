@@ -11,7 +11,7 @@ links:
     image: https://matrix.org/images/matrix-favicon.svg
   - title: Twitter (memos)
     description: Check my self hosted "Twitter"! It's a gae microblog! xD
-    website: https://matrix.to/#/@ashleebby:ashleehee.com
+    website: https://memos.ashleehee.com/
     image: https://svgshare.com/i/12yq.svg
   - title: Ao3
     description: Check my fics if you want, they're gaes.
