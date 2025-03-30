@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>mostly FOSS on AshLee&#39;s Random Blog Space</title>
+        <link>https://www.ashleehee.com/tags/mostly-foss/</link>
+        <description>Recent content in mostly FOSS on AshLee&#39;s Random Blog Space</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Thu, 10 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://www.ashleehee.com/tags/mostly-foss/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Privacy/security apps for daily use that are actually pretty?!</title>
+        <link>https://www.ashleehee.com/p/my-privacy-and-security-apps/</link>
+        <pubDate>Thu, 10 Aug 2023 00:00:00 +0000</pubDate>
+        
+        <guid>https://www.ashleehee.com/p/my-privacy-and-security-apps/</guid>
+        <description>&lt;img src="https://www.ashleehee.com/p/my-privacy-and-security-apps/cover.jpg" alt="Featured image of post Privacy/security apps for daily use that are actually pretty?!" /&gt;&lt;p&gt;you&amp;rsquo;ve probably didn&amp;rsquo;t use some private/&lt;abbr title=&#34;Free Open Source Software&#34;&gt;FOSS&lt;/abbr&gt; apps and switched to a less private alternative. The &lt;abbr title=&#34;User Experience&#34;&gt;UX&lt;/abbr&gt; isn&amp;rsquo;t quite as friendly than the apps you tried to replace, the &lt;abbr title=&#34;User Interface&#34;&gt;UI&lt;/abbr&gt; is outdated at best and doesn&amp;rsquo;t work for you at worst.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;ve been looking left and right for over a year to find apps that are private, secured and with a minimal and modern look. I&amp;rsquo;m not much into retro design unless it&amp;rsquo;s Windows XP aesthetics or KDE.&lt;/p&gt;
+&lt;p&gt;Most is open source, but not all. The closed source don&amp;rsquo;t take information beside what you give and they work locally.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m not a security expert or anything of the sort, I just get my information from PrivacyGuides recommendations, alternativeto.net and my own trial and errors.&lt;/p&gt;
+&lt;p&gt;If you want to further learn about privacy and security, please check PrivacyGuides and Privsec!&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Horray!&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;No sharing links to not start fights, many can be found on F-Droid, most if not all can be found on the play-store.&lt;/p&gt;
+&lt;p&gt;Besides my Android phone, which I use 99% of the time, I use a Mac and an iPad. As you can see, I didn&amp;rsquo;t get too far there, &lt;abbr title=&#34;Laugh out Loud&#34;&gt;LOL&lt;/abbr&gt;.&lt;/p&gt;
+&lt;p&gt;For design tools, &lt;a class=&#34;link&#34; href=&#34;https://leeashlee.github.io/p/my-design-and-art-apps/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;tools&#34;&gt;Tools&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Things I use to operate my system&lt;/em&gt;&lt;/p&gt;
+&lt;h3 id=&#34;1-shizuku&#34;&gt;1. Shizuku&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;&lt;abbr title=&#34;Operating System&#34;&gt;OS&lt;/abbr&gt;:&lt;/strong&gt; Android.&lt;/p&gt;
+&lt;p&gt;Shizuku is an app that helps you run &lt;abbr title=&#34;Android Debug Bridge&#34;&gt;ADB&lt;/abbr&gt; through your phone on terminal apps such as Termux. You do need developer settings on to make it work, but it&amp;rsquo;s easy as pie to turn it on. I don&amp;rsquo;t use it for using &lt;abbr title=&#34;Android Debug Bridge&#34;&gt;ADB&lt;/abbr&gt; on my phone, but I use it to operate other tools I use all the time. If you use &lt;abbr title=&#34;Android Debug Bridge&#34;&gt;ADB&lt;/abbr&gt; a lot and are lazy to grab a PC, this app is for you. If you wanna use one the apps that uses Shizuku to run, this app is for you. If you love cats, this app is for you.&lt;/p&gt;
+&lt;h3 id=&#34;2-adguard&#34;&gt;2. Adguard&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;&lt;abbr title=&#34;Operating System&#34;&gt;OS&lt;/abbr&gt;:&lt;/strong&gt; Android, MacOS, iOS, Windows, Linux. (Works on browser too.)&lt;/p&gt;
+&lt;p&gt;Adguard is a &lt;abbr title=&#34; Domain Name System&#34;&gt;DNS&lt;/abbr&gt; blocking trackers and ads. Without it I wouldn&amp;rsquo;t be alive right now. It&amp;rsquo;s encrypted, it&amp;rsquo;s simple, it&amp;rsquo;s cool. I use their &lt;abbr title=&#34; Domain Name System&#34;&gt;DNS&lt;/abbr&gt; address on Android (to keep my &lt;abbr title=&#34;Virtual Private Network&#34;&gt;VPN&lt;/abbr&gt; slot) and their Adguard app everywhere.&lt;/p&gt;
+&lt;h3 id=&#34;3-app-ops&#34;&gt;3. App Ops&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;&lt;abbr title=&#34;Operating System&#34;&gt;OS&lt;/abbr&gt;:&lt;/strong&gt; Android.&lt;/p&gt;
+&lt;p&gt;If there&amp;rsquo;s one app you must grab, grab this one with Shizuku. It uses Shizuku to operate, shows you permissions of all your apps, many permissions the Android settings doesn&amp;rsquo;t show you, you can put templates to disable permissions automatically everytime you download a new app, it shows you which permission an app used currently, clipboard monitor, usage monitor&amp;hellip;&lt;/p&gt;
+&lt;p&gt;It saves life for me by checking which permissions any app uses and to disable them. It also helps with the clipboard monitor, since Samsung sure loves to break features. I also disable access to read my clipboard for all my apps, giving me a bit more control.&lt;/p&gt;
+&lt;p&gt;I did pay for this app to use all it&amp;rsquo;s features and I don&amp;rsquo;t regret it one bit. Just give it a try, see if you like it.&lt;/p&gt;
+&lt;h3 id=&#34;4-caffeine&#34;&gt;4. Caffeine&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;&lt;abbr title=&#34;Operating System&#34;&gt;OS&lt;/abbr&gt;:&lt;/strong&gt; Android.&lt;/p&gt;
+&lt;p&gt;If you&amp;rsquo;re not running a custom &lt;abbr title=&#34;Read-only memory&#34;&gt;ROM&lt;/abbr&gt; because it&amp;rsquo;s Samsung and Samsung is a meme, yet you really miss using Caffeine when cooking or reading articles or using walkthroughs for games, I gotchu.&lt;/p&gt;
+&lt;p&gt;In case you don&amp;rsquo;t understand, Caffeine is something you can put on your notification menu and you can keep your phone from sleeping for an extended period of time.&lt;/p&gt;
+&lt;p&gt;Many &lt;abbr title=&#34;Read-only memory&#34;&gt;ROM&lt;/abbr&gt;s that use LineageOS as a base has Caffeine in them. However, you can download the same one and continue using Caffeine despite having a Samsung! You welcome!&lt;/p&gt;
+&lt;h3 id=&#34;5-abbr-titlesecure-digitalsdabbr-maid&#34;&gt;5. &lt;abbr title=&#34;Secure Digital&#34;&gt;SD&lt;/abbr&gt; Maid&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;&lt;abbr title=&#34;Operating System&#34;&gt;OS&lt;/abbr&gt;:&lt;/strong&gt; Android.&lt;/p&gt;
+&lt;p&gt;If you&amp;rsquo;re not familiar, &lt;abbr title=&#34;Secure Digital&#34;&gt;SD&lt;/abbr&gt; maid removes junk from your storage. &lt;abbr title=&#34;Secure Digital&#34;&gt;SD&lt;/abbr&gt; card &amp;amp; main storage. It can also remove junk from your apps that just keeps space on your phone for no reason.&lt;/p&gt;
+&lt;p&gt;This app has been around since 2011, early Android releases! Respect your eldery apps, &lt;abbr title=&#34;Laugh out Loud&#34;&gt;LOL&lt;/abbr&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;6-shelter&#34;&gt;6. Shelter&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;&lt;abbr title=&#34;Operating System&#34;&gt;OS&lt;/abbr&gt;:&lt;/strong&gt; Android.&lt;/p&gt;
+&lt;p&gt;Unless you run GrapheneOS and you can run sandboxed apps systemlessly through profiles. I really recommend Shelter. It opens a Work Profile on your phone, there you can shelter certain apps and test them.&lt;/p&gt;
+&lt;p&gt;It&amp;rsquo;s nice if you wanna sandbox certain apps and test their features or anything like that.&lt;/p&gt;
+&lt;h3 id=&#34;7-swift-backup&#34;&gt;7. Swift Backup&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;&lt;abbr title=&#34;Operating System&#34;&gt;OS&lt;/abbr&gt;:&lt;/strong&gt; Android.&lt;/p&gt;
+&lt;p&gt;Another app that uses Shizuku to operate. It&amp;rsquo;s an app that replaces Google One backup and backup your phone. You can run on schedule, backup your phone on an &lt;abbr title=&#34;Secure Digital&#34;&gt;SD&lt;/abbr&gt; card or on the cloud. It has several cloud options, including self host. I personally connected a mega account that only backup my phone. I also use an &lt;abbr title=&#34;Secure Digital&#34;&gt;SD&lt;/abbr&gt; card to have a local backup.&lt;/p&gt;
+&lt;p&gt;I really recommend it as a phone backup alternative. It&amp;rsquo;s solid. It&amp;rsquo;s one of my favourite apps.&lt;/p&gt;
+&lt;h3 id=&#34;8-untrack-me&#34;&gt;8. Untrack Me&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;&lt;abbr title=&#34;Operating System&#34;&gt;OS&lt;/abbr&gt;:&lt;/strong&gt; Android.&lt;/p&gt;
+&lt;p&gt;It&amp;rsquo;s a simple app that automatically opens links on their front-end instances. You can set on which browser you want the front-ended link to be opened.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;security-tools&#34;&gt;Security Tools&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;What I use to make my online life more secured.&lt;/em&gt;&lt;/p&gt;
+&lt;h3 id=&#34;1-bitwarden&#34;&gt;1. Bitwarden&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;&lt;abbr title=&#34;Operating System&#34;&gt;OS&lt;/abbr&gt;:&lt;/strong&gt; Android, Linux, iOS, MacOS, Windows and browser.&lt;/p&gt;
+&lt;p&gt;Personally, my preferable option out of the two password managers, it&amp;rsquo;s much more stable, you can put and save your password everywhere, has an awesome system of secure notes (which I use a lot. What is it with me and anything notes?), you can save credit card information, addresses, connect email aliases, get username randomization. Honestly, go download Bitwarden now, you won&amp;rsquo;t regret it. Easy to sign up, easy to use, &lt;abbr title=&#34;Free Open Source Software&#34;&gt;FOSS&lt;/abbr&gt;, and just really cool.&lt;/p&gt;
+&lt;h3 id=&#34;2-proton-pass&#34;&gt;2. Proton Pass&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;&lt;abbr title=&#34;Operating System&#34;&gt;OS&lt;/abbr&gt;:&lt;/strong&gt; Android, Linux(?), iOS, MacOS, Windows, Browsers.&lt;/p&gt;
+&lt;p&gt;A newer password manager and therefore less solid. I mostly use it for tests, I enjoy it the most on my iPad since it works the most smooth there. At browser and Android it&amp;rsquo;s 🫠. I like it for the email alias inside the system itself and the general design of the app. You can save notes and credit cards, but notes are way less advanced than Bitwarden so I barely use them.&lt;/p&gt;
+&lt;p&gt;Still, I enjoy keeping my passwords inside Proton Pass because it has email alias systemlessly (therefore, less parties to trust) and because it looks nice and most of the time work.&lt;/p&gt;
+&lt;p&gt;If you&amp;rsquo;re not patient testing shit out like me, use Bitwarden.&lt;/p&gt;
+&lt;h3 id=&#34;3-picocrypt&#34;&gt;3. Picocrypt&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;&lt;abbr title=&#34;Operating System&#34;&gt;OS&lt;/abbr&gt;:&lt;/strong&gt; Linux, MacOS, Windows&lt;/p&gt;
+&lt;p&gt;I don&amp;rsquo;t know about you, but I still use &lt;abbr title=&#34;Secure Digital&#34;&gt;SD&lt;/abbr&gt; cards and flash drives outside of dual booting. Encrypting certain files is important to me. Besides feeling like a secret agent, I like to keep certain files hidden.&lt;/p&gt;
+&lt;p&gt;Picocrypt is a simple app that encrypts files you want wherever you want. It&amp;rsquo;s simple and minimal. If you need to encrypt files, instead of encrypting a certain drive, I recommend this.&lt;/p&gt;
+&lt;h3 id=&#34;4-yubico-authenticator&#34;&gt;4. Yubico Authenticator&lt;/h3&gt;
+&lt;p&gt;I don&amp;rsquo;t know about you, but &lt;abbr title=&#34;2 Factor Authentication&#34;&gt;2FA&lt;/abbr&gt;s app annoys me. It&amp;rsquo;s hard to restore them if you don&amp;rsquo;t have the original device with you and are just pain 90% of the times. Sure, I can use my password managers to store my &lt;abbr title=&#34;2 Factor Authentication&#34;&gt;2FA&lt;/abbr&gt;s, but it always felt hard to understand and hard to navigate.&lt;/p&gt;
+&lt;p&gt;As a person who loves physical things, Yubikey really hit that spot for me. It&amp;rsquo;s simple, easy, and you can carry it everywhere. Yubico Authenticator is a &lt;abbr title=&#34;2 Factor Authentication&#34;&gt;2FA&lt;/abbr&gt; app, but it operates with your Yubikey instead of your phone, which makes it easier for me to control if I suddenly switch phones or the app got uninstalled.&lt;/p&gt;
+&lt;p&gt;If you&amp;rsquo;re the kind of person who loses keys a lot, or a regular human being, get a Yubikey spare. I&amp;rsquo;m sure you can connect another key to the &lt;abbr title=&#34;2 Factor Authentication&#34;&gt;2FA&lt;/abbr&gt; authenticator.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m working towards getting a spare key, so let&amp;rsquo;s hope nothing will happen to my Yubikey&amp;mdash;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;browsers-proceed-to-make-the-biggest-browser-war&#34;&gt;Browsers (Proceed to make the biggest browser war)&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;I like using default browsers unless it&amp;rsquo;s Google Chrome or Safari on MacOS. Every browser is fine as long as you have patience to tweek settings everytime. If you like foxes, use Firefox, if you like super heroes, use Tor, if you&amp;rsquo;re feeling corageous, use Brave, if you&amp;rsquo;re feeling edgy, use Edge, if you wanna go to the Safari and you have iOS, use Safari. You welcome.&lt;/em&gt;&lt;/p&gt;
+&lt;h3 id=&#34;1-brave&#34;&gt;1. Brave&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;&lt;abbr title=&#34;Operating System&#34;&gt;OS&lt;/abbr&gt;:&lt;/strong&gt; Android, iOS (Safari in disguise), Linux, MacOS, Windows.&lt;/p&gt;
+&lt;p&gt;It&amp;rsquo;s my day to day browser on Android and Mac, I really enjoy it. It&amp;rsquo;s one of the best chromium browsers in terms of privacy. I don&amp;rsquo;t mind the crypto that much, you can opt out of it.&lt;/p&gt;
+&lt;p&gt;The &lt;abbr title=&#34;Chief executive officer&#34;&gt;CEO&lt;/abbr&gt; slightly bothers me but that&amp;rsquo;s why I don&amp;rsquo;t use Brave everywhere and cut it every way I can.&lt;/p&gt;
+&lt;h3 id=&#34;2-edge&#34;&gt;2. Edge&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;&lt;abbr title=&#34;Operating System&#34;&gt;OS&lt;/abbr&gt;:&lt;/strong&gt; Windows.&lt;/p&gt;
+&lt;p&gt;My go to browser on Windows at school or my Virtual Machine.&lt;/p&gt;
+&lt;h3 id=&#34;3-firefox&#34;&gt;3. Firefox&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;&lt;abbr title=&#34;Operating System&#34;&gt;OS&lt;/abbr&gt;:&lt;/strong&gt; Android, iOS (Safari in disguise), Linux, MacOS, Windows.&lt;/p&gt;
+&lt;p&gt;I like Firefox, I mostly use it on Linux but I still like it. I used to be a regular Firefox user, and switched for unknown reason to Chromium.&lt;/p&gt;
+&lt;p&gt;Firefox on Android isn&amp;rsquo;t the best, so use a different browser on Android.&lt;/p&gt;
+&lt;h3 id=&#34;4-safari&#34;&gt;4. Safari&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;&lt;abbr title=&#34;Operating System&#34;&gt;OS&lt;/abbr&gt;:&lt;/strong&gt; iOS, MacOS&lt;/p&gt;
+&lt;p&gt;I only use on my iPad because it&amp;rsquo;s actually pleasant there. I don&amp;rsquo;t vibe for Safari in my Mac for some reason, the minimal design doesn&amp;rsquo;t work for me on my Mac as much as it does on iPad.&lt;/p&gt;
+&lt;p&gt;On iOS every browser is Safari apparently, so I just stick to the original. You can use &lt;abbr title=&#34;Duck Duck Go&#34;&gt;DDG&lt;/abbr&gt; as a default search so that&amp;rsquo;s nice.&lt;/p&gt;
+&lt;h3 id=&#34;5-setter&#34;&gt;5. Setter&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;&lt;abbr title=&#34;Operating System&#34;&gt;OS&lt;/abbr&gt;:&lt;/strong&gt; Android.&lt;/p&gt;
+&lt;p&gt;I use Setter when I need anonymous Google search or I need translation in various translation programs for comparison. It&amp;rsquo;s not really a browser, just a way to translate across all engines and search across various search engines. I recommend it for those reasons.&lt;/p&gt;
+&lt;h3 id=&#34;6-tor-browser&#34;&gt;6. Tor Browser&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;&lt;abbr title=&#34;Operating System&#34;&gt;OS&lt;/abbr&gt;:&lt;/strong&gt; Android, Linux, Windows.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m not too sure if Tor Browser runs on Apple, so please let me know. I use the browser itself on Android while I use Tor on Brave for the rest.&lt;/p&gt;
+&lt;p&gt;I don&amp;rsquo;t use it to access the dark web, at least most of the time. I use Tor when I want to keep anonymous and search certain things or open links from others.&lt;/p&gt;
+&lt;p&gt;If you have certain needs to be anonymous or you wanna be safe when opening links online, I recommend downloading Tor or use the Tor tab on Brave Browser.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;note-writing-and-document-writing&#34;&gt;Note Writing and Document Writing&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;I don&amp;rsquo;t use a lot of noteapps, you just use too less. &amp;gt;:)&lt;/em&gt;&lt;/p&gt;
+&lt;h3 id=&#34;1-ia-writer&#34;&gt;1. iA Writer&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;&lt;abbr title=&#34;Operating System&#34;&gt;OS&lt;/abbr&gt;:&lt;/strong&gt; Android, iOS, MacOS, Windows.&lt;/p&gt;
+&lt;p&gt;I actually write this guide through iA writer! I&amp;rsquo;m a writer and it helps me a lot with writing stories, &lt;abbr title=&#34;Laugh out Loud&#34;&gt;LOL&lt;/abbr&gt;. It&amp;rsquo;s a Markdown writing tool with minimal design and distractions. You can write in device, share it to cloud, or write online anonymously through online collaboration. Online collaboration doesn&amp;rsquo;t add things directly in your original doc in device, but rather, once you stop the online collaboration, it saves you a new file in your device.&lt;/p&gt;
+&lt;p&gt;I personally only use on Android and through online collaboration because buying 2 more versions for iOS and MacOS is rough for me. &lt;em&gt;Gotta save for those dolls, y&amp;rsquo;know?&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;It doesn&amp;rsquo;t have any crazy permissions on Android. There is contacts permission but it works fine with the permission denied. If you wanna keep safe, block internet access, but &lt;abbr title=&#34;I Don&#39;t Know&#34;&gt;IDK&lt;/abbr&gt; if you&amp;rsquo;ll be able to use Online Collaboration.&lt;/p&gt;
+&lt;h3 id=&#34;2-goodnotes&#34;&gt;2. Goodnotes&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;&lt;abbr title=&#34;Operating System&#34;&gt;OS&lt;/abbr&gt;:&lt;/strong&gt; iOS, MacOS, Android, Windows.&lt;/p&gt;
+&lt;p&gt;I use Goodnotes on my iPad to write my school-notes. It&amp;rsquo;s not &lt;abbr title=&#34;Free Open Source Software&#34;&gt;FOSS&lt;/abbr&gt;, but their privacy policy isn&amp;rsquo;t awful. I&amp;rsquo;m happy they give a &lt;abbr title=&#34;Too Long Don&#39;t Read&#34;&gt;TLDR&lt;/abbr&gt; of sorts at the beginning of their policy.&lt;/p&gt;
+&lt;p&gt;According to their &lt;a class=&#34;link&#34; href=&#34;https://www.goodnotes.com/privacy-policy&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;privacy policy&lt;/a&gt;:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;We never sell or rent your data or notebook content to third parties.&lt;/li&gt;
+&lt;li&gt;We don&amp;rsquo;t access or collect data from your notebooks or documents without your permission.&lt;/li&gt;
+&lt;li&gt;We use limited, anonymized data to improve our services and meet legal obligations.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;We only share your data:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;When you explicitly give us permission to do so and with the third parties specifically identified in this policy.&lt;/li&gt;
+&lt;li&gt;To protect the rights, property, or safety of us, our customers, or others.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;What we collect:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Basic personal data (name, email, country) when you register.&lt;/li&gt;
+&lt;li&gt;Anonymous statistical data (crash frequency, feature usage) to enhance the app experience.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;If you DO mind any of those terms, feel free to skip that one. Personally, I don&amp;rsquo;t mind. I wanted to add Goodnotes here because it&amp;rsquo;s something I genuinely use for University and I like it. If there&amp;rsquo;s any alternative of &lt;abbr title=&#34;Free Open Source Software&#34;&gt;FOSS&lt;/abbr&gt; notebook apps you can draw inside/use your apple pencil, please let me know!&lt;/p&gt;
+&lt;h3 id=&#34;3-noto&#34;&gt;3. Noto&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;&lt;abbr title=&#34;Operating System&#34;&gt;OS&lt;/abbr&gt;:&lt;/strong&gt; Android.&lt;/p&gt;
+&lt;p&gt;I use this app to take quick notes and write random story ideas, thoughts, lyrics and projects I want to do. This app is &lt;abbr title=&#34;Free Open Source Software&#34;&gt;FOSS&lt;/abbr&gt;. The data is kept locally, I keep the data on my &lt;abbr title=&#34;Secure Digital&#34;&gt;SD&lt;/abbr&gt; card so I could redownload it on Noto once I&amp;rsquo;ll transfer to a different phone. There&amp;rsquo;s no automatic backup so you gotta remember to do so.&lt;/p&gt;
+&lt;h3 id=&#34;4-pages&#34;&gt;4. Pages&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;&lt;abbr title=&#34;Operating System&#34;&gt;OS&lt;/abbr&gt;:&lt;/strong&gt; iOS, MacOS&lt;/p&gt;
+&lt;p&gt;Bitches using default docs app, I&amp;rsquo;m bitches.&lt;/p&gt;
+&lt;p&gt;You can use locally or connect it to iCloud, which encrypts your data if you want to. I do connect to iCloud for seamless connection between my Mac and iOS. This is how I traditionally edit my docs when I&amp;rsquo;m done with writing through iA Writer on Android or Online Collaboration.&lt;/p&gt;
+&lt;p&gt;Do what you may.&lt;/p&gt;
+&lt;h3 id=&#34;5-qt-notes&#34;&gt;5. Qt Notes&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;&lt;abbr title=&#34;Operating System&#34;&gt;OS&lt;/abbr&gt;:&lt;/strong&gt; Android&lt;/p&gt;
+&lt;p&gt;Really Kawaii app you can open &amp;ldquo;notebooks&amp;rdquo;, decorate them and add to do lists and notes in them. The design and overall app is very minimal. I use it for more dedicated to do lists.&lt;/p&gt;
+&lt;p&gt;The permissions are minimal. It asks for coarse location but it works fine when not allowing it.&lt;/p&gt;
+&lt;p&gt;The data of your notes are saved locally and are not moving with you when you download the app on a new phone.&lt;/p&gt;
+&lt;p&gt;It&amp;rsquo;s not &lt;abbr title=&#34;Free Open Source Software&#34;&gt;FOSS&lt;/abbr&gt; though, &lt;abbr title=&#34;If I Remember Correctly&#34;&gt;IIRC&lt;/abbr&gt;. If you want &lt;abbr title=&#34;Free Open Source Software&#34;&gt;FOSS&lt;/abbr&gt;, use Noto. :)&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;video-streaming&#34;&gt;Video Streaming&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;I don&amp;rsquo;t watch TV or Netflix, but I do like to watch YouTube and when I have the attention span: Anime and K-Dramas.&lt;/em&gt;&lt;/p&gt;
+&lt;h3 id=&#34;1-cloudstream&#34;&gt;1. CloudStream&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;&lt;abbr title=&#34;Operating System&#34;&gt;OS&lt;/abbr&gt;:&lt;/strong&gt; Android.&lt;/p&gt;
+&lt;p&gt;It&amp;rsquo;s a nice looking app with several instances where you can watch anime and K-dramas. I think I saw western TV shows there too. It&amp;rsquo;s nice and free to use. It&amp;rsquo;s also Open Source, so check it out and decide for yourself.&lt;/p&gt;
+&lt;h3 id=&#34;2-libretube&#34;&gt;2. LibreTube&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;&lt;abbr title=&#34;Operating System&#34;&gt;OS&lt;/abbr&gt;:&lt;/strong&gt; Android.&lt;/p&gt;
+&lt;p&gt;A beautiful app that runs Piped instances. For me it&amp;rsquo;s much nicer than PipeTube. It looks nicer, you can block sponsorships and it looks like a genuine modern YouTube app. I usually open videos I kept on Watch Later on my YouTube app through LibreTube, making the experience easy.&lt;/p&gt;
+&lt;p&gt;Instances can crash at times though, which can make the experience annoying.&lt;/p&gt;
+&lt;h3 id=&#34;3-piped-on-the-browser&#34;&gt;3. Piped on The Browser&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;&lt;abbr title=&#34;Operating System&#34;&gt;OS&lt;/abbr&gt;:&lt;/strong&gt; Everywhere that runs a browser.&lt;/p&gt;
+&lt;p&gt;If you want a smoother YouTube experience, I recommend using your favourite Piped instance on the browser. You gotta download the SponsorBlock extention if you wanna skip sponsorships though.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;more-apps&#34;&gt;More Apps&lt;/h2&gt;
+&lt;h3 id=&#34;1-muabbr-titleportable-document-formatpdfabbr-viewer&#34;&gt;1. Mu&lt;abbr title=&#34;Portable Document Format&#34;&gt;PDF&lt;/abbr&gt; Viewer&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;&lt;abbr title=&#34;Operating System&#34;&gt;OS&lt;/abbr&gt;:&lt;/strong&gt; Android.&lt;/p&gt;
+&lt;p&gt;A &lt;abbr title=&#34;Free Open Source Software&#34;&gt;FOSS&lt;/abbr&gt; &lt;abbr title=&#34;Portable Document Format&#34;&gt;PDF&lt;/abbr&gt; Viewer. That&amp;rsquo;s it. You can view &lt;abbr title=&#34;Portable Document Format&#34;&gt;PDF&lt;/abbr&gt;s in it.&lt;/p&gt;
+&lt;h3 id=&#34;2-paseo&#34;&gt;2. Paseo&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;&lt;abbr title=&#34;Operating System&#34;&gt;OS&lt;/abbr&gt;:&lt;/strong&gt; Android.&lt;/p&gt;
+&lt;p&gt;You can count steps and be happy. I use it everyday to count my steps, nice and easy brainer.&lt;/p&gt;
+&lt;h3 id=&#34;3-proton-mail&#34;&gt;3. Proton Mail&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;&lt;abbr title=&#34;Operating System&#34;&gt;OS&lt;/abbr&gt;:&lt;/strong&gt; Android, iOS, your browser, any email client you have.&lt;/p&gt;
+&lt;p&gt;Pretty and private email service. I&amp;rsquo;m sure you heard about Proton. If you didn&amp;rsquo;t switch from G-mail yet and you want a fast experience without ads, just open an account. Really, you won&amp;rsquo;t regret it. Look how pretty Proton is.&lt;/p&gt;
+&lt;h3 id=&#34;4-proton-abbr-titlevirtual-private-networkvpnabbr&#34;&gt;4. Proton &lt;abbr title=&#34;Virtual Private Network&#34;&gt;VPN&lt;/abbr&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;&lt;abbr title=&#34;Operating System&#34;&gt;OS&lt;/abbr&gt;:&lt;/strong&gt; Android, iOS, Linux, MacOS, Windows.&lt;/p&gt;
+&lt;p&gt;Do you need a &lt;abbr title=&#34;Virtual Private Network&#34;&gt;VPN&lt;/abbr&gt;? That leaks everywhere unless it&amp;rsquo;s iOS? Do you need a &lt;abbr title=&#34;Virtual Private Network&#34;&gt;VPN&lt;/abbr&gt; with Netshield to block ads and trackers and Secure Core? Well, Proton&lt;abbr title=&#34;Virtual Private Network&#34;&gt;VPN&lt;/abbr&gt; is your friend!&lt;/p&gt;
+&lt;p&gt;In case you don&amp;rsquo;t know what a &lt;abbr title=&#34;Virtual Private Network&#34;&gt;VPN&lt;/abbr&gt; is, you probably do but I wanna sound smart. &lt;abbr title=&#34;Virtual Private Network&#34;&gt;VPN&lt;/abbr&gt; stands for Virtual Private Network. It sends your internet traffic to the &lt;abbr title=&#34;Virtual Private Network&#34;&gt;VPN&lt;/abbr&gt; provider instead of your internet provider. Yes, you can watch Netflix all over the world, as long as Netflix works there and the &lt;abbr title=&#34; Domain Name System&#34;&gt;DNS&lt;/abbr&gt; doesn&amp;rsquo;t leak.&lt;/p&gt;
+&lt;p&gt;Make sure you use &lt;abbr title=&#34;Virtual Private Network&#34;&gt;VPN&lt;/abbr&gt; when connected to free WiFi!&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
