@@ -38,8 +38,8 @@ I decided to make a <abbr title="Do It Yourself">DIY</abbr> music player and pre
 ## What You Need?
 - A miniature phone (you can buy one for cheap on Aliexpress or Amazon)
 - Camera cover stickers
-- A <abbr title="Portable Computer">PC</abbr> (Windows/Linux/MacOS)
-- <abbr title="Universal Android Debloater">UAD</abbr> <abbr title="Graphical User Interface">GUI</abbr> installed on your <abbr title="Portable Computer">PC</abbr> - https://github.com/0x192/universal-android-debloater https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation/
+- A <abbr title="Personal Computer">PC</abbr> (Windows/Linux/MacOS)
+- <abbr title="Universal Android Debloater">UAD</abbr> <abbr title="Graphical User Interface">GUI</abbr> installed on your <abbr title="Personal Computer">PC</abbr> - https://github.com/0x192/universal-android-debloater https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation/
 
 ## Step 0 - Cover the device’s cameras.
 Just in case. My device runs Android 10 and I couldn’t take any risks so I covered the cameras with specialised stickers I ordered from Aliexpress. If I could, I would break the microphone, but alas.
@@ -49,7 +49,7 @@ Those phones come with basic apps installed and quite a bit of bloat. If you’v
 
 First step is to enable developer mode, clicking on build number several times should do the trick. Next, enter developer options and enable *USB debugging.*
 
-Second step, connect the device to your <abbr title="Portable Computer">PC</abbr> and open <abbr title="Universal Android Debloater">UAD</abbr> software, the name of the device should appear on top of the program alongside a list of apps you can uninstall/disable.
+Second step, connect the device to your <abbr title="Personal Computer">PC</abbr> and open <abbr title="Universal Android Debloater">UAD</abbr> software, the name of the device should appear on top of the program alongside a list of apps you can uninstall/disable.
 
 Read carefully through the list and uninstall unnecessary bloat. It takes a lot of trial and error to know which bloat might break your device, so don’t feel alarmed to uninstall and reinstall things.
 
