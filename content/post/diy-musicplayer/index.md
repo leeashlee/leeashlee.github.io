@@ -1,6 +1,6 @@
 ---
 title: How to Make a Jellyfin Music Player for Cheap
-description: Mostly because I miss [Symfonium](https://www.symfonium.app/) and iOS Jellyfin music apps sucks, IMO. 
+description: Mostly because I miss Symfonium and iOS Jellyfin music apps sucks, IMO. 
 slug: how-to-make-a-diy-musicplayer
 date: 2025-04-16 00:00:00+0000
 image: cover.jpg
