@@ -1,0 +1,752 @@
+<!DOCTYPE html>
+<html lang="en-us" dir="ltr">
+    <head><meta charset='utf-8'>
+<meta name='viewport' content='width=device-width, initial-scale=1'><meta name='description' content='Mostly because I miss Symfonium and iOS Jellyfin music apps sucks, IMO.'>
+<title>How to Make a Jellyfin Music Player for Cheap</title>
+
+<link rel='canonical' href='https://www.ashleehee.com/p/how-to-make-a-diy-musicplayer/'>
+
+<link rel="stylesheet" href="/scss/style.min.8e8379e92b1523830d8b873255c913b0eec3015c1ad8092f7c6845de7139a7f0.css"><meta property='og:title' content='How to Make a Jellyfin Music Player for Cheap'>
+<meta property='og:description' content='Mostly because I miss Symfonium and iOS Jellyfin music apps sucks, IMO.'>
+<meta property='og:url' content='https://www.ashleehee.com/p/how-to-make-a-diy-musicplayer/'>
+<meta property='og:site_name' content='AshLee&#39;s Random Blog Space'>
+<meta property='og:type' content='article'><meta property='article:section' content='Post' /><meta property='article:tag' content='Jellyfin music player cheap' /><meta property='article:tag' content='Cheap Jellyfin music player' /><meta property='article:tag' content='DIY Jellyfin music player' /><meta property='article:tag' content='Budget Jellyfin music player' /><meta property='article:tag' content='Make Jellyfin music player' /><meta property='article:tag' content='Jellyfin music streaming' /><meta property='article:tag' content='Jellyfin audio player' /><meta property='article:tag' content='Affordable music server client' /><meta property='article:tag' content='Old phone Jellyfin music player' /><meta property='article:tag' content='DIY home music server client' /><meta property='article:tag' content='Stream music from Jellyfin' /><meta property='article:tag' content='Free Jellyfin music player' /><meta property='article:tag' content='Turning an old phone into a Jellyfin music player' /><meta property='article:tag' content='Cheapest way to stream music from my Jellyfin server' /><meta property='article:tag' content='Step-by-step guide to making a low-cost Jellyfin music player' /><meta property='article:tag' content='Jellyfin music player setup for beginners' /><meta property='article:tag' content='Setting up a cheap Jellyfin audio streaming device' /><meta property='article:tag' content='Alternatives to expensive music streaming devices with Jellyfin' /><meta property='article:tag' content='Can I use an old tablet as a Jellyfin music player?' /><meta property='article:published_time' content='2025-04-16T00:00:00&#43;00:00'/><meta property='article:modified_time' content='2025-04-16T00:00:00&#43;00:00'/><meta property='og:image' content='https://www.ashleehee.com/p/how-to-make-a-diy-musicplayer/cover.jpg' />
+<meta name="twitter:title" content="How to Make a Jellyfin Music Player for Cheap">
+<meta name="twitter:description" content="Mostly because I miss Symfonium and iOS Jellyfin music apps sucks, IMO."><meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:image" content='https://www.ashleehee.com/p/how-to-make-a-diy-musicplayer/cover.jpg' />
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="manifest" href="/site.webmanifest">
+    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+    <meta name="msapplication-TileColor" content="#da532c">
+    <meta name="theme-color" content="#ffffff">
+
+    </head>
+    <body class="
+    article-page
+    ">
+    <script>
+        (function() {
+            const colorSchemeKey = 'StackColorScheme';
+            if(!localStorage.getItem(colorSchemeKey)){
+                localStorage.setItem(colorSchemeKey, "auto");
+            }
+        })();
+    </script><script>
+    (function() {
+        const colorSchemeKey = 'StackColorScheme';
+        const colorSchemeItem = localStorage.getItem(colorSchemeKey);
+        const supportDarkMode = window.matchMedia('(prefers-color-scheme: dark)').matches === true;
+
+        if (colorSchemeItem == 'dark' || colorSchemeItem === 'auto' && supportDarkMode) {
+            
+
+            document.documentElement.dataset.scheme = 'dark';
+        } else {
+            document.documentElement.dataset.scheme = 'light';
+        }
+    })();
+</script>
+<div class="container main-container flex on-phone--column extended"><aside class="sidebar left-sidebar sticky ">
+    <button class="hamburger hamburger--spin" type="button" id="toggle-menu" aria-label="Toggle Menu">
+        <span class="hamburger-box">
+            <span class="hamburger-inner"></span>
+        </span>
+    </button>
+
+    <header>
+        
+            
+            <figure class="site-avatar">
+                <a href="/">
+                
+                    
+                    
+                    
+                        
+                        <img src="/img/Kana%20chan_huf0562d53ff872907e4c6f62465066527_16955_300x0_resize_box_3.png" width="300"
+                            height="300" class="site-logo" loading="lazy" alt="Avatar">
+                    
+                
+                </a>
+                
+                    <span class="emoji">💖</span>
+                
+            </figure>
+            
+        
+        
+        <div class="site-meta">
+            <h1 class="site-name"><a href="/">AshLee&#39;s Random Blog Space</a></h1>
+            <h2 class="site-description">I like talking about security, dolls, arts and video games.</h2>
+        </div>
+    </header><ol class="social-menu">
+            
+                <li>
+                    <a 
+                        href='https://github.com/leeashlee'
+                        target="_blank"
+                        title="GitHub"
+                        rel="me"
+                    >
+                        
+                        
+                            <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-brand-github" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+  <path d="M9 19c-4.3 1.4 -4.3 -2.5 -6 -3m12 5v-3.5c0 -1 .1 -1.4 -.5 -2c2.8 -.3 5.5 -1.4 5.5 -6a4.6 4.6 0 0 0 -1.3 -3.2a4.2 4.2 0 0 0 -.1 -3.2s-1.1 -.3 -3.5 1.3a12.3 12.3 0 0 0 -6.2 0c-2.4 -1.6 -3.5 -1.3 -3.5 -1.3a4.2 4.2 0 0 0 -.1 3.2a4.6 4.6 0 0 0 -1.3 3.2c0 4.6 2.7 5.7 5.5 6c-.6 .6 -.6 1.2 -.5 2v3.5" />
+</svg>
+
+
+
+                        
+                    </a>
+                </li>
+            
+                <li>
+                    <a 
+                        href='https://matrix.to/#/@ashleehee:beeper.com'
+                        target="_blank"
+                        title="Matrix"
+                        rel="me"
+                    >
+                        
+                        
+                            <?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.7.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 520 520" style="enable-background:new 0 0 520 520;" stroke="currentColor" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke-width:30;stroke-linecap:round;stroke-linejoin:round;}
+	.st1{fill:none;stroke-width:20;stroke-linecap:round;stroke-linejoin:round;}
+</style>
+<path class="st0" d="M101.8,56H74.3v381.9h27.5"/>
+<path class="st1" d="M191.8,177.1v19.3h0.5c10.5-14.9,25.1-23.3,43.6-23.2c17.9,0.2,34.2,5.9,41.7,23.7c14-21.4,39.6-28.4,64-20.9
+	c13.1,3.8,22.2,11.8,27.3,24.7c7.4,14.6,2.6,101.9,3.8,119.1h-39.2c-0.2-9.8,0.5-86.8-0.5-94.4c-0.8-13.2-9.5-21.8-23.4-21.2
+	c-14.5-0.5-23.5,9.7-25.2,23.1c-1.9,7-0.7,83.6-1,92.6h-39.2c-0.1-8.8,0.3-86-0.3-92.6c-0.3-13.8-8.1-23.9-23.5-23
+	c-9.6,0.2-19.4,5.9-23.5,15.9c-5.9,9.7-1.9,87.6-3,99.8h-39.2V177.1H191.8z"/>
+<path class="st0" d="M425.9,437.9h27.5V56h-27.5"/>
+</svg>
+
+                        
+                    </a>
+                </li>
+            
+                <li>
+                    <a 
+                        href='https://www.ashleehee.com/index.xml'
+                        target="_blank"
+                        title="RSS reader"
+                        rel="me"
+                    >
+                        
+                        
+                            <?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.8.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 520 520" style="enable-background:new 0 0 520 520;" stroke="currentColor" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke-width:28;stroke-linecap:round;stroke-linejoin:round;}
+</style>
+<g id="lines__x003C_Group_x003E_">
+	<g id="circle">
+		<path class="st0" d="M170.6,401.8c0,28.4-23,51.5-51.5,51.5c-28.4,0-51.5-23-51.5-51.5c0-28.5,23.1-51.5,51.5-51.5
+			C147.5,350.3,170.6,373.3,170.6,401.8z"/>
+	</g>
+	<g>
+		<g>
+			<path class="st0" d="M64.3,258.9c0,7.1,5.6,13,12.7,13.3c50.9,2.6,85.1,21.1,116.6,52.8c31,31.1,50.7,75.7,54.1,116.2
+				c0.6,6.9,6.4,12.3,13.3,12.3h47.8c3.7,0,7.2-1.5,9.7-4.2c2.5-2.7,3.8-6.2,3.7-9.9C315.4,306.1,212,204.7,78.4,198
+				c-3.7-0.2-7.2,1.1-9.9,3.7c-2.7,2.5-4.2,6-4.2,9.7V258.9z"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			<path class="st0" d="M64.3,127.1c0,7.2,5.7,13.1,12.8,13.3C241,147,372.7,277,379.3,440.7c0.3,7.2,6.2,12.8,13.3,12.8h47.6
+				c3.6,0,7.1-1.5,9.6-4.1c2.5-2.6,3.9-6.1,3.7-9.7C446.7,233.4,284.6,73,78.2,66.1c-3.6-0.1-7.1,1.2-9.7,3.8
+				c-2.6,2.5-4.1,6-4.1,9.6V127.1z"/>
+		</g>
+	</g>
+</g>
+</svg>
+
+                        
+                    </a>
+                </li>
+            
+        </ol><ol class="menu" id="main-menu">
+        
+        
+        
+        <li >
+            <a href='/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-home" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <polyline points="5 12 3 12 12 3 21 12 19 12" />
+  <path d="M5 12v7a2 2 0 0 0 2 2h10a2 2 0 0 0 2 -2v-7" />
+  <path d="M9 21v-6a2 2 0 0 1 2 -2h2a2 2 0 0 1 2 2v6" />
+</svg>
+
+
+
+                
+                <span>Home</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/archives/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-archive" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <rect x="3" y="4" width="18" height="4" rx="2" />
+  <path d="M5 8v10a2 2 0 0 0 2 2h10a2 2 0 0 0 2 -2v-10" />
+  <line x1="10" y1="12" x2="14" y2="12" />
+</svg>
+
+
+
+                
+                <span>Archives</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/search/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-search" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="10" cy="10" r="7" />
+  <line x1="21" y1="21" x2="15" y2="15" />
+</svg>
+
+
+
+                
+                <span>Search</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/links/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-link" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <path d="M10 14a3.5 3.5 0 0 0 5 0l4 -4a3.5 3.5 0 0 0 -5 -5l-.5 .5" />
+  <path d="M14 10a3.5 3.5 0 0 0 -5 0l-4 4a3.5 3.5 0 0 0 5 5l.5 -.5" />
+</svg>
+
+
+
+                
+                <span>Links</span>
+            </a>
+        </li>
+        
+
+        <div class="menu-bottom-section">
+            
+            
+                <li id="dark-mode-toggle">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-toggle-left" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="8" cy="12" r="2" />
+  <rect x="2" y="6" width="20" height="12" rx="6" />
+</svg>
+
+
+
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-toggle-right" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="16" cy="12" r="2" />
+  <rect x="2" y="6" width="20" height="12" rx="6" />
+</svg>
+
+
+
+                    <span>Dark Mode</span>
+                </li>
+            
+        </div>
+    </ol>
+</aside>
+
+    <aside class="sidebar right-sidebar sticky">
+        
+            
+                
+    <section class="widget archives">
+        <div class="widget-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-hash" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <line x1="5" y1="9" x2="19" y2="9" />
+  <line x1="5" y1="15" x2="19" y2="15" />
+  <line x1="11" y1="4" x2="7" y2="20" />
+  <line x1="17" y1="4" x2="13" y2="20" />
+</svg>
+
+
+
+        </div>
+        <h2 class="widget-title section-title">Table of contents</h2>
+        
+        <div class="widget--toc">
+            <nav id="TableOfContents">
+  <ol>
+    <li><a href="#introduction">Introduction</a></li>
+    <li><a href="#what-you-need">What You Need?</a></li>
+    <li><a href="#step-0---cover-the-devices-cameras">Step 0 - Cover the device’s cameras.</a></li>
+    <li><a href="#step-1---debloating-the-miniature-phone">Step 1 - Debloating the miniature phone</a></li>
+    <li><a href="#step-2---install-symfoniumhttpswwwsymfoniumapp">Step 2 - Install <a href="https://www.symfonium.app/">Symfonium</a></a></li>
+    <li><a href="#step-3---set-symfoniumhttpswwwsymfoniumapp-up-and-enjoy-3">Step 3 - Set <a href="https://www.symfonium.app/">Symfonium</a> up and Enjoy! :3</a></li>
+    <li><a href="#bonus-step---download-nova-launcher">Bonus Step - Download Nova Launcher</a></li>
+    <li><a href="#summary">Summary</a></li>
+  </ol>
+</nav>
+        </div>
+    </section>
+
+            
+        
+    </aside>
+
+
+            <main class="main full-width">
+    <article class="has-image main-article">
+    <header class="article-header">
+        <div class="article-image">
+            <a href="/p/how-to-make-a-diy-musicplayer/">
+                <img src="/p/how-to-make-a-diy-musicplayer/cover_hu6445fc246babc347dc9f47698f32366b_606210_800x0_resize_q75_box.jpg"
+                        srcset="/p/how-to-make-a-diy-musicplayer/cover_hu6445fc246babc347dc9f47698f32366b_606210_800x0_resize_q75_box.jpg 800w, /p/how-to-make-a-diy-musicplayer/cover_hu6445fc246babc347dc9f47698f32366b_606210_1600x0_resize_q75_box.jpg 1600w"
+                        width="800" 
+                        height="533" 
+                        loading="lazy"
+                        alt="Featured image of post How to Make a Jellyfin Music Player for Cheap" />
+                
+            </a>
+        </div>
+    
+
+    <div class="article-details">
+    
+    <header class="article-category">
+        
+            <a href="/categories/security/" style="background-color: #00afb9; color: #fff;">
+                Security
+            </a>
+        
+    </header>
+    
+
+    <div class="article-title-wrapper">
+        <h2 class="article-title">
+            <a href="/p/how-to-make-a-diy-musicplayer/">How to Make a Jellyfin Music Player for Cheap</a>
+        </h2>
+    
+        
+        <h3 class="article-subtitle">
+            Mostly because I miss Symfonium and iOS Jellyfin music apps sucks, IMO.
+        </h3>
+        
+    </div>
+
+    
+    
+    
+    
+    <footer class="article-time">
+        
+            <div>
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-calendar-time" width="56" height="56" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <path d="M11.795 21h-6.795a2 2 0 0 1 -2 -2v-12a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v4" />
+  <circle cx="18" cy="18" r="4" />
+  <path d="M15 3v4" />
+  <path d="M7 3v4" />
+  <path d="M3 11h16" />
+  <path d="M18 16.496v1.504l1 1" />
+</svg>
+                <time class="article-time--published">Apr 16, 2025</time>
+            </div>
+        
+
+        
+            <div>
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-clock" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="12" r="9" />
+  <polyline points="12 7 12 12 15 15" />
+</svg>
+
+
+
+                <time class="article-time--reading">
+                    4 minute read
+                </time>
+            </div>
+        
+    </footer>
+    
+
+    
+</div>
+
+</header>
+
+    <section class="article-content">
+    
+    
+    <h2 id="introduction">Introduction</h2>
+<p>You might call me impulsive and crazy, but one of the only things I miss from Android is <a class="link" href="https://www.symfonium.app/"  target="_blank" rel="noopener"
+    >Symfonium</a>, it’s the best music player app for people who self host. It supports Jellyfin and Subsonic and local music and is one of the few music players that feels <em>complete.</em> <abbr title="iPhone Operating System">iOS</abbr> Jellyfin apps don’t compare to the experience <a class="link" href="https://www.symfonium.app/"  target="_blank" rel="noopener"
+    >Symfonium</a> gave me.</p>
+<p>I decided to make a <abbr title="Do It Yourself">DIY</abbr> music player and pretend it’s the early 2000’s! :) It’s pretty cheap so I hope you’ll make it! I do software tweaking to fit my needs but you don’t need to follow everything to make this work, do what serve you and makes you comfortable! :)</p>
+<h2 id="what-you-need">What You Need?</h2>
+<ul>
+<li>A miniature phone (you can buy one for cheap on Aliexpress or Amazon)</li>
+<li>Camera cover stickers</li>
+<li>A <abbr title="Personal Computer">PC</abbr> (Windows/Linux/MacOS)</li>
+<li><abbr title="Universal Android Debloater">UAD</abbr> <abbr title="Graphical User Interface">GUI</abbr> installed on your <abbr title="Personal Computer">PC</abbr> - <a class="link" href="https://github.com/0x192/universal-android-debloater"  target="_blank" rel="noopener"
+    >https://github.com/0x192/universal-android-debloater</a> <a class="link" href="https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation/"  target="_blank" rel="noopener"
+    >https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation/</a></li>
+</ul>
+<h2 id="step-0---cover-the-devices-cameras">Step 0 - Cover the device’s cameras.</h2>
+<p>Just in case. My device runs Android 10 and I couldn’t take any risks so I covered the cameras with specialised stickers I ordered from Aliexpress. If I could, I would break the microphone, but alas.</p>
+<h2 id="step-1---debloating-the-miniature-phone">Step 1 - Debloating the miniature phone</h2>
+<p>Those phones come with basic apps installed and quite a bit of bloat. If you’ve ordered something similar to mine, you’ve got 16GB of storage and 2GB of <abbr title="Random-access memory">RAM</abbr>. Yeah&hellip; Not a lot&hellip;</p>
+<p>First step is to enable developer mode, clicking on build number several times should do the trick. Next, enter developer options and enable <em>USB debugging.</em></p>
+<p>Second step, connect the device to your <abbr title="Personal Computer">PC</abbr> and open <abbr title="Universal Android Debloater">UAD</abbr> software, the name of the device should appear on top of the program alongside a list of apps you can uninstall/disable.</p>
+<p>Read carefully through the list and uninstall unnecessary bloat. It takes a lot of trial and error to know which bloat might break your device, so don’t feel alarmed to uninstall and reinstall things.</p>
+<p>After debloating your phone, put your phone on airplane mode and then connect to your wifi.</p>
+<p>Airplane mode enhances privacy by turning off all wireless connections on your phone, including cellular networks, Wi-Fi, Bluetooth, and <abbr title="Global Positioning System">GPS</abbr>. This prevents your device from transmitting or receiving any signals, thereby reducing the amount of data that can be collected about your location and activities.</p>
+<p>Airplane mode also saves battery life, you could solely waste it on listening to music! :)</p>
+<h2 id="step-2---install-symfoniumhttpswwwsymfoniumapp">Step 2 - Install <a class="link" href="https://www.symfonium.app/"  target="_blank" rel="noopener"
+    >Symfonium</a></h2>
+<p>I installed it through the Google Play store. I paid for the program so I wanted to have access to it. I also wanted automatic updates. It was a risk I was willing to take. You can download it through Aurora Store, if you want, and using Google Play Store and Google Services is against your <a class="link" href="https://www.privacyguides.org/en/basics/threat-modeling/"  target="_blank" rel="noopener"
+    >threat model</a>.</p>
+<h2 id="step-3---set-symfoniumhttpswwwsymfoniumapp-up-and-enjoy-3">Step 3 - Set <a class="link" href="https://www.symfonium.app/"  target="_blank" rel="noopener"
+    >Symfonium</a> up and Enjoy! :3</h2>
+<p>Open the app, follow the process in the screen and enjoy your new music player!! :) I also added <a class="link" href="https://www.symfonium.app/"  target="_blank" rel="noopener"
+    >Symfonium</a> widget on the home screen to give it more of a music player vibe.</p>
+<p>I connected a <abbr title="Micro Secure Digital">MicroSD</abbr> card to have more space for my music. I used 128GB, but I think 64GB or 32GB is enough. It’s up to how large your library is and how much music you wanna download.</p>
+<p>I highly recommend going through the settings on <a class="link" href="https://www.symfonium.app/"  target="_blank" rel="noopener"
+    >Symfonium</a> to tweak the interface and setup automatic downloads! :)</p>
+<p>Enjoy!~</p>
+<h2 id="bonus-step---download-nova-launcher">Bonus Step - Download Nova Launcher</h2>
+<p>I write this 24ish hours after initial setup! I got sick of the homepage: having apps scattered around all the home screen and I needed a better grid for my widgets.</p>
+<p>Nova launcher is super easy to install and use. I’ve been using them for years at this point. I put cute image as a widget + <a class="link" href="https://www.symfonium.app/"  target="_blank" rel="noopener"
+    >Symfonium</a> music player widget.</p>
+<p><img src="/p/how-to-make-a-diy-musicplayer/Screenshot_20250416-002047.png"
+	width="452"
+	height="960"
+	srcset="/p/how-to-make-a-diy-musicplayer/Screenshot_20250416-002047_hu3151b222e213a11e1124744c816d074c_587875_480x0_resize_box_3.png 480w, /p/how-to-make-a-diy-musicplayer/Screenshot_20250416-002047_hu3151b222e213a11e1124744c816d074c_587875_1024x0_resize_box_3.png 1024w"
+	loading="lazy"
+	
+		alt="The aesthetic I went with was retro cybercore with lots of anime waifus, hehe."
+	
+	
+		class="gallery-image" 
+		data-flex-grow="47"
+		data-flex-basis="113px"
+	
+></p>
+<h2 id="summary">Summary</h2>
+<p>It’s a fun <abbr title="Do It Yourself">DIY</abbr> “iPod” project which doesn’t cost a lot. The 2GB of <abbr title="Random-access memory">RAM</abbr> is surprisingly enough, although I internally wish it had 4GB to avoid lag&hellip; ):</p>
+<p>Please support <a class="link" href="https://www.symfonium.app/"  target="_blank" rel="noopener"
+    >Symfonium</a> developers by donating or purchasing the app if you can! :)</p>
+<p>My only complaint in this <abbr title="Do It Yourself">DIY</abbr> is that I can’t connect my headphones through <abbr title="Universal Serial Bus">USB</abbr> C and have to use my Bluetooth ones, I looked over and over again on my disabled apps but couldn’t find a source for it and Google wasn’t helpful either.</p>
+<p>I’ll finish this article with: be careful when debloating and don’t go overkill like yours truly! Don’t panic though as everything is reversible! :)</p>
+
+</section>
+
+
+    <footer class="article-footer">
+    
+    <section class="article-tags">
+        
+            <a href="/tags/jellyfin-music-player-cheap/">Jellyfin music player cheap</a>
+        
+            <a href="/tags/cheap-jellyfin-music-player/">Cheap Jellyfin music player</a>
+        
+            <a href="/tags/diy-jellyfin-music-player/">DIY Jellyfin music player</a>
+        
+            <a href="/tags/budget-jellyfin-music-player/">Budget Jellyfin music player</a>
+        
+            <a href="/tags/make-jellyfin-music-player/">Make Jellyfin music player</a>
+        
+            <a href="/tags/jellyfin-music-streaming/">Jellyfin music streaming</a>
+        
+            <a href="/tags/jellyfin-audio-player/">Jellyfin audio player</a>
+        
+            <a href="/tags/affordable-music-server-client/">Affordable music server client</a>
+        
+            <a href="/tags/old-phone-jellyfin-music-player/">Old phone Jellyfin music player</a>
+        
+            <a href="/tags/diy-home-music-server-client/">DIY home music server client</a>
+        
+            <a href="/tags/stream-music-from-jellyfin/">Stream music from Jellyfin</a>
+        
+            <a href="/tags/free-jellyfin-music-player/">Free Jellyfin music player</a>
+        
+            <a href="/tags/turning-an-old-phone-into-a-jellyfin-music-player/">Turning an old phone into a Jellyfin music player</a>
+        
+            <a href="/tags/cheapest-way-to-stream-music-from-my-jellyfin-server/">Cheapest way to stream music from my Jellyfin server</a>
+        
+            <a href="/tags/step-by-step-guide-to-making-a-low-cost-jellyfin-music-player/">Step-by-step guide to making a low-cost Jellyfin music player</a>
+        
+            <a href="/tags/jellyfin-music-player-setup-for-beginners/">Jellyfin music player setup for beginners</a>
+        
+            <a href="/tags/setting-up-a-cheap-jellyfin-audio-streaming-device/">Setting up a cheap Jellyfin audio streaming device</a>
+        
+            <a href="/tags/alternatives-to-expensive-music-streaming-devices-with-jellyfin/">Alternatives to expensive music streaming devices with Jellyfin</a>
+        
+            <a href="/tags/can-i-use-an-old-tablet-as-a-jellyfin-music-player/">Can I use an old tablet as a Jellyfin music player?</a>
+        
+    </section>
+
+
+    </footer>
+
+
+    
+</article>
+
+    
+
+    
+
+<aside class="related-content--wrapper">
+    <h2 class="section-title">Related content</h2>
+    <div class="related-content">
+        <div class="flex article-list--tile">
+            
+                
+<article class="has-image">
+    <a href="/p/digital-minimalism-ramble/">
+        
+        
+            <div class="article-image">
+                <img src="/p/digital-minimalism-ramble/cover.b106742d844fccad2d55777bbb37e5c2_hu7c168f794967d054259ead86597ddfe5_990565_250x150_fill_q75_box_smart1.jpg" 
+                        width="250" 
+                        height="150" 
+                        loading="lazy"
+                        alt="Featured image of post My Own Take on Digital Minimalism and Why Is It Aligns With My Privacy &amp; Security stand"
+                        data-key="digital-minimalism-ramble" 
+                        data-hash="md5-sQZ0LYRPzK0tVXd7uzflwg==">
+                
+            </div>
+        
+
+        <div class="article-details">
+            <h2 class="article-title">My Own Take on Digital Minimalism and Why Is It Aligns With My Privacy &amp; Security stand</h2>
+        </div>
+    </a>
+</article>
+
+            
+                
+<article class="has-image">
+    <a href="/p/my-privacy-and-security-apps/">
+        
+        
+            <div class="article-image">
+                <img src="/p/my-privacy-and-security-apps/cover.c8d583320014778f0b21233939d296b3_huebbfad1edfa8e198fe68a27ac6a615ca_762882_250x150_fill_q75_box_smart1.jpg" 
+                        width="250" 
+                        height="150" 
+                        loading="lazy"
+                        alt="Featured image of post Privacy/security apps for daily use that are actually pretty?!"
+                        data-key="my-privacy-and-security apps" 
+                        data-hash="md5-yNWDMgAUd48LISM5OdKWsw==">
+                
+            </div>
+        
+
+        <div class="article-details">
+            <h2 class="article-title">Privacy/security apps for daily use that are actually pretty?!</h2>
+        </div>
+    </a>
+</article>
+
+            
+        </div>
+    </div>
+</aside>
+
+     
+    
+        
+    <div class="disqus-container">
+    <div id="disqus_thread"></div>
+<script type="application/javascript">
+    window.disqus_config = function () {
+    
+    
+    
+    };
+    (function() {
+        if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
+            document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
+            return;
+        }
+        var d = document, s = d.createElement('script'); s.async = true;
+        s.src = '//' + "ashleehee" + '.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="https://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+</div>
+
+<style>
+    .disqus-container {
+        background-color: var(--card-background);
+        border-radius: var(--card-border-radius);
+        box-shadow: var(--shadow-l1);
+        padding: var(--card-padding);
+    }
+</style>
+
+<script>
+    window.addEventListener('onColorSchemeChange', (e) => {
+        if (typeof DISQUS == 'object') {
+            DISQUS.reset({
+                reload: true
+            });
+        }
+    })
+</script>
+
+    
+
+    <footer class="site-footer">
+    <section class="copyright">
+        &copy; 
+        
+            2023 - 
+        
+        2025 AshLee&#39;s Random Blog Space
+    </section>
+    
+    <section class="powerby">
+        
+            Made with cuteness <br/>
+        Built with <a href="https://gohugo.io/" target="_blank" rel="noopener">Hugo</a> <br />
+        Theme <b><a href="https://github.com/CaiJimmy/hugo-theme-stack" target="_blank" rel="noopener" data-version="3.17.0">Stack</a></b> designed by <a href="https://jimmycai.com" target="_blank" rel="noopener">Jimmy</a>
+    </section>
+    <script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "86a6770ea9c84a8a8c65824c290a12b6"}'></script>
+</footer>
+
+
+    
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+
+    
+    <div class="pswp__bg"></div>
+
+    
+    <div class="pswp__scroll-wrap">
+
+        
+        <div class="pswp__container">
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+        </div>
+
+        
+        <div class="pswp__ui pswp__ui--hidden">
+
+            <div class="pswp__top-bar">
+
+                
+
+                <div class="pswp__counter"></div>
+
+                <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+
+                <button class="pswp__button pswp__button--share" title="Share"></button>
+
+                <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+
+                <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+
+                
+                
+                <div class="pswp__preloader">
+                    <div class="pswp__preloader__icn">
+                        <div class="pswp__preloader__cut">
+                            <div class="pswp__preloader__donut"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+                <div class="pswp__share-tooltip"></div>
+            </div>
+
+            <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+            </button>
+
+            <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+            </button>
+
+            <div class="pswp__caption">
+                <div class="pswp__caption__center"></div>
+            </div>
+
+        </div>
+
+    </div>
+
+</div><script 
+                src="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe.min.js"integrity="sha256-ePwmChbbvXbsO02lbM3HoHbSHTHFAeChekF1xKJdleo="crossorigin="anonymous"
+                defer
+                >
+            </script><script 
+                src="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe-ui-default.min.js"integrity="sha256-UKkzOn/w1mBxRmLLGrSeyB4e1xbrp4xylgAWb3M42pU="crossorigin="anonymous"
+                defer
+                >
+            </script><link 
+                rel="stylesheet" 
+                href="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/default-skin/default-skin.min.css"crossorigin="anonymous"
+            ><link 
+                rel="stylesheet" 
+                href="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe.min.css"crossorigin="anonymous"
+            >
+
+            </main>
+        </div>
+        <script 
+                src="https://cdn.jsdelivr.net/npm/node-vibrant@3.1.6/dist/vibrant.min.js"integrity="sha256-awcR2jno4kI5X0zL8ex0vi2z&#43;KMkF24hUW8WePSA9HM="crossorigin="anonymous"
+                
+                >
+            </script><script type="text/javascript" src="/ts/main.js" defer></script>
+<script>
+    (function () {
+        const customFont = document.createElement('link');
+        customFont.href = "https://fonts.bunny.net/css?family=lato:300,400,700"; 
+
+        customFont.type = "text/css";
+        customFont.rel = "stylesheet";
+
+        document.head.appendChild(customFont);
+    }());
+</script>
+
+
+    </body>
+</html>
