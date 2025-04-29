@@ -5,35 +5,18 @@
         <link>https://www.ashleehee.com/he/categories/</link>
         <description>Recent content in Categories on הבלוג הרנדומלי של אשלי</description>
         <generator>Hugo -- gohugo.io</generator>
-        <language>he</language>
-        <lastBuildDate>Wed, 16 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://www.ashleehee.com/he/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <language>he</language><atom:link href="https://www.ashleehee.com/he/categories/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>אבטחה</title>
         <link>https://www.ashleehee.com/he/categories/security/</link>
-        <pubDate>Wed, 16 Apr 2025 00:00:00 +0000</pubDate>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
         <guid>https://www.ashleehee.com/he/categories/security/</guid>
         <description></description>
         </item>
         <item>
-        <title>חפירות</title>
-        <link>https://www.ashleehee.com/he/categories/rambles/</link>
-        <pubDate>Sun, 30 Mar 2025 00:00:00 +0000</pubDate>
-        
-        <guid>https://www.ashleehee.com/he/categories/rambles/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>בובות</title>
-        <link>https://www.ashleehee.com/he/categories/dolls/</link>
-        <pubDate>Mon, 05 Feb 2024 00:00:00 +0000</pubDate>
-        
-        <guid>https://www.ashleehee.com/he/categories/dolls/</guid>
-        <description></description>
-        </item>
-        <item>
         <title>איפור</title>
         <link>https://www.ashleehee.com/he/categories/makeup/</link>
-        <pubDate>Wed, 11 Oct 2023 00:00:00 +0000</pubDate>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
         <guid>https://www.ashleehee.com/he/categories/makeup/</guid>
         <description></description>
@@ -41,17 +24,25 @@
         <item>
         <title>אמנות</title>
         <link>https://www.ashleehee.com/he/categories/art/</link>
-        <pubDate>Wed, 16 Aug 2023 00:00:00 +0000</pubDate>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
         <guid>https://www.ashleehee.com/he/categories/art/</guid>
         <description></description>
         </item>
         <item>
-        <title>פאנפיקים</title>
-        <link>https://www.ashleehee.com/he/categories/%D7%A4%D7%90%D7%A0%D7%A4%D7%99%D7%A7%D7%99%D7%9D/</link>
-        <pubDate>Sat, 12 Aug 2023 00:00:00 +0000</pubDate>
+        <title>בובות</title>
+        <link>https://www.ashleehee.com/he/categories/dolls/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://www.ashleehee.com/he/categories/%D7%A4%D7%90%D7%A0%D7%A4%D7%99%D7%A7%D7%99%D7%9D/</guid>
+        <guid>https://www.ashleehee.com/he/categories/dolls/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>חפירות</title>
+        <link>https://www.ashleehee.com/he/categories/rambles/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://www.ashleehee.com/he/categories/rambles/</guid>
         <description></description>
         </item>
         
