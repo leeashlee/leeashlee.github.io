@@ -6,7 +6,7 @@ date: 2023-09-10 00:00:00+0000
 image: cover.jpg
 categories:
     - Rambles
-    - איפור
+    - Makeup
 tags:
     - everyday makeup routine
     - daily makeup routine

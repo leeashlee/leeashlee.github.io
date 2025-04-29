@@ -5,7 +5,7 @@ slug: romand-my-melody-kuromi-makeup-collection-review
 date: 2023-10-11 00:00:00+0000
 image: cover.jpg
 categories:
-    - איפור
+    - Makeup
 tags:
     - korean makeup products
     - korean makeup tutorial
