@@ -1,0 +1,18 @@
+<style>
+    /* Overwrite CSS variable */
+    :root {
+        --base-font-family: "Rubik";
+    }
+</style>
+
+<script>
+    (function () {
+        const customFont = document.createElement('link');
+        customFont.href = "https://fonts.bunny.net/css?family=rubik:300,400,700";
+    
+        customFont.type = "text/css";
+        customFont.rel = "stylesheet";
+    
+        document.head.appendChild(customFont);
+    }());
+</script>

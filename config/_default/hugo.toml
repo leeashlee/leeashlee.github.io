@@ -6,5 +6,5 @@ theme = 'hugo-theme-stack-master'
     weight = 10
   [languages.he]
     contentDir = 'content/hebrew'
-    languageName = 'Hebrew'
+    languageName = 'עברית'
     weight = 20
