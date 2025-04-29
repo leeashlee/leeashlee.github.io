@@ -86,4 +86,3 @@ Please support [Symfonium](https://www.symfonium.app/) developers by donating or
 My only complaint in this <abbr title="Do It Yourself">DIY</abbr> is that I can’t connect my headphones through <abbr title="Universal Serial Bus">USB</abbr> C and have to use my Bluetooth ones, I looked over and over again on my disabled apps but couldn’t find a source for it and Google wasn’t helpful either.
 
 I’ll finish this article with: be careful when debloating and don’t go overkill like yours truly! Don’t panic though as everything is reversible! :)
-
