@@ -18,7 +18,7 @@ icon = "brand-github"
 [[social]]
 identifier = "matrix"
 name = "Matrix"
-url = "https://matrix.to/#/@ashleehee:beeper.com"
+url = "https://matrix.to/#/@leeashlee:matrix.org"
 
 [social.params]
 icon = "brand-matrix"
