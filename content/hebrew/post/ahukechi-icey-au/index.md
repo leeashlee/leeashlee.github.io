@@ -5,7 +5,7 @@ slug: non-sum-homo-machina-tantum
 date: 2023-08-12 00:00:00+0000
 image: cover.jpg
 categories:
-    - חפירות
+    - Rambles
     - פאנפיקים
 
 tags:
