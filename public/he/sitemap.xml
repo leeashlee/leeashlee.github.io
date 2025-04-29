@@ -855,19 +855,6 @@
                 href="https://www.ashleehee.com/he/tags/makeup/"
                 />
   </url><url>
-    <loc>https://www.ashleehee.com/he/categories/makeup/</loc>
-    <lastmod>2023-10-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.ashleehee.com/categories/makeup/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="he"
-                href="https://www.ashleehee.com/he/categories/makeup/"
-                />
-  </url><url>
     <loc>https://www.ashleehee.com/he/tags/my-melody-x-kuromi/</loc>
     <lastmod>2023-10-11T00:00:00+00:00</lastmod>
   </url><url>
@@ -888,6 +875,19 @@
   </url><url>
     <loc>https://www.ashleehee.com/he/p/romand-my-melody-kuromi-makeup-collection-review/</loc>
     <lastmod>2023-10-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.ashleehee.com/he/categories/makeup/</loc>
+    <lastmod>2023-10-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ashleehee.com/categories/makeup/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="he"
+                href="https://www.ashleehee.com/he/categories/makeup/"
+                />
   </url><url>
     <loc>https://www.ashleehee.com/he/tags/daily-makeup-routine/</loc>
     <lastmod>2023-09-10T00:00:00+00:00</lastmod>
@@ -1240,19 +1240,6 @@
                 href="https://www.ashleehee.com/he/tags/androidren/"
                 />
   </url><url>
-    <loc>https://www.ashleehee.com/he/categories/fanfictions/</loc>
-    <lastmod>2023-08-12T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.ashleehee.com/categories/fanfictions/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="he"
-                href="https://www.ashleehee.com/he/categories/fanfictions/"
-                />
-  </url><url>
     <loc>https://www.ashleehee.com/he/tags/fluff-and-angst/</loc>
     <lastmod>2023-08-12T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -1421,6 +1408,9 @@
                 hreflang="he"
                 href="https://www.ashleehee.com/he/tags/suicide-attempt/"
                 />
+  </url><url>
+    <loc>https://www.ashleehee.com/he/categories/%D7%A4%D7%90%D7%A0%D7%A4%D7%99%D7%A7%D7%99%D7%9D/</loc>
+    <lastmod>2023-08-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.ashleehee.com/he/tags/android-privacy-app/</loc>
     <lastmod>2023-08-10T00:00:00+00:00</lastmod>
