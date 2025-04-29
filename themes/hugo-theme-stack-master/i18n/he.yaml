@@ -1,0 +1,73 @@
+toggleMenu:
+    other: תפריט מתגים
+
+darkMode:
+    other: מצב חשוך
+
+list:
+    page:
+        one: "{{ .Count }} עמוד"
+        other: "{{ .Count }} עמודים"
+
+    section:
+        other: סעיף
+
+    subsection:
+        one: תת-סעיף
+        other: תת-סעיפים
+
+article:
+    back:
+        other: אחורה
+
+    tableOfContents:
+        other: תוכן עניינים
+
+    relatedContent:
+        other: תוכן קשור
+
+    lastUpdatedOn:
+        other: עודכן לאחרונה ב
+
+    readingTime:
+        one: "דקה לקריאה"
+        other: "{{ .Count }} דקות לקריאה"
+
+notFound:
+    title:
+        other: לא נמצא
+
+    subtitle:
+        other: עמוד זה אינו קיים
+
+widget:
+    archives:
+        title:
+            other: ארכיון
+
+        more:
+            other: עוד
+
+    tagCloud:
+        title:
+            other: תגיות
+    categoriesCloud:
+        title:
+            other: קטגוריות
+
+search:
+    title:
+        other: חיפוש
+
+    placeholder:
+        other: לכתוב זה טוב
+
+    resultTitle:
+        other: "#PAGES_COUNT עמודים (#TIME_SECONDS שניות)"
+
+footer:
+    builtWith:
+        other: נבנה עם {{ .Generator }}
+
+    designedBy:
+        other: האתר {{ .Theme }} עוצב על ידי {{ .DesignedBy }}

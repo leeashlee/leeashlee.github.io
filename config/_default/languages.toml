@@ -2,5 +2,10 @@
 [en]
 languageName = "English"
 languagedirection = "ltr"
-title = "Example Site"
+weight = 1
+
+[he]
+languageName = "Hebrew"
+languagedirection = "rtl"
+title = "הבלוג הרנדומלי של אשלי"
 weight = 1
