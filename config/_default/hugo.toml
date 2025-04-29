@@ -1,1 +1,10 @@
 theme = 'hugo-theme-stack-master'
+[languages]
+  [languages.en]
+    contentDir = 'content/english'
+    languageName = 'English'
+    weight = 10
+  [languages.he]
+    contentDir = 'content/hebrew'
+    languageName = 'Hebrew'
+    weight = 20

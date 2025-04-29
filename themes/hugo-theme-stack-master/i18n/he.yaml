@@ -6,7 +6,7 @@ darkMode:
 
 list:
     page:
-        one: "{{ .Count }} עמוד"
+        one: "עמוד 1"
         other: "{{ .Count }} עמודים"
 
     section:

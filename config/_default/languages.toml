@@ -5,7 +5,7 @@ languagedirection = "ltr"
 weight = 1
 
 [he]
-languageName = "Hebrew"
+languageName = "עברית"
 languagedirection = "rtl"
 title = "הבלוג הרנדומלי של אשלי"
 weight = 1

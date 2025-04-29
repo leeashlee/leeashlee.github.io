@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Turning an old phone into a Jellyfin music player on הבלוג הרנדומלי של אשלי</title>
+        <link>https://www.ashleehee.com/he/tags/turning-an-old-phone-into-a-jellyfin-music-player/</link>
+        <description>Recent content in Turning an old phone into a Jellyfin music player on הבלוג הרנדומלי של אשלי</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>he</language>
+        <lastBuildDate>Wed, 16 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://www.ashleehee.com/he/tags/turning-an-old-phone-into-a-jellyfin-music-player/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>How to Make a Jellyfin Music Player for Cheap</title>
+        <link>https://www.ashleehee.com/he/p/how-to-make-a-diy-musicplayer/</link>
+        <pubDate>Wed, 16 Apr 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://www.ashleehee.com/he/p/how-to-make-a-diy-musicplayer/</guid>
+        <description>&lt;img src="https://www.ashleehee.com/he/p/how-to-make-a-diy-musicplayer/cover.jpg" alt="Featured image of post How to Make a Jellyfin Music Player for Cheap" /&gt;&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;You might call me impulsive and crazy, but one of the only things I miss from Android is &lt;a class=&#34;link&#34; href=&#34;https://www.symfonium.app/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Symfonium&lt;/a&gt;, it’s the best music player app for people who self host. It supports Jellyfin and Subsonic and local music and is one of the few music players that feels &lt;em&gt;complete.&lt;/em&gt; &lt;abbr title=&#34;iPhone Operating System&#34;&gt;iOS&lt;/abbr&gt; Jellyfin apps don’t compare to the experience &lt;a class=&#34;link&#34; href=&#34;https://www.symfonium.app/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Symfonium&lt;/a&gt; gave me.&lt;/p&gt;
+&lt;p&gt;I decided to make a &lt;abbr title=&#34;Do It Yourself&#34;&gt;DIY&lt;/abbr&gt; music player and pretend it’s the early 2000’s! :) It’s pretty cheap so I hope you’ll make it! I do software tweaking to fit my needs but you don’t need to follow everything to make this work, do what serve you and makes you comfortable! :)&lt;/p&gt;
+&lt;h2 id=&#34;what-you-need&#34;&gt;What You Need?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;A miniature phone (you can buy one for cheap on Aliexpress or Amazon)&lt;/li&gt;
+&lt;li&gt;Camera cover stickers&lt;/li&gt;
+&lt;li&gt;A &lt;abbr title=&#34;Personal Computer&#34;&gt;PC&lt;/abbr&gt; (Windows/Linux/MacOS)&lt;/li&gt;
+&lt;li&gt;&lt;abbr title=&#34;Universal Android Debloater&#34;&gt;UAD&lt;/abbr&gt; &lt;abbr title=&#34;Graphical User Interface&#34;&gt;GUI&lt;/abbr&gt; installed on your &lt;abbr title=&#34;Personal Computer&#34;&gt;PC&lt;/abbr&gt; - &lt;a class=&#34;link&#34; href=&#34;https://github.com/0x192/universal-android-debloater&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://github.com/0x192/universal-android-debloater&lt;/a&gt; &lt;a class=&#34;link&#34; href=&#34;https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;step-0---cover-the-devices-cameras&#34;&gt;Step 0 - Cover the device’s cameras.&lt;/h2&gt;
+&lt;p&gt;Just in case. My device runs Android 10 and I couldn’t take any risks so I covered the cameras with specialised stickers I ordered from Aliexpress. If I could, I would break the microphone, but alas.&lt;/p&gt;
+&lt;h2 id=&#34;step-1---debloating-the-miniature-phone&#34;&gt;Step 1 - Debloating the miniature phone&lt;/h2&gt;
+&lt;p&gt;Those phones come with basic apps installed and quite a bit of bloat. If you’ve ordered something similar to mine, you’ve got 16GB of storage and 2GB of &lt;abbr title=&#34;Random-access memory&#34;&gt;RAM&lt;/abbr&gt;. Yeah&amp;hellip; Not a lot&amp;hellip;&lt;/p&gt;
+&lt;p&gt;First step is to enable developer mode, clicking on build number several times should do the trick. Next, enter developer options and enable &lt;em&gt;USB debugging.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Second step, connect the device to your &lt;abbr title=&#34;Personal Computer&#34;&gt;PC&lt;/abbr&gt; and open &lt;abbr title=&#34;Universal Android Debloater&#34;&gt;UAD&lt;/abbr&gt; software, the name of the device should appear on top of the program alongside a list of apps you can uninstall/disable.&lt;/p&gt;
+&lt;p&gt;Read carefully through the list and uninstall unnecessary bloat. It takes a lot of trial and error to know which bloat might break your device, so don’t feel alarmed to uninstall and reinstall things.&lt;/p&gt;
+&lt;p&gt;After debloating your phone, put your phone on airplane mode and then connect to your wifi.&lt;/p&gt;
+&lt;p&gt;Airplane mode enhances privacy by turning off all wireless connections on your phone, including cellular networks, Wi-Fi, Bluetooth, and &lt;abbr title=&#34;Global Positioning System&#34;&gt;GPS&lt;/abbr&gt;. This prevents your device from transmitting or receiving any signals, thereby reducing the amount of data that can be collected about your location and activities.&lt;/p&gt;
+&lt;p&gt;Airplane mode also saves battery life, you could solely waste it on listening to music! :)&lt;/p&gt;
+&lt;h2 id=&#34;step-2---install-symfoniumhttpswwwsymfoniumapp&#34;&gt;Step 2 - Install &lt;a class=&#34;link&#34; href=&#34;https://www.symfonium.app/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Symfonium&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;I installed it through the Google Play store. I paid for the program so I wanted to have access to it. I also wanted automatic updates. It was a risk I was willing to take. You can download it through Aurora Store, if you want, and using Google Play Store and Google Services is against your &lt;a class=&#34;link&#34; href=&#34;https://www.privacyguides.org/en/basics/threat-modeling/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;threat model&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;step-3---set-symfoniumhttpswwwsymfoniumapp-up-and-enjoy-3&#34;&gt;Step 3 - Set &lt;a class=&#34;link&#34; href=&#34;https://www.symfonium.app/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Symfonium&lt;/a&gt; up and Enjoy! :3&lt;/h2&gt;
+&lt;p&gt;Open the app, follow the process in the screen and enjoy your new music player!! :) I also added &lt;a class=&#34;link&#34; href=&#34;https://www.symfonium.app/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Symfonium&lt;/a&gt; widget on the home screen to give it more of a music player vibe.&lt;/p&gt;
+&lt;p&gt;I connected a &lt;abbr title=&#34;Micro Secure Digital&#34;&gt;MicroSD&lt;/abbr&gt; card to have more space for my music. I used 128GB, but I think 64GB or 32GB is enough. It’s up to how large your library is and how much music you wanna download.&lt;/p&gt;
+&lt;p&gt;I highly recommend going through the settings on &lt;a class=&#34;link&#34; href=&#34;https://www.symfonium.app/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Symfonium&lt;/a&gt; to tweak the interface and setup automatic downloads! :)&lt;/p&gt;
+&lt;p&gt;Enjoy!~&lt;/p&gt;
+&lt;h2 id=&#34;bonus-step---download-nova-launcher&#34;&gt;Bonus Step - Download Nova Launcher&lt;/h2&gt;
+&lt;p&gt;I write this 24ish hours after initial setup! I got sick of the homepage: having apps scattered around all the home screen and I needed a better grid for my widgets.&lt;/p&gt;
+&lt;p&gt;Nova launcher is super easy to install and use. I’ve been using them for years at this point. I put cute image as a widget + &lt;a class=&#34;link&#34; href=&#34;https://www.symfonium.app/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Symfonium&lt;/a&gt; music player widget.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.ashleehee.com/he/p/how-to-make-a-diy-musicplayer/Screenshot_20250416-002047.png&#34;
+	width=&#34;452&#34;
+	height=&#34;960&#34;
+	srcset=&#34;https://www.ashleehee.com/he/p/how-to-make-a-diy-musicplayer/Screenshot_20250416-002047_hu3151b222e213a11e1124744c816d074c_587875_480x0_resize_box_3.png 480w, https://www.ashleehee.com/he/p/how-to-make-a-diy-musicplayer/Screenshot_20250416-002047_hu3151b222e213a11e1124744c816d074c_587875_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The aesthetic I went with was retro cybercore with lots of anime waifus, hehe.&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;47&#34;
+		data-flex-basis=&#34;113px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;It’s a fun &lt;abbr title=&#34;Do It Yourself&#34;&gt;DIY&lt;/abbr&gt; “iPod” project which doesn’t cost a lot. The 2GB of &lt;abbr title=&#34;Random-access memory&#34;&gt;RAM&lt;/abbr&gt; is surprisingly enough, although I internally wish it had 4GB to avoid lag&amp;hellip; ):&lt;/p&gt;
+&lt;p&gt;Please support &lt;a class=&#34;link&#34; href=&#34;https://www.symfonium.app/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Symfonium&lt;/a&gt; developers by donating or purchasing the app if you can! :)&lt;/p&gt;
+&lt;p&gt;My only complaint in this &lt;abbr title=&#34;Do It Yourself&#34;&gt;DIY&lt;/abbr&gt; is that I can’t connect my headphones through &lt;abbr title=&#34;Universal Serial Bus&#34;&gt;USB&lt;/abbr&gt; C and have to use my Bluetooth ones, I looked over and over again on my disabled apps but couldn’t find a source for it and Google wasn’t helpful either.&lt;/p&gt;
+&lt;p&gt;I’ll finish this article with: be careful when debloating and don’t go overkill like yours truly! Don’t panic though as everything is reversible! :)&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
