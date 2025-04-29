@@ -70,4 +70,4 @@ footer:
         other: נבנה עם {{ .Generator }}
 
     designedBy:
-        other: האתר {{ .Theme }} עוצב על ידי {{ .DesignedBy }}
+        other: תמה האתר {{ .Theme }} עוצב על ידי {{ .DesignedBy }}
