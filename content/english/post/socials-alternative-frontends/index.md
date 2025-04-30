@@ -65,26 +65,38 @@ Still here? Nice! :)
 
 ### Instagram
 **Service:** [imginn](https://imginn.com/)
+
 **Self hosted?** Not that I can tell
+
 **Github Page:** Not that I could find
+
 **Instance I use:** https://imginn.com/
 
 ### Tiktok
 **Service:** [Proxitok](https://proxitok.pussthecat.org/)
-**Self hosted?** Yes
+
+**Self hosted?** 
+
 **Github Page:** https://github.com/pablouser1/ProxiTok
+
 **Instance I use:** https://proxitok.pussthecat.org/
 
 ### Twitter
 **Service:** [Nitter](https://nitter.net/)
+
 **Self hosted?** Yes
+
 **Github Page:** https://github.com/zedeus/nitter
+
 **Instance I use:** https://nitter.net/
 
 ### YouTube
 **Service:** [TubeArchivist](https://github.com/tubearchivist/tubearchivist)
+
 **Self hosted?** Yes
+
 **Github Page:** https://github.com/tubearchivist/tubearchivist
+
 **Instance I use:** My own self hosted version
 
 ## Summary
