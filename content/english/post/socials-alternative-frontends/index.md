@@ -6,7 +6,7 @@ slug: the-magic-of-front-ended-socials-and-how-to-end-doom-scrolling-and-still-w
 image: cover.jpg
 hidden: false
 comments: true
-draft: true
+draft: false
 categories:
     - Rambles
     - Security

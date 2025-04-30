@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Content Consumption Habits on AshLee&#39;s Random Blog Space</title>
+        <link>https://www.ashleehee.com/tags/content-consumption-habits/</link>
+        <description>Recent content in Content Consumption Habits on AshLee&#39;s Random Blog Space</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en</language>
+        <lastBuildDate>Wed, 30 Apr 2025 08:32:53 +0300</lastBuildDate><atom:link href="https://www.ashleehee.com/tags/content-consumption-habits/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>The magic of Front-ended socials (and how to end doom-scrolling and still watch your favourite content)</title>
+        <link>https://www.ashleehee.com/p/the-magic-of-front-ended-socials-and-how-to-end-doom-scrolling-and-still-watch-your-favourite-content/</link>
+        <pubDate>Wed, 30 Apr 2025 08:32:53 +0300</pubDate>
+        
+        <guid>https://www.ashleehee.com/p/the-magic-of-front-ended-socials-and-how-to-end-doom-scrolling-and-still-watch-your-favourite-content/</guid>
+        <description>&lt;img src="https://www.ashleehee.com/p/the-magic-of-front-ended-socials-and-how-to-end-doom-scrolling-and-still-watch-your-favourite-content/cover.jpg" alt="Featured image of post The magic of Front-ended socials (and how to end doom-scrolling and still watch your favourite content)" /&gt;&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;There are many times I realise that stuff that are obvious to me aren’t obvious to others. (To be fair, a lot of shit that’s obvious to you isn’t obvious to me, &lt;abbr title=&#34;Laugh out loud&#34;&gt;LOL&lt;/abbr&gt;!) When those moments hit, my brain goes: “let’s spread my knowledge around so more people will be aware!”&lt;/p&gt;
+&lt;p&gt;This struck me yesterday when I spoke with a friend about Tiktok and brainrot from Tiktok.&lt;/p&gt;
+&lt;p&gt;Me, like the major douche I am, went: “uninstall TikTok!”&lt;/p&gt;
+&lt;p&gt;“How will I watch my favourite tiktokers then?”&lt;/p&gt;
+&lt;p&gt;At that moment, I was struck with a major “oh” moment.&lt;/p&gt;
+&lt;p&gt;Oh. People aren’t aware of Tiktok frontends&amp;hellip; Or frontends for social medias in general.&lt;/p&gt;
+&lt;p&gt;So yes, I’m writing a blog post about it so I could share it with people. Don’t worry, normies, I got chu! I’ll save you from doomscrolling!&lt;/p&gt;
+&lt;p&gt;This post is going to have links, both for the project source codes + instances I use. I am planning to self host those front-end at some point, I just procrastinate a lot.&lt;/p&gt;
+&lt;h2 id=&#34;what-the-fuck-is-a-front-ended-social-media&#34;&gt;What the fuck is a front-ended social media?!&lt;/h2&gt;
+&lt;p&gt;Frontend alternatives for social media platforms are designed to provide a more privacy-friendly and ad-free experience. These alternatives often use the APIs or scrape data from the original social media services but present it in a cleaner, more user-friendly format.&lt;/p&gt;
+&lt;p&gt;These alternatives aim to enhance user privacy and reduce intrusive elements like ads and tracking scripts.&lt;/p&gt;
+&lt;h2 id=&#34;socials-and-their-front-ends&#34;&gt;Socials and their front-ends&lt;/h2&gt;
+&lt;p&gt;For an overview of frontend alternatives, please check this &lt;a class=&#34;link&#34; href=&#34;https://github.com/mendel5/alternative-front-ends&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Still here? Nice! :)&lt;/p&gt;
+&lt;h3 id=&#34;instagram&#34;&gt;Instagram&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Service:&lt;/strong&gt; &lt;a class=&#34;link&#34; href=&#34;https://imginn.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;imginn&lt;/a&gt;
+&lt;strong&gt;Self hosted?&lt;/strong&gt; Not that I can tell
+&lt;strong&gt;Github Page:&lt;/strong&gt; Not that I could find
+&lt;strong&gt;Instance I use:&lt;/strong&gt; &lt;a class=&#34;link&#34; href=&#34;https://imginn.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://imginn.com/&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;tiktok&#34;&gt;Tiktok&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Service:&lt;/strong&gt; &lt;a class=&#34;link&#34; href=&#34;https://proxitok.pussthecat.org/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Proxitok&lt;/a&gt;
+&lt;strong&gt;Self hosted?&lt;/strong&gt; Yes
+&lt;strong&gt;Github Page:&lt;/strong&gt; &lt;a class=&#34;link&#34; href=&#34;https://github.com/pablouser1/ProxiTok&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://github.com/pablouser1/ProxiTok&lt;/a&gt;
+&lt;strong&gt;Instance I use:&lt;/strong&gt; &lt;a class=&#34;link&#34; href=&#34;https://proxitok.pussthecat.org/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://proxitok.pussthecat.org/&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;twitter&#34;&gt;Twitter&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Service:&lt;/strong&gt; &lt;a class=&#34;link&#34; href=&#34;https://nitter.net/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Nitter&lt;/a&gt;
+&lt;strong&gt;Self hosted?&lt;/strong&gt; Yes
+&lt;strong&gt;Github Page:&lt;/strong&gt; &lt;a class=&#34;link&#34; href=&#34;https://github.com/zedeus/nitter&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://github.com/zedeus/nitter&lt;/a&gt;
+&lt;strong&gt;Instance I use:&lt;/strong&gt; &lt;a class=&#34;link&#34; href=&#34;https://nitter.net/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://nitter.net/&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;youtube&#34;&gt;YouTube&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Service:&lt;/strong&gt; &lt;a class=&#34;link&#34; href=&#34;https://github.com/tubearchivist/tubearchivist&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;TubeArchivist&lt;/a&gt;
+&lt;strong&gt;Self hosted?&lt;/strong&gt; Yes
+&lt;strong&gt;Github Page:&lt;/strong&gt; &lt;a class=&#34;link&#34; href=&#34;https://github.com/tubearchivist/tubearchivist&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://github.com/tubearchivist/tubearchivist&lt;/a&gt;
+&lt;strong&gt;Instance I use:&lt;/strong&gt; My own self hosted version&lt;/p&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;Probably nobody but my friends will read this shit. But if you’ve read this and came out with new knowledge, I did my job!~&lt;/p&gt;
+&lt;p&gt;I would recommend to create a list of the usernames of your favourite content creators on social medias, keep it in a document file, then search them on the frontends. You can also save their frontend instance link on that document and every once in a while check for new content.&lt;/p&gt;
+&lt;p&gt;It’s slower to consume content that way, but you won’t be as stimulated and &lt;em&gt;allegedly&lt;/em&gt; live a more peaceful life.&lt;/p&gt;
+&lt;p&gt;Enjoy!~ See you at some point!&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
