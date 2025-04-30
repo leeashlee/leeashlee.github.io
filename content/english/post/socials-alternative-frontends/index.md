@@ -64,6 +64,7 @@ For an overview of frontend alternatives, please check this [link](https://githu
 Still here? Nice! :)
 
 ### Instagram
+
 **Service:** [imginn](https://imginn.com/)
 
 **Self hosted?** Not that I can tell
@@ -73,6 +74,7 @@ Still here? Nice! :)
 **Instance I use:** https://imginn.com/
 
 ### Tiktok
+
 **Service:** [Proxitok](https://proxitok.pussthecat.org/)
 
 **Self hosted?** 
@@ -82,6 +84,7 @@ Still here? Nice! :)
 **Instance I use:** https://proxitok.pussthecat.org/
 
 ### Twitter
+
 **Service:** [Nitter](https://nitter.net/)
 
 **Self hosted?** Yes
@@ -91,6 +94,7 @@ Still here? Nice! :)
 **Instance I use:** https://nitter.net/
 
 ### YouTube
+
 **Service:** [TubeArchivist](https://github.com/tubearchivist/tubearchivist)
 
 **Self hosted?** Yes
