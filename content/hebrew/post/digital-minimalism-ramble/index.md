@@ -3,7 +3,7 @@ title: הטייק שלי על דיגיטל מינימליזם ולמה זה קש
 description: בכנות, זה פשוט חפירה על למה אתם לא צריכים לקנות טלפונים מתקפלים רק כדי להמנע מדומסקרולינג. או לפחות, זה למה נדחפתי לכתוב את השיט הזה. x)
 slug: digital-minimalism-ramble
 date: 2025-03-30 00:00:00+0000
-draft: true
+draft: false
 image: cover.jpg
 categories:
     - Rambles
@@ -76,62 +76,61 @@ tags:
 איך אני אישית לקחתי את זה: שיהיה לי כמה שפחות אפליקציות בטלפון ומדי פעם למחוק את מה שמיותר. עדיפות להריץ על השרת שלי כמה שיותר שירותים.
 
 ## למה דיגיטל מינימליזם?
-You know all the philosophy behind it, live happier life, be more focused and mindful in your life, be more productive, yada yada. Sure, it’s important! But my main reason was that the less apps I have, the less things I need to maintain for my security. 
+אתן מכירות את כל הפילוסופיה שמאחורי זה, תחיו חיים מאושרים יותר, תהיו יותר ממוקדות ומודעות בחיים שלכן, תהיו יותר פרודוקטיביים, בלה בלה. בטח, זה חשוב! אבל הסיבה העיקרית שלי הייתה שככל שיש לי פחות אפליקציות, כך אני צריכה לתחזק פחות דברים למען האבטחה שלי.
 
-The less apps I have, the less digital footprint I have, the more private life I live. Less likely for my information to get stolen and sold in security breaches, less being sold into... You get the idea!
+ככל שיש לי פחות אפליקציות, כך יש לי פחות טביעת רגל דיגיטלית, כך אני חייה יותר חיים פרטיים. פחות סיכוי שהמידע שלי ייגנב ויימכר בפריצות אבטחה, פחות הסיכויי שימכרו לי... הבנתם את הרעיון!
 
-There’s disadvantages for it, I work in the creative field and the decision not to use Instagram affects how I can market myself and find clients. I have less connection with my peers as they keep track of each other on socials. However, it’s a price I’m willing to pay, besides, the people who I care about know how to reach me and talk to me.
+יש לזה חסרונות, אני עובדת בתחום הקריאייטיב וההחלטה לא להשתמש באינסטגרם משפיעה על האופן שבו אני יכולה לשווק את עצמי ולמצוא לקוחות. יש לי פחות קשר עם עמיתים שלי כי הם עוקבים אחד אחרי השני ברשתות החברתיות. עם זאת, זה מחיר שאני מוכנה לשלם, חוץ מזה, האנשים שאכפת לי מהם יודעים איך ליצור איתי קשר ולדבר איתי.
 
-I’m telling you all this so you’ll know that this path isn’t sunshine and rainbows, it has pros and cons like anything else in life. You just need to decide if it’s something you’re willing to pay or not. Go ask yourself, your family, your friends, your lover, your therapist, your pet(?) before making a decision! 
+אני מספרת לכן את כל זה כדי שתדעו שהדרך הזו היא לא אור שמש וקשת בענן, יש לה יתרונות וחסרונות כמו כל דבר אחר בחיים. אתם רק צריכים להחליט אם זה משהו שאתם מוכנים לשלם או לא. לכו תשאלו את עצמכן, את המשפחה שלכן, את החברות שלכן, את המאהבת שלכן, את המטפלת שלכן, את חיית המחמד שלכן(?) לפני שאתן מקבלות החלטה!
 
-Just know that you can always change things if it doesn’t suit you, it’s not a catholic marriage! Digital Minimalism is a spectrum, do what makes you happy and serves you.
+רק דעו שתמיד אפשר לשנות דברים אם זה לא מתאים לכם, זה לא נישואים קתוליים! מינימליזם דיגיטלי הוא ספקטרום, עשו מה שעושה אתכם מאושרים ומשרת אתכם.
 
 ## איך זה קשור לפרטיות ואבטחה?
-A lot of the decisions I make on my digital life are related to Privsec. Privacy rights are something I believe in and fight for. For me, digital minimalism and Privsec goes hand in hand!
+הרבה מההחלטות שאני מקבלת על חיי הדיגיטליים קשורות לפרטיות ואבטחה. זכויות אדם לפרטיות הן משהו שאני מאמינה בו ונלחמת עליו. מבחינתי, מינימליזם דיגיטלי ופרטיות ואבטחה הולכים יד ביד!
 
-Here’s how digital minimalism is related to PrivSec (with more AI junk!):
+כך קשור מינימליזם דיגיטלי לפרטיות ואבטחה (עם יותר ג׳אנק של AI!):
 
-* **Reduce data collection**: By using fewer apps and services, you can minimise the amount of personal data you share.
-* **Minimise tracking**: Digital minimalism can help you avoid tracking cookies, online ads, and other forms of surveillance.
-* **Protect against cyber threats**: Digital minimalism can help you avoid phishing scams, malware, and other types of cyber threats by being more cautious about the links you click and the apps they download.
+* **צמצום איסוף נתונים**: על ידי שימוש בפחות אפליקציות ושירותים, תוכלו למזער את כמות הנתונים האישיים שאתן משתפות.
+* **צמצום מעקב**: מינימליזם דיגיטלי יכול לעזור לכם להימנע ממעקב של עוגיות, פרסומות מקוונות וצורות אחרות של מעקב.
+* **התגוננות מפני איומי סייבר**: מינימליזם דיגיטלי יכול לעזור לכן להימנע מהונאות פישינג, תוכנות זדוניות וסוגים אחרים של איומי סייבר על ידי זהירות רבה יותר לגבי הקישורים שאתן לוחצות עליהם והאפליקציות שאתן מורידות.
 
-I prefer to self host as much as I can. Not only that it puts me in control over my data, it puts me in control over my services security. Obviously, it’s not for everyone, yet if you’re tech savvy, I recommend looking into self hosting. I am writing a guide how to self host for cheap, it’ll be done soon.
+אני מעדיפה להריץ דברים על שרתים ככל האפשר. לא רק שזה נותן לי שליטה על הנתונים שלי, זה נותן לי שליטה על אבטחת השירותים שלי. ברור שזה לא מתאים לכולם, אבל אם אתם מבינים בטכנולוגיה, אני ממליצה לבדוק לגבי בניית שרת. אני כותבת מדריך איך לבנות שרת בבית בזול, זה יקרה בקרוב. (**עידכון:** אני מחקתי את הטיוטה שהייתה לי כי זה גרם לי לחרדות וטריגרים, אז זה לא יקרה, לול!)
 
 ## איזשהי עצה לחתוך אפליקציות?
-Honestly? My biggest advice is to delete the apps. You’ll have a few hard weeks where you’ll need to fill the urge of using socials or the news (or whichever app you’re addicted to!), but I assure you it gets easier in time and this too shall pass. 
+בכנות? העצה הכי טובה שלי היא למחוק את האפליקציות. יהיו לכם כמה שבועות קשים שבהם תצטרכו למלא את הדחף של שימוש ברשתות חברתיות או בחדשות (או כל אפליקציה שאתם מכורים אליה!), אבל אני מבטיחה לכם שזה יהפוך לקל יותר עם הזמן וגם זה יעבור.
 
-How to fill that urge? My biggest trick is to get into journalling! When I cut off Twitter back at 2020, instead of writing what’s happening to me and my feelings on Twitter, I used a little notebook instead! I always carry a notebook and a sketchbook in my bag and when I can, I take it out and write or draw.￼
+איך למלא את הדחף הזה? הטריק הכי טוב שלי הוא להתחיל לכתוב ביומן! כשניתקתי את טוויטר בשנת 2020, במקום לכתוב מה קורה לי ואת הרגשות שלי בטוויטר, השתמשתי במחברת קטנה! אני תמיד נושאת מחברת ומחברת סקיצות בתיק שלי וכשאני יכולה, אני מוציאה אותן וכותבת או מציירת.
 
-I know people who have a retro handheld in their pocket or bag and they take it out to play games in their pocket of time. 
+אני מכירה אנשים שיש להן מחשב נייד רטרו בכיס או בתיק והן מוציאות אותו כדי לשחק משחקים בכיס הזמן שלהם.
 
-If you’re still struggling with cutting apps/websites away, StayFocusd is a Chromium plugin, Android app and iOS app which helps you block apps and websites and put time limits on them. I use it a lot! 
+אם אתן עדיין מתקשות לחתוך אפליקציות/אתרים, StayFocusd הוא תוסף של Chromium, אפליקציית אנדרואיד ואפליקציית iOS שעוזר לכן לחסום אפליקציות ואתרים ולהגדיר להן מגבלות זמן. אני משתמשת בה הרבה!
 
-On my iPhone, I use the default screen time option for app limits. But on my Mac and my old Android device, I use StayFocusd.
+באייפון שלי, אני משתמשת באפשרות זמן המסך המוגדרת כברירת מחדל עבור מגבלות אפליקציות. אבל במק שלי ובמכשיר האנדרואיד הישן שלי, אני משתמשת ב-StayFocusd.
 
-If you wanna check how’s your friends doing through socials, maybe give them a call to ask how they’re doing or message them? If they’re friends only on socials, ask them if you can talk somewhere else?
+אם אתם רוצים לבדוק מה שלום החברים שלכם דרך רשתות חברתיות, אולי תתקשרו אליהם לשאול מה שלומם או תשלחו להם הודעה? אם הם חברים רק ברשתות חברתיות, תשאלו אותם אם אתם יכולים לדבר במקום אחר?
 
-Again, this path isn’t sunshine and rainbows, cutting away people you see on socials is a price, not to mention your short-term sanity. Another aspect is that you might not see content you love, at least not as often. For me, the pros overweight the cons, however, for you it might be different and that’s OKAY!
+שוב, הדרך הזו אינה אור שמש וקשת בענן, ניתוק אנשים שאתן רואות ברשתות חברתיות הוא מחיר, שלא לדבר על שפיותכן לטווח קצר. היבט נוסף הוא שייתכן שלא תראו תוכן שאתן אוהבות, לפחות לא באותה תדירות. מבחינתי, היתרונות גוברים על החסרונות, אולם עבורכן זה עשוי להיות שונה וזה *בסדר*!
 
 ## אני רוצה שהילד שלי ישתמש פחות בטלפון שלו, אבל אני לא רוצה לפגוע בזכותו לפרטיות
-I write this little section here because it feels important to me and related enough. (Y’know, digital minimalism, creating apps & websites limits... It made sense.)
+אני כותבת את המקטע הקטן הזה כאן כי זה מרגיש לי חשוב וקשור מספיק. (אתן יודעות, מינימליזם דיגיטלי, יצירת מגבלות לאפליקציות ואתרים... זה היה הגיוני.)
 
-I’m not a parent, I was a child once in the digital era, though. Does it make me an expert? No. But I can share my opinion like anybody else who lives online.
+אני לא הורה, הייתי פעם ילדה בעידן הדיגיטלי. האם זה הופך אותי למומחה? לא. אבל אני יכולה לחלוק את דעתי כמו כל אחד אחר שחי באינטרנט.
 
-It’s a thin line between respecting your child’s right for privacy yet monitoring their phones and how they use it. I think having a conversation with your child about those things should help, they’re more understanding than you think. 
+זה קו דק בין כיבוד זכותו של ילדכם לפרטיות לבין ניטור הטלפונים שלו וכיצד הוא משתמש בהם. אני חושבת ששיחה עם ילדכם על הדברים האלה אמורה לעזור, הם מבינים יותר ממה שאתם חושבים.
 
-I can only provide tools, how they’re used depends on your family dynamic. Just please make sure to have a conversation with your child before introducing any drastic change.
+אני יכולה רק לספק כלים, אופן השימוש בהם תלוי בדינמיקה המשפחתית שלכן. רק ודאו שאתן מנהלות שיחה עם ילדכן לפני שאתן מציגות שינוי דרסטי כלשהו.
 
-There’s apps like StayFocusd which are targeted towards families. As a parent, you can see which apps your child has on their device and put time limits on them. (For example, those apps will be blocked when they’re at school and after school activities and can only be used for an hour a day.)
+יש אפליקציות כמו StayFocusd שמכוונות למשפחות. כהורה, אתן יכולות לראות אילו אפליקציות יש לילדכן במכשיר שלהן ולשים עליהם מגבלות זמן. (לדוגמה, אפליקציות אלו ייחסמו כשהן בבית הספר ובפעילויות אחרי בית הספר וניתן יהיה להשתמש בהן רק שעה ביום.)
 
-On iOS, you can achieve it on screen time menu. You can set screen time for family and set up parental control. There, you should be able to tweak settings and monitor your child accordingly.
+ב-iOS, ניתן לעשות זאת בתפריט זמן מסך. ניתן להגדיר זמן מסך למשפחה ולהגדיר בקרת הורים. שם, אמורה להיות אפשרות לכוונן את ההגדרות ולנטר את ילדכם בהתאם.
 
-Another suggestion is to ask your child for their phone in order to set their social profiles as minors and put your credentials for their safety in case something goes wrong.
-
+הצעה נוספת היא לבקש מילדכם את הטלפון שלו כדי להגדיר את הפרופילים החברתיים שלו כקטינים ולשים את פרטי הגישה שלכם לבטיחותו במקרה שמשהו ישתבש.
 ## לסיכום
-80% of this blog post was written in one sitting because I was fed up with people saying why doomscrolling isn’t as simple as uninstalling apps and why you should buy flip phones instead.
+80% מהפוסט הזה בבלוג נכתב בישיבה אחת כי נמאס לי שאנשים אומרים למה דומסקרולינג זה לא פשוט כמו הסרת אפליקציות ולמה כדאי לקנות טלפונים מתקפלים במקום.
 
-I don’t think you need to buy a new device that cost 130$ to 350+$. Not everyone can afford it, especially if your phone still works. 
+אני לא חושבת שצריך לקנות מכשיר חדש שעולה 470₪ עד 1,270₪ ומעלה. לא כולם יכולים להרשות לעצמם את זה, במיוחד אם הטלפון שלכם עדיין עובד.
 
-The solution for being addicted to socials and doomscrolling is simple, it’s emotionally draining like any battle against addiction, nonetheless, it’s simple. I don’t think buying a new device makes the lack of dopamine easier, despite how nostalgic and sentimental it makes you feel.
+הפתרון להתמכרות לרשתות חברתיות ודומסקרולינג הוא פשוט, זה מתיש רגשית כמו כל מאבק בהתמכרות, ובכל זאת, זה פשוט. אני לא חושבת שקניית מכשיר חדש מקלה על חוסר הדופמין, למרות כמה נוסטלגיות וסנטימנטליות זה גורם לכם להרגיש.
 
-So before rushing to spend your hard earned money on a new phone, I hope this article will give you a new perspective and a way to live your digital life more happily.
+אז לפני שאתן ממהרות להוציא את כספכן שהרווחתן בעמל רב על טלפון חדש, אני מקווה שמאמר זה ייתן לכן פרספקטיבה חדשה ודרך לחיות את חייכן הדיגיטליים בצורה מאושרת יותר.

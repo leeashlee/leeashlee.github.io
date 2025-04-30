@@ -90,6 +90,16 @@
   </url><url>
     <loc>https://www.ashleehee.com/post/</loc>
     <lastmod>2025-04-30T08:32:53+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="he"
+                href="https://www.ashleehee.com/he/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ashleehee.com/post/"
+                />
   </url><url>
     <loc>https://www.ashleehee.com/tags/productivity/</loc>
     <lastmod>2025-04-30T08:32:53+03:00</lastmod>
@@ -267,6 +277,16 @@
   </url><url>
     <loc>https://www.ashleehee.com/p/digital-minimalism-ramble/</loc>
     <lastmod>2025-03-30T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="he"
+                href="https://www.ashleehee.com/he/p/digital-minimalism-ramble/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ashleehee.com/p/digital-minimalism-ramble/"
+                />
   </url><url>
     <loc>https://www.ashleehee.com/tags/the-minimalists/</loc>
     <lastmod>2025-03-30T00:00:00+00:00</lastmod>
