@@ -4,7 +4,7 @@ description: נגררתי לכתוב את זה אחרי שיחה עם חברה �
 date: 2025-04-30T08:32:53+03:00
 slug: the-magic-of-front-ended-socials-and-how-to-end-doom-scrolling-and-still-watch-your-favourite-content
 image: cover.jpg
-hidden: true
+hidden: false
 comments: true
 draft: false
 categories:
