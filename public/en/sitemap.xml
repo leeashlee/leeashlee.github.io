@@ -181,6 +181,16 @@
   </url><url>
     <loc>https://www.ashleehee.com/p/how-to-make-a-diy-musicplayer/</loc>
     <lastmod>2025-04-16T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="he"
+                href="https://www.ashleehee.com/he/p/how-to-make-a-diy-musicplayer/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ashleehee.com/p/how-to-make-a-diy-musicplayer/"
+                />
   </url><url>
     <loc>https://www.ashleehee.com/tags/jellyfin-audio-player/</loc>
     <lastmod>2025-04-16T00:00:00+00:00</lastmod>

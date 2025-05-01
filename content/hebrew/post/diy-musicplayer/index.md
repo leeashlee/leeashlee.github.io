@@ -1,89 +1,94 @@
 ---
-title: How to Make a Jellyfin Music Player for Cheap
-description: Mostly because I miss Symfonium and iOS Jellyfin music apps sucks, IMO. 
+title: איך להכין נגן מוזיקה ג'ליפין בזול
+description: בעיקר בגלל שאני מתגעגעת ל-Symfonium, ואפליקציות המוזיקה של ג'ליפין ל-iOS הן גרועות, לדעתי. 
 slug: how-to-make-a-diy-musicplayer
 date: 2025-04-16 00:00:00+0000
 image: cover.jpg
-draft: true
+draft: false
+hidden: false
 categories:
     - Security
 
 tags:
-    - Jellyfin music player cheap
-    - Cheap Jellyfin music player
-    - DIY Jellyfin music player
-    - Budget Jellyfin music player
-    - Make Jellyfin music player
-    - Jellyfin music streaming
-    - Jellyfin audio player
-    - Affordable music server client
-    - Old phone Jellyfin music player
-    - DIY home music server client
-    - Stream music from Jellyfin
-    - Free Jellyfin music player
-    - Turning an old phone into a Jellyfin music player
-    - Cheapest way to stream music from my Jellyfin server
-    - Step-by-step guide to making a low-cost Jellyfin music player
-    - Jellyfin music player setup for beginners
-    - Setting up a cheap Jellyfin audio streaming device
-    - Alternatives to expensive music streaming devices with Jellyfin
-    - Can I use an old tablet as a Jellyfin music player?
+    - נגן מוזיקה ג'ליפין זול
+    - נגן מוזיקה ג'ליפין עשה זאת בעצמך
+    - נגן מוזיקה ג'ליפין חסכוני
+    - הכנת נגן מוזיקה ג'ליפין
+    - הזרמת מוזיקה ג'ליפין
+    - נגן אודיו ג'ליפין
+    - תוכנת שרת מוזיקה במחיר סביר
+    - נגן מוזיקה ג'ליפין מטלפון ישן
+    - תוכנת שרת מוזיקה ביתית עשה זאת בעצמך
+    - הזרמת מוזיקה מ-ג'ליפין
+    - נגן מוזיקה ג'ליפין בחינם
+    - הפיכת טלפון ישן לנגן מוזיקה ג'ליפין
+    - הדרך הזולה ביותר להזרים מוזיקה משרת ג'ליפין שלי
+    - מדריך שלב אחר שלב להכנת נגן מוזיקה ג'ליפין במחיר נמוך
+    - הגדרת נגן מוזיקה ג'ליפין למתחילים
+    - הגדרת מכשיר הזרמת שמע ג'ליפין זול
+    - חלופות למכשירי הזרמת מוזיקה יקרים עם ג'ליפין
+    - האם ניתן להשתמש בטאבלט ישן כנגן מוזיקה ג'ליפין?
 
 ---
 
-## Introduction
-You might call me impulsive and crazy, but one of the only things I miss from Android is [Symfonium](https://www.symfonium.app/), it’s the best music player app for people who self host. It supports Jellyfin and Subsonic and local music and is one of the few music players that feels *complete.* <abbr title="iPhone Operating System">iOS</abbr> Jellyfin apps don’t compare to the experience [Symfonium](https://www.symfonium.app/) gave me.
+> **דיסקליימר:** אין דבר יותר זין מלכתוב בעברית לטעמי! בגלל שזה שפה כל-כך מגדרית והעיקרון הכי חשוב לי בכתיבה זה לשמור עליה נטרלית מבחינה מגדרית. לכן שאני אתרגם את עצמי אני אשתמש גם בגוף זכר וגם בגוף נקבה בצורה רנדומלית, כך שגם את וגם אתה תרגישו את הכאוס! (:
 
-I decided to make a <abbr title="Do It Yourself">DIY</abbr> music player and pretend it’s the early 2000’s! :) It’s pretty cheap so I hope you’ll make it! I do software tweaking to fit my needs but you don’t need to follow everything to make this work, do what serve you and makes you comfortable! :)
+## התחלה
+אתם אולי קוראים לי אימפולסיבית ומשוגעת, אבל אחד הדברים היחידים שחסרים לי מאנדרואיד הוא [Symfonium](https://www.symfonium.app/), זוהי אפליקציית נגן המוזיקה הטובה ביותר לאנשים שיש להם שרת. היא תומכת בג'ליפין וסאבסוניק ובמוזיקה שהורדת(אם אין לכם שרת אבל עדיין לא רוצים לשלם כסף לספוטיפיי, אפל מוזיק וכאלה.), והיא אחת מנגני המוזיקה הבודדים שמרגישים *שלמים*. אפליקציות ג'ליפין ל-<abbr title="מערכת הפעלה של אייפון">iOS</abbr> לא משתוות לחוויה ש-[Symfonium](https://www.symfonium.app/) נתנה לי.
 
-## What You Need?
-- A miniature phone (you can buy one for cheap on Aliexpress or Amazon)
-- Camera cover stickers
-- A <abbr title="Personal Computer">PC</abbr> (Windows/Linux/MacOS)
-- <abbr title="Universal Android Debloater">UAD</abbr> <abbr title="Graphical User Interface">GUI</abbr> installed on your <abbr title="Personal Computer">PC</abbr> - https://github.com/0x192/universal-android-debloater https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation/
+החלטתי להכין נגן מוזיקה *עשה זאת בעצמך* ולהעמיד פנים שהוא מתחילת שנות ה-2000! :) הוא די זול אז אני מקווה שתכינו אותו! אני עושה כוונון תוכנה כדי שיתאים לצרכים שלי אבל אתן לא צריכות לעקוב אחר הכל כדי שזה יעבוד, תעשו מה שמשרת אתכן וגורם לכן להרגיש בנוח! :)
 
-## Step 0 - Cover the device’s cameras.
-Just in case. My device runs Android 10 and I couldn’t take any risks so I covered the cameras with specialised stickers I ordered from Aliexpress. If I could, I would break the microphone, but alas.
+## מה צריך?
+- טלפון מיניאטורי (ניתן לקנות אחד בזול ב-Aliexpress או באמזון)
+- מדבקות לכיסוי המצלמה
+- מחשב(ווינדווז/מאק/לינוקס)
+- <abbr title="הסרת אפליקציות מיותרות אוניברסליות לאנדרואיד">UAD</abbr> <abbr title="ממשק משתמש גרפי">GUI</abbr> מותקן במחשב שלך - https://github.com/0x192/universal-android-debloater https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation/
 
-## Step 1 - Debloating the miniature phone
-Those phones come with basic apps installed and quite a bit of bloat. If you’ve ordered something similar to mine, you’ve got 16GB of storage and 2GB of <abbr title="Random-access memory">RAM</abbr>. Yeah... Not a lot...
+## שלב 0 - כסו את מצלמות המכשיר
+ליתר ביטחון. המכשיר שלי מריץ אנדרואיד 10 ולא יכולתי לקחת סיכונים אז כיסיתי את המצלמות במדבקות מיוחדות שהזמנתי מ-Aliexpress. אם הייתי יכולה, הייתי שוברת את המיקרופון, אבל אבוי.
 
-First step is to enable developer mode, clicking on build number several times should do the trick. Next, enter developer options and enable *USB debugging.*
+**עידכון:** זה צעד די מטומטם ומיותר כי אין לאף אחת מהאפליקציות שלי גישה למצלמה, לול! וגם *ספויילר* חסמתי גישה לאינטרנט לכל האפליקציות חוץ מ-[Symfonium](https://www.symfonium.app/) וחנות האפליקציות של גוגל. יש סיבה למה זה שלב אפס! xD
 
-Second step, connect the device to your <abbr title="Personal Computer">PC</abbr> and open <abbr title="Universal Android Debloater">UAD</abbr> software, the name of the device should appear on top of the program alongside a list of apps you can uninstall/disable.
 
-Read carefully through the list and uninstall unnecessary bloat. It takes a lot of trial and error to know which bloat might break your device, so don’t feel alarmed to uninstall and reinstall things.
+## שלב 1 - הסרת האפליקציות המיותרות מהטלפון המיניאטורי
+הטלפונים האלה מגיעים עם אפליקציות בסיסיות מותקנות ולא מעט אפליקציות מיותרות. אם הזמנת משהו דומה לשלי, יש לך 16GB של אחסון ו-2GB של זיכרון. כן... לא הרבה...
 
-After debloating your phone, put your phone on airplane mode and then connect to your wifi.
+הצעד הראשון הוא להפעיל מצב מפתח, לחיצה על מספר הבנייה מספר פעמים אמורה לעשות את העבודה. לאחר מכן, היכנסו לאפשרויות מפתח והפעילו *ניפוי באגים ב-USB*.
 
-Airplane mode enhances privacy by turning off all wireless connections on your phone, including cellular networks, Wi-Fi, Bluetooth, and <abbr title="Global Positioning System">GPS</abbr>. This prevents your device from transmitting or receiving any signals, thereby reducing the amount of data that can be collected about your location and activities.
+שלב שני, חברו את המכשיר למחשב שלכן ופתחו את תוכנת <abbr title="הסרת אפליקציות מיותרות אוניברסליות לאנדרואיד">UAD</abbr>. שם המכשיר אמור להופיע בראש התוכנה לצד רשימה של אפליקציות שניתן להסיר/להשבית.
 
-Airplane mode also saves battery life, you could solely waste it on listening to music! :)
+קראי בעיון את הרשימה והסרי את ההתקנה של אפליקציות מיותרות. נדרש הרבה ניסוי וטעייה כדי לדעת איזו אפליקציה מיותרת עלולה לשבור את המכשיר שלך, אז אל תיבהלי מלהסיר ולהתקין מחדש דברים.
 
-## Step 2 - Install [Symfonium](https://www.symfonium.app/)
-I installed it through the Google Play store. I paid for the program so I wanted to have access to it. I also wanted automatic updates. It was a risk I was willing to take. You can download it through Aurora Store, if you want, and using Google Play Store and Google Services is against your [threat model](https://www.privacyguides.org/en/basics/threat-modeling/).
+לאחר ניקוי הטלפון, העבר אותו למצב טיסה ולאחר מכן התחבר לרשת ה-WiFi שלך.
 
-## Step 3 - Set [Symfonium](https://www.symfonium.app/) up and Enjoy! :3
-Open the app, follow the process in the screen and enjoy your new music player!! :) I also added [Symfonium](https://www.symfonium.app/) widget on the home screen to give it more of a music player vibe.
+מצב טיסה משפר את הפרטיות על ידי כיבוי כל החיבורים האלחוטיים בטלפון שלך, כולל רשתות סלולריות, Wi-Fi, בלוטות' ו-<abbr title="מערכת מיקום גלובלית">GPS</abbr>. מצב זה מונע מהמכשיר שלך לשדר או לקבל אותות כלשהם, ובכך מפחית את כמות הנתונים שניתן לאסוף על מיקומך ופעילויותיך.
 
-I connected a <abbr title="Micro Secure Digital">MicroSD</abbr> card to have more space for my music. I used 128GB, but I think 64GB or 32GB is enough. It’s up to how large your library is and how much music you wanna download.
+מצב טיסה גם חוסך בסוללה, אפשר לבזבז אותה רק על האזנה למוזיקה! :)
 
-I highly recommend going through the settings on [Symfonium](https://www.symfonium.app/) to tweak the interface and setup automatic downloads! :)
+## שלב 2 - התקנת [Symfonium](https://www.symfonium.app/)
+התקנתי אותה דרך חנות האפליקציות של גוגל. שילמתי עבור התוכנה אז רציתי גישה אליה. רציתי גם עדכונים אוטומטיים. זה היה סיכון שהייתי מוכנה לקחת. אפשר להוריד אותה דרך חנות אורורה, אם רוצות, והשימוש בחנות האפליקציות של גוגל ובשירותי גוגל מנוגד ל[מודל האיום](https://www.privacyguides.org/he/basics/threat-modeling/) שלך.
 
-Enjoy!~
+## שלב 3 - התקינו את [Symfonium](https://www.symfonium.app/) ותהנו! 3:
+פתחו את האפליקציה, עקבו אחר התהליך שעל המסך ותיהנו מנגן המוזיקה החדש שלכם!! :) הוספתי גם ווידג'ט [Symfonium](https://www.symfonium.app/) למסך הבית כדי לתת לו אווירה של נגן מוזיקה.
 
-## Bonus Step - Download Nova Launcher
-I write this 24ish hours after initial setup! I got sick of the homepage: having apps scattered around all the home screen and I needed a better grid for my widgets. 
+חיברתי כרטיס <abbr title="זיכרון מיקרו">MicroSD</abbr> כדי שיהיה לי יותר מקום למוזיקה שלי. השתמשתי ב-128GB, אבל אני חושבת ש-64GB או 32GB מספיקים. זה תלוי בגודל הספרייה שלכן ובכמות המוזיקה שאתן רוצות להוריד.
 
-Nova launcher is super easy to install and use. I’ve been using them for years at this point. I put cute image as a widget + [Symfonium](https://www.symfonium.app/) music player widget. 
+אני ממליצה בחום לעבור על ההגדרות ב-[Symfonium](https://www.symfonium.app/) כדי לכוונן את הממשק ולהגדיר הורדות אוטומטיות! :)
 
-![The aesthetic I went with was retro cybercore with lots of anime waifus, hehe.](Screenshot_20250416-002047.png)
+תהנו!~
 
-## Summary
-It’s a fun <abbr title="Do It Yourself">DIY</abbr> “iPod” project which doesn’t cost a lot. The 2GB of <abbr title="Random-access memory">RAM</abbr> is surprisingly enough, although I internally wish it had 4GB to avoid lag... ):
+## שלב בונוס - הורדת Nova Launcher
+אני כותבת את זה בערך 24 שעות אחרי ההתקנה הראשונית! נמאס לי מדף הבית: נמאס לי שיש אפליקציות מפוזרות בכל מסך הבית והייתי צריכה גריד טוב יותר עבור הווידג'טים שלי.
 
-Please support [Symfonium](https://www.symfonium.app/) developers by donating or purchasing the app if you can! :)
+Nova Launcher קלה מאוד להתקנה ולשימוש. אני משתמשת בה כבר שנים. שמתי תמונות חמודות כווידג'ט + ווידג'ט נגן מוזיקה [Symfonium](https://www.symfonium.app/). 
 
-My only complaint in this <abbr title="Do It Yourself">DIY</abbr> is that I can’t connect my headphones through <abbr title="Universal Serial Bus">USB</abbr> C and have to use my Bluetooth ones, I looked over and over again on my disabled apps but couldn’t find a source for it and Google wasn’t helpful either.
+![האסתטיקה שבחרתי הייתה סייברקור רטרו עם הרבה וואיפו של אנימה, חחח.](Screenshot_20250416-002047.png)
 
-I’ll finish this article with: be careful when debloating and don’t go overkill like yours truly! Don’t panic though as everything is reversible! :)
+## סיכום
+זה פרויקט "אייפוד" עשה זאת בעצמך שכיפי ושלא עולה הרבה. 2GB של זיכרון מספיקים באופן מפתיע, למרות שהייתי רוצה שיהיו לו 4GB כדי למנוע לאגים... ):
+
+אנא תמכו במפתחי [Symfonium](https://www.symfonium.app/) על ידי תרומה או רכישה של האפליקציה אם תוכלו! :)
+
+התלונה היחידה שלי בפרויקט העשה זאת בעצמך הזה היא שאני לא יכול לחבר את האוזניות שלי דרך USB C ונאלצת להשתמש באוזניות בלוטות׳ שלי. חיפשתי שוב ושוב באפליקציות המושבתות שלי אבל לא מצאתי מקור לזה וגם חיפוש גוגל לא היה מועיל.
+
+אסיים את המאמר הזה עם: היזהרו בעת הסרת האפליקציות המיותרות ואל תגזימו כמוני! אבל אל תיבהלו, הכל הפיך! :)
