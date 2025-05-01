@@ -51,10 +51,10 @@ Oh. People aren’t aware of Tiktok frontends... Or frontends for social medias 
 
 So yes, I’m writing a blog post about it so I could share it with people. Don’t worry, normies, I got chu! I’ll save you from doomscrolling!
 
-This post is going to have links, both for the project source codes + instances I use. I am planning to self host those front-end at some point, I just procrastinate a lot.
+This post is going to have links, both for the projects source codes + instances I use. I am planning to self host those frontends at some point, I just procrastinate a lot.
 
 ## What the fuck is a front-ended social media?!
-Frontend alternatives for social media platforms are designed to provide a more privacy-friendly and ad-free experience. These alternatives often use the APIs or scrape data from the original social media services but present it in a cleaner, more user-friendly format.
+Frontend alternatives for social media platforms are designed to provide a more privacy-friendly and ad-free experience. These alternatives often use the <abbr title="Application Programming Interface">API</abbr>s or scrape data from the original social media services but present it in a cleaner, more user-friendly format.
 
 These alternatives aim to enhance user privacy and reduce intrusive elements like ads and tracking scripts. 
 

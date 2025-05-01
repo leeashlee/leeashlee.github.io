@@ -1,113 +1,115 @@
 ---
-title: The magic of Front-ended socials (and how to end doom-scrolling and still watch your favourite content)
-description: I was dragged into writing it after conversing with a friend about TikTok.
+title: הקסם של חלופות קדמיות לרשתות חברתיות (ואיך לסיים דומסקרולינג ועדיין לראות את התוכן האהוב עליכם)
+description: נגררתי לכתוב את זה אחרי שיחה עם חברה על טיקטוק.
 date: 2025-04-30T08:32:53+03:00
 slug: the-magic-of-front-ended-socials-and-how-to-end-doom-scrolling-and-still-watch-your-favourite-content
 image: cover.jpg
-hidden: false
+hidden: true
 comments: true
-draft: true
+draft: false
 categories:
     - Rambles
     - Security
 
 tags:
-    - Front-ended social alternatives
-    - Social media alternatives
-    - Doomscrolling
-    - Social media
-    - Content creation
-    - Online communities
-    - Content consumption
-    - Mental health
-    - Productivity
-    - Alternatives
-    - Best social media platforms
-    - Healthy social media habits
-    - Front-End Social Media
-    - Content Alternatives
-    - Content Consumption Habits
-    - Alternatives to social media platforms
-    - Front-end development for social media
-    - How to stop doomscrolling
-    - Best alternatives to social media
-    - How to consume content without doomscrolling
-    - Content consumption strategies
-    - Best front-end social media alternatives
-    - How to watch favorite content without doomscrolling
+    - חלופות לרשתות חברתיות קדמיות
+    - חלופות לרשתות חברתיות
+    - דומסקרולינג
+    - רשתות חברתיות
+    - יצירת תוכן
+    - קהילות מקוונות
+    - צריכת תוכן
+    - בריאות הנפש
+    - פרודוקטיביות
+    - חלופות
+    - פלטפורמות הרשתות החברתיות הטובות ביותר
+    - הרגלי רשתות חברתיות בריאים
+    - רשתות חברתיות קדמיות
+    - חלופות לתוכן
+    - הרגלי צריכת תוכן
+    - חלופות לפלטפורמות רשתות חברתיות
+    - פיתוח רשתות חברתיות קדמיות
+    - כיצד לעצור דומסקרולינג
+    - החלופות הטובות ביותר לרשתות חברתיות
+    - כיצד לצרוך תוכן ללא דומסקרולינג
+    - אסטרטגיות צריכת תוכן
+    - החלופות הטובות ביותר לרשתות חברתיות קדמיות
+    - כיצד לצפות בתוכן מועדף ללא דומסקרולינג
 ---
-## Introduction
-There are many times I realise that stuff that are obvious to me aren’t obvious to others. (To be fair, a lot of shit that’s obvious to you isn’t obvious to me, <abbr title="Laugh out loud">LOL</abbr>!) When those moments hit, my brain goes: “let’s spread my knowledge around so more people will be aware!” 
+> **דיסקליימר:** אין דבר יותר זין מלכתוב בעברית לטעמי! בגלל שזה שפה כל-כך מגדרית והעיקרון הכי חשוב לי בכתיבה זה לשמור עליה נטרלית מבחינה מגדרית. לכן שאני אתרגם את עצמי אני אשתמש גם בגוף זכר וגם בגוף נקבה בצורה רנדומלית, כך שגם את וגם אתה תרגישו את הכאוס! (:
 
-This struck me yesterday when I spoke with a friend about Tiktok and brainrot from Tiktok.
+## התחלה
+יש הרבה פעמים שאני מבינה שדברים שברורים לי לא ברורים לאחרים. (למען האמת, הרבה דברים שברורים לך לא ברורים לי, לול!) כשמגיעים הרגעים האלה, הראש שלי אומר: "בואו נפיץ את הידע שלי כדי שיותר אנשים יהיו מודעים!"
 
-Me, like the major douche I am, went: “uninstall TikTok!”
+זה נתקל בי אתמול כשדיברתי עם חברה על טיקטוק ועל בריינרוט מטיקטוק.
 
-“How will I watch my favourite tiktokers then?”
+אני, כמו הפוצה הגדולה שאני, אמרתי: "הסרי את טיקטוק!"
 
-At that moment, I was struck with a major “oh” moment. 
+"איך אני אז אצפה בטיקטוקרים האהובים עליי?"
 
-Oh. People aren’t aware of Tiktok frontends... Or frontends for social medias in general.
+באותו רגע, נתקלתי ברגע של "אה" גדול.
 
-So yes, I’m writing a blog post about it so I could share it with people. Don’t worry, normies, I got chu! I’ll save you from doomscrolling!
+אה. אנשים לא מודעים לאלטרנטיבות קדמיות לטיקטוק... או בכלל לאלטרנטיבות קדמיות לרשתות חברתיות.
 
-This post is going to have links, both for the project source codes + instances I use. I am planning to self host those front-end at some point, I just procrastinate a lot.
+אז כן, אני כותבת פוסט בבלוג על זה כדי שאוכל לשתף אותו עם אנשים. אל תדאגו, נורמיז, אני אדאג לכם! אני אציל אתכם מדומסקרולינג!
 
-## What the fuck is a front-ended social media?!
-Frontend alternatives for social media platforms are designed to provide a more privacy-friendly and ad-free experience. These alternatives often use the APIs or scrape data from the original social media services but present it in a cleaner, more user-friendly format.
+הפוסט הזה יכלול קישורים, גם לקוד המקור של הפרויקטים וגם למופעים שאני משתמשת בהם. אני מתכננת להריץ את הפרונטאנדים האלה בשרת שלי בשלב מסוים, אני פשוט דוחה דברים הרבה.
 
-These alternatives aim to enhance user privacy and reduce intrusive elements like ads and tracking scripts. 
+## מה לעזאזל זה חלופה קדמית לרשתות חברתיות?!
+חלופות לחזית (frontend) של פלטפורמות מדיה חברתית נועדו לספק חוויה ידידותית יותר לפרטיות וללא פרסומות. חלופות אלו משתמשות לעתים קרובות בממשקי <abbr title="ממשק תכנות יישומים">API</abbr> או אוספות נתונים משירותי המדיה החברתית המקוריים, אך מציגות אותם בפורמט נקי וידידותי יותר למשתמש.
 
-## Socials and their front-ends
-For an overview of frontend alternatives, please check this [link](https://github.com/mendel5/alternative-front-ends)
+חלופות אלו נועדו לשפר את פרטיות המשתמש ולהפחית אלמנטים פולשניים כמו פרסומות וסקריפטי מעקב.
 
-Still here? Nice! :)
+## רשתות חברתיות והחלופה הקדמית שלהם
+לסקירה כללית של חלופות לחזית, אנא בדקו את ה-[קישור](https://github.com/mendel5/alternative-front-ends) הבא!
 
-### Instagram
+עדיין כאן? נייס! :)
 
-**Service:** [imginn](https://imginn.com/)
+### אינסטגרם
 
-**Self hosted?** Not that I can tell
+**שירות:** [imginn](https://imginn.com/)
 
-**Github Page:** Not that I could find
+**אפשר להריץ על שרת?:** לא שאני יכולה להגיד
 
-**Instance I use:** https://imginn.com/
+****עמוד גיטהאב:**** לא שמצאתי
 
-### Tiktok
+**מופע שאני משתמשת:** https://imginn.com/
 
-**Service:** [Proxitok](https://proxitok.pussthecat.org/)
+### טיקטוק
 
-**Self hosted?** 
+**שירות:** [Proxitok](https://proxitok.pussthecat.org/)
 
-**Github Page:** https://github.com/pablouser1/ProxiTok
+**אפשר להריץ על שרת?:** כן
 
-**Instance I use:** https://proxitok.pussthecat.org/
+****עמוד גיטהאב:**** https://github.com/pablouser1/ProxiTok
 
-### Twitter
+**מופע שאני משתמשת:** https://proxitok.pussthecat.org/
 
-**Service:** [Nitter](https://nitter.net/)
+### טוויטר
 
-**Self hosted?** Yes
+**שירות:** [Nitter](https://nitter.net/)
 
-**Github Page:** https://github.com/zedeus/nitter
+**אפשר להריץ על שרת?:** כן
 
-**Instance I use:** https://nitter.net/
+****עמוד גיטהאב:**** https://github.com/zedeus/nitter
 
-### YouTube
+**מופע שאני משתמשת:** https://nitter.net/
 
-**Service:** [TubeArchivist](https://github.com/tubearchivist/tubearchivist)
+### יוטיוב
 
-**Self hosted?** Yes
+**שירות:** [TubeArchivist](https://github.com/tubearchivist/tubearchivist)
 
-**Github Page:** https://github.com/tubearchivist/tubearchivist
+**אפשר להריץ על שרת?:** כן
 
-**Instance I use:** My own self hosted version
+****עמוד גיטהאב:**** https://github.com/tubearchivist/tubearchivist
 
-## Summary
-Probably nobody but my friends will read this shit. But if you’ve read this and came out with new knowledge, I did my job!~
+**מופע שאני משתמשת:** מריצה על השרת שלי
 
-I would recommend to create a list of the usernames of your favourite content creators on social medias, keep it in a document file, then search them on the frontends. You can also save their frontend instance link on that document and every once in a while check for new content.
+## סיכום
+כנראה שאף אחד מלבד החברים שלי יקרא את השיט הזה. אבל אם קראתם את זה וגיליתם ידע חדש, עשיתי את שלי!~
 
-It’s slower to consume content that way, but you won’t be as stimulated and *allegedly* live a more peaceful life.
+אני ממליצה ליצור רשימה של שמות המשתמש של יוצרי התוכן האהובים עליכם ברשתות החברתיות, לשמור אותה בקובץ מסמך, ואז לחפש אותם בפרונדאנד. אתן יכולות גם לשמור את קישור המופע שלהם במסמך הזה ומדי פעם לבדוק אם יש תוכן חדש.
 
-Enjoy!~ See you at some point!
+צריכת תוכן בצורה כזו איטית יותר, אבל לא תהיו מעוררים באותה מידה ו*לכאורה* תחיו חיים שלווים יותר.
+
+תהנו!~ נתראה בשלב מסוים!
