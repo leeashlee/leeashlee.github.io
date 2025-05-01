@@ -6,6 +6,68 @@
         <description>Recent content in כיצד לעצור דומסקרולינג on הבלוג הרנדומלי של אשלי</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>he</language>
-        <lastBuildDate>Wed, 30 Apr 2025 08:32:53 +0300</lastBuildDate><atom:link href="https://www.ashleehee.com/he/tags/%D7%9B%D7%99%D7%A6%D7%93-%D7%9C%D7%A2%D7%A6%D7%95%D7%A8-%D7%93%D7%95%D7%9E%D7%A1%D7%A7%D7%A8%D7%95%D7%9C%D7%99%D7%A0%D7%92/index.xml" rel="self" type="application/rss+xml" />
+        <lastBuildDate>Wed, 30 Apr 2025 08:32:53 +0300</lastBuildDate><atom:link href="https://www.ashleehee.com/he/tags/%D7%9B%D7%99%D7%A6%D7%93-%D7%9C%D7%A2%D7%A6%D7%95%D7%A8-%D7%93%D7%95%D7%9E%D7%A1%D7%A7%D7%A8%D7%95%D7%9C%D7%99%D7%A0%D7%92/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>הקסם של חלופות קדמיות לרשתות חברתיות (ואיך לסיים דומסקרולינג ועדיין לראות את התוכן האהוב עליכם)</title>
+        <link>https://www.ashleehee.com/he/p/the-magic-of-front-ended-socials-and-how-to-end-doom-scrolling-and-still-watch-your-favourite-content/</link>
+        <pubDate>Wed, 30 Apr 2025 08:32:53 +0300</pubDate>
+        
+        <guid>https://www.ashleehee.com/he/p/the-magic-of-front-ended-socials-and-how-to-end-doom-scrolling-and-still-watch-your-favourite-content/</guid>
+        <description>&lt;img src="https://www.ashleehee.com/he/p/the-magic-of-front-ended-socials-and-how-to-end-doom-scrolling-and-still-watch-your-favourite-content/cover.jpg" alt="Featured image of post הקסם של חלופות קדמיות לרשתות חברתיות (ואיך לסיים דומסקרולינג ועדיין לראות את התוכן האהוב עליכם)" /&gt;&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;דיסקליימר:&lt;/strong&gt; אין דבר יותר זין מלכתוב בעברית לטעמי! בגלל שזה שפה כל-כך מגדרית והעיקרון הכי חשוב לי בכתיבה זה לשמור עליה נטרלית מבחינה מגדרית. לכן שאני אתרגם את עצמי אני אשתמש גם בגוף זכר וגם בגוף נקבה בצורה רנדומלית, כך שגם את וגם אתה תרגישו את הכאוס! (:&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;התחלה&#34;&gt;התחלה&lt;/h2&gt;
+&lt;p&gt;יש הרבה פעמים שאני מבינה שדברים שברורים לי לא ברורים לאחרים. (למען האמת, הרבה דברים שברורים לך לא ברורים לי, לול!) כשמגיעים הרגעים האלה, הראש שלי אומר: &amp;ldquo;בואו נפיץ את הידע שלי כדי שיותר אנשים יהיו מודעים!&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;זה נתקל בי אתמול כשדיברתי עם חברה על טיקטוק ועל בריינרוט מטיקטוק.&lt;/p&gt;
+&lt;p&gt;אני, כמו הפוצה הגדולה שאני, אמרתי: &amp;ldquo;הסרי את טיקטוק!&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;איך אני אז אצפה בטיקטוקרים האהובים עליי?&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;באותו רגע, נתקלתי ברגע של &amp;ldquo;אה&amp;rdquo; גדול.&lt;/p&gt;
+&lt;p&gt;אה. אנשים לא מודעים לאלטרנטיבות קדמיות לטיקטוק&amp;hellip; או בכלל לאלטרנטיבות קדמיות לרשתות חברתיות.&lt;/p&gt;
+&lt;p&gt;אז כן, אני כותבת פוסט בבלוג על זה כדי שאוכל לשתף אותו עם אנשים. אל תדאגו, נורמיז, אני אדאג לכם! אני אציל אתכם מדומסקרולינג!&lt;/p&gt;
+&lt;p&gt;הפוסט הזה יכלול קישורים, גם לקוד המקור של הפרויקטים וגם למופעים שאני משתמשת בהם. אני מתכננת להריץ את הפרונטאנדים האלה בשרת שלי בשלב מסוים, אני פשוט דוחה דברים הרבה.&lt;/p&gt;
+&lt;h2 id=&#34;מה-לעזאזל-זה-חלופה-קדמית-לרשתות-חברתיות&#34;&gt;מה לעזאזל זה חלופה קדמית לרשתות חברתיות?!&lt;/h2&gt;
+&lt;p&gt;חלופות לחזית (frontend) של פלטפורמות מדיה חברתית נועדו לספק חוויה ידידותית יותר לפרטיות וללא פרסומות. חלופות אלו משתמשות לעתים קרובות בממשקי &lt;abbr title=&#34;ממשק תכנות יישומים&#34;&gt;API&lt;/abbr&gt; או אוספות נתונים משירותי המדיה החברתית המקוריים, אך מציגות אותם בפורמט נקי וידידותי יותר למשתמש.&lt;/p&gt;
+&lt;p&gt;חלופות אלו נועדו לשפר את פרטיות המשתמש ולהפחית אלמנטים פולשניים כמו פרסומות וסקריפטי מעקב.&lt;/p&gt;
+&lt;h2 id=&#34;רשתות-חברתיות-והחלופה-הקדמית-שלהם&#34;&gt;רשתות חברתיות והחלופה הקדמית שלהם&lt;/h2&gt;
+&lt;p&gt;לסקירה כללית של חלופות לחזית, אנא בדקו את ה-&lt;a class=&#34;link&#34; href=&#34;https://github.com/mendel5/alternative-front-ends&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;קישור&lt;/a&gt; הבא!&lt;/p&gt;
+&lt;p&gt;עדיין כאן? נייס! :)&lt;/p&gt;
+&lt;h3 id=&#34;אינסטגרם&#34;&gt;אינסטגרם&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;שירות:&lt;/strong&gt; &lt;a class=&#34;link&#34; href=&#34;https://imginn.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;imginn&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;אפשר להריץ על שרת?:&lt;/strong&gt; לא שאני יכולה להגיד&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;strong&gt;עמוד גיטהאב:&lt;/strong&gt;&lt;/strong&gt; לא שמצאתי&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;מופע שאני משתמשת:&lt;/strong&gt; &lt;a class=&#34;link&#34; href=&#34;https://imginn.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://imginn.com/&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;טיקטוק&#34;&gt;טיקטוק&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;שירות:&lt;/strong&gt; &lt;a class=&#34;link&#34; href=&#34;https://proxitok.pussthecat.org/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Proxitok&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;אפשר להריץ על שרת?:&lt;/strong&gt; כן&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;strong&gt;עמוד גיטהאב:&lt;/strong&gt;&lt;/strong&gt; &lt;a class=&#34;link&#34; href=&#34;https://github.com/pablouser1/ProxiTok&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://github.com/pablouser1/ProxiTok&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;מופע שאני משתמשת:&lt;/strong&gt; &lt;a class=&#34;link&#34; href=&#34;https://proxitok.pussthecat.org/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://proxitok.pussthecat.org/&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;טוויטר&#34;&gt;טוויטר&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;שירות:&lt;/strong&gt; &lt;a class=&#34;link&#34; href=&#34;https://nitter.net/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Nitter&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;אפשר להריץ על שרת?:&lt;/strong&gt; כן&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;strong&gt;עמוד גיטהאב:&lt;/strong&gt;&lt;/strong&gt; &lt;a class=&#34;link&#34; href=&#34;https://github.com/zedeus/nitter&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://github.com/zedeus/nitter&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;מופע שאני משתמשת:&lt;/strong&gt; &lt;a class=&#34;link&#34; href=&#34;https://nitter.net/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://nitter.net/&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;יוטיוב&#34;&gt;יוטיוב&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;שירות:&lt;/strong&gt; &lt;a class=&#34;link&#34; href=&#34;https://github.com/tubearchivist/tubearchivist&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;TubeArchivist&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;אפשר להריץ על שרת?:&lt;/strong&gt; כן&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;strong&gt;עמוד גיטהאב:&lt;/strong&gt;&lt;/strong&gt; &lt;a class=&#34;link&#34; href=&#34;https://github.com/tubearchivist/tubearchivist&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://github.com/tubearchivist/tubearchivist&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;מופע שאני משתמשת:&lt;/strong&gt; מריצה על השרת שלי&lt;/p&gt;
+&lt;h2 id=&#34;סיכום&#34;&gt;סיכום&lt;/h2&gt;
+&lt;p&gt;כנראה שאף אחד מלבד החברים שלי יקרא את השיט הזה. אבל אם קראתם את זה וגיליתם ידע חדש, עשיתי את שלי!~&lt;/p&gt;
+&lt;p&gt;אני ממליצה ליצור רשימה של שמות המשתמש של יוצרי התוכן האהובים עליכם ברשתות החברתיות, לשמור אותה בקובץ מסמך, ואז לחפש אותם בפרונדאנד. אתן יכולות גם לשמור את קישור המופע שלהם במסמך הזה ומדי פעם לבדוק אם יש תוכן חדש.&lt;/p&gt;
+&lt;p&gt;צריכת תוכן בצורה כזו איטית יותר, אבל לא תהיו מעוררים באותה מידה ו&lt;em&gt;לכאורה&lt;/em&gt; תחיו חיים שלווים יותר.&lt;/p&gt;
+&lt;p&gt;תהנו!~ נתראה בשלב מסוים!&lt;/p&gt;
+</description>
+        </item>
+        
     </channel>
 </rss>
