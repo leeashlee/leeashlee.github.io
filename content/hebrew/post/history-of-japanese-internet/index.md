@@ -6,7 +6,7 @@ slug: history-of-japanese-and-western-internet-culture
 image: cover.jpg
 hidden: false
 comments: true
-draft: true
+draft: false
 categories:
     - Rambles
     - Art
