@@ -2,56 +2,56 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Categories on AshLee&#39;s Random Blog Space</title>
-        <link>https://www.ashleehee.com/categories/</link>
+        <link>http://localhost:1313/categories/</link>
         <description>Recent content in Categories on AshLee&#39;s Random Blog Space</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <lastBuildDate>Wed, 30 Apr 2025 08:32:53 +0300</lastBuildDate><atom:link href="https://www.ashleehee.com/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 30 Apr 2025 08:32:53 +0300</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Rambles</title>
-        <link>https://www.ashleehee.com/categories/rambles/</link>
+        <link>http://localhost:1313/categories/rambles/</link>
         <pubDate>Wed, 30 Apr 2025 08:32:53 +0300</pubDate>
         
-        <guid>https://www.ashleehee.com/categories/rambles/</guid>
+        <guid>http://localhost:1313/categories/rambles/</guid>
         <description></description>
         </item>
         <item>
         <title>Security</title>
-        <link>https://www.ashleehee.com/categories/security/</link>
+        <link>http://localhost:1313/categories/security/</link>
         <pubDate>Wed, 30 Apr 2025 08:32:53 +0300</pubDate>
         
-        <guid>https://www.ashleehee.com/categories/security/</guid>
+        <guid>http://localhost:1313/categories/security/</guid>
         <description></description>
         </item>
         <item>
         <title>Dolls</title>
-        <link>https://www.ashleehee.com/categories/dolls/</link>
+        <link>http://localhost:1313/categories/dolls/</link>
         <pubDate>Mon, 05 Feb 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://www.ashleehee.com/categories/dolls/</guid>
+        <guid>http://localhost:1313/categories/dolls/</guid>
         <description></description>
         </item>
         <item>
         <title>Makeup</title>
-        <link>https://www.ashleehee.com/categories/makeup/</link>
+        <link>http://localhost:1313/categories/makeup/</link>
         <pubDate>Wed, 11 Oct 2023 00:00:00 +0000</pubDate>
         
-        <guid>https://www.ashleehee.com/categories/makeup/</guid>
+        <guid>http://localhost:1313/categories/makeup/</guid>
         <description></description>
         </item>
         <item>
         <title>Art</title>
-        <link>https://www.ashleehee.com/categories/art/</link>
+        <link>http://localhost:1313/categories/art/</link>
         <pubDate>Wed, 16 Aug 2023 00:00:00 +0000</pubDate>
         
-        <guid>https://www.ashleehee.com/categories/art/</guid>
+        <guid>http://localhost:1313/categories/art/</guid>
         <description></description>
         </item>
         <item>
         <title>Fanfictions</title>
-        <link>https://www.ashleehee.com/categories/fanfictions/</link>
+        <link>http://localhost:1313/categories/fanfictions/</link>
         <pubDate>Sat, 12 Aug 2023 00:00:00 +0000</pubDate>
         
-        <guid>https://www.ashleehee.com/categories/fanfictions/</guid>
+        <guid>http://localhost:1313/categories/fanfictions/</guid>
         <description></description>
         </item>
         

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>AshLee&#39;s Random Blog Space</title>
-        <link>https://www.ashleehee.com/</link>
+        <link>http://localhost:1313/</link>
         <description>Recent content on AshLee&#39;s Random Blog Space</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <lastBuildDate>Wed, 30 Apr 2025 08:32:53 +0300</lastBuildDate><atom:link href="https://www.ashleehee.com/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 30 Apr 2025 08:32:53 +0300</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>The magic of Front-ended socials (and how to end doom-scrolling and still watch your favourite content)</title>
-        <link>https://www.ashleehee.com/p/the-magic-of-front-ended-socials-and-how-to-end-doom-scrolling-and-still-watch-your-favourite-content/</link>
+        <link>http://localhost:1313/p/the-magic-of-front-ended-socials-and-how-to-end-doom-scrolling-and-still-watch-your-favourite-content/</link>
         <pubDate>Wed, 30 Apr 2025 08:32:53 +0300</pubDate>
         
-        <guid>https://www.ashleehee.com/p/the-magic-of-front-ended-socials-and-how-to-end-doom-scrolling-and-still-watch-your-favourite-content/</guid>
-        <description>&lt;img src="https://www.ashleehee.com/p/the-magic-of-front-ended-socials-and-how-to-end-doom-scrolling-and-still-watch-your-favourite-content/cover.jpg" alt="Featured image of post The magic of Front-ended socials (and how to end doom-scrolling and still watch your favourite content)" /&gt;&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+        <guid>http://localhost:1313/p/the-magic-of-front-ended-socials-and-how-to-end-doom-scrolling-and-still-watch-your-favourite-content/</guid>
+        <description>&lt;img src="http://localhost:1313/p/the-magic-of-front-ended-socials-and-how-to-end-doom-scrolling-and-still-watch-your-favourite-content/cover.jpg" alt="Featured image of post The magic of Front-ended socials (and how to end doom-scrolling and still watch your favourite content)" /&gt;&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;There are many times I realise that stuff that are obvious to me aren’t obvious to others. (To be fair, a lot of shit that’s obvious to you isn’t obvious to me, &lt;abbr title=&#34;Laugh out loud&#34;&gt;LOL&lt;/abbr&gt;!) When those moments hit, my brain goes: “let’s spread my knowledge around so more people will be aware!”&lt;/p&gt;
 &lt;p&gt;This struck me yesterday when I spoke with a friend about Tiktok and brainrot from Tiktok.&lt;/p&gt;
 &lt;p&gt;Me, like the major douche I am, went: “uninstall TikTok!”&lt;/p&gt;
@@ -67,11 +67,11 @@
         </item>
         <item>
         <title>How to Make a Jellyfin Music Player for Cheap</title>
-        <link>https://www.ashleehee.com/p/how-to-make-a-diy-musicplayer/</link>
+        <link>http://localhost:1313/p/how-to-make-a-diy-musicplayer/</link>
         <pubDate>Wed, 16 Apr 2025 00:00:00 +0000</pubDate>
         
-        <guid>https://www.ashleehee.com/p/how-to-make-a-diy-musicplayer/</guid>
-        <description>&lt;img src="https://www.ashleehee.com/p/how-to-make-a-diy-musicplayer/cover.jpg" alt="Featured image of post How to Make a Jellyfin Music Player for Cheap" /&gt;&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+        <guid>http://localhost:1313/p/how-to-make-a-diy-musicplayer/</guid>
+        <description>&lt;img src="http://localhost:1313/p/how-to-make-a-diy-musicplayer/cover.jpg" alt="Featured image of post How to Make a Jellyfin Music Player for Cheap" /&gt;&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;You might call me impulsive and crazy, but one of the only things I miss from Android is &lt;a class=&#34;link&#34; href=&#34;https://www.symfonium.app/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Symfonium&lt;/a&gt;, it’s the best music player app for people who self host. It supports Jellyfin and Subsonic and local music and is one of the few music players that feels &lt;em&gt;complete.&lt;/em&gt; &lt;abbr title=&#34;iPhone Operating System&#34;&gt;iOS&lt;/abbr&gt; Jellyfin apps don’t compare to the experience &lt;a class=&#34;link&#34; href=&#34;https://www.symfonium.app/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Symfonium&lt;/a&gt; gave me.&lt;/p&gt;
@@ -95,11 +95,11 @@
 &lt;p&gt;After debloating your phone, put your phone on airplane mode and then connect to your wifi.&lt;/p&gt;
 &lt;p&gt;Airplane mode enhances privacy by turning off all wireless connections on your phone, including cellular networks, Wi-Fi, Bluetooth, and &lt;abbr title=&#34;Global Positioning System&#34;&gt;GPS&lt;/abbr&gt;. This prevents your device from transmitting or receiving any signals, thereby reducing the amount of data that can be collected about your location and activities.&lt;/p&gt;
 &lt;p&gt;Airplane mode also saves battery life, you could solely waste it on listening to music! :)&lt;/p&gt;
-&lt;h2 id=&#34;step-2---install-symfoniumhttpswwwsymfoniumapp&#34;&gt;Step 2 - Install &lt;a class=&#34;link&#34; href=&#34;https://www.symfonium.app/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+&lt;h2 id=&#34;step-2---install-symfonium&#34;&gt;Step 2 - Install &lt;a class=&#34;link&#34; href=&#34;https://www.symfonium.app/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Symfonium&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;I installed it through the Google Play store. I paid for the program so I wanted to have access to it. I also wanted automatic updates. It was a risk I was willing to take. You can download it through Aurora Store, if you want, and using Google Play Store and Google Services is against your &lt;a class=&#34;link&#34; href=&#34;https://www.privacyguides.org/en/basics/threat-modeling/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;threat model&lt;/a&gt;.&lt;/p&gt;
-&lt;h2 id=&#34;step-3---set-symfoniumhttpswwwsymfoniumapp-up-and-enjoy-3&#34;&gt;Step 3 - Set &lt;a class=&#34;link&#34; href=&#34;https://www.symfonium.app/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+&lt;h2 id=&#34;step-3---set-symfonium-up-and-enjoy-3&#34;&gt;Step 3 - Set &lt;a class=&#34;link&#34; href=&#34;https://www.symfonium.app/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Symfonium&lt;/a&gt; up and Enjoy! :3&lt;/h2&gt;
 &lt;p&gt;Open the app, follow the process in the screen and enjoy your new music player!! :) I also added &lt;a class=&#34;link&#34; href=&#34;https://www.symfonium.app/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Symfonium&lt;/a&gt; widget on the home screen to give it more of a music player vibe.&lt;/p&gt;
@@ -111,10 +111,10 @@
 &lt;p&gt;I write this 24ish hours after initial setup! I got sick of the homepage: having apps scattered around all the home screen and I needed a better grid for my widgets.&lt;/p&gt;
 &lt;p&gt;Nova launcher is super easy to install and use. I’ve been using them for years at this point. I put cute image as a widget + &lt;a class=&#34;link&#34; href=&#34;https://www.symfonium.app/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Symfonium&lt;/a&gt; music player widget.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://www.ashleehee.com/p/how-to-make-a-diy-musicplayer/Screenshot_20250416-002047.png&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/how-to-make-a-diy-musicplayer/Screenshot_20250416-002047.png&#34;
 	width=&#34;452&#34;
 	height=&#34;960&#34;
-	srcset=&#34;https://www.ashleehee.com/p/how-to-make-a-diy-musicplayer/Screenshot_20250416-002047_hu3151b222e213a11e1124744c816d074c_587875_480x0_resize_box_3.png 480w, https://www.ashleehee.com/p/how-to-make-a-diy-musicplayer/Screenshot_20250416-002047_hu3151b222e213a11e1124744c816d074c_587875_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;http://localhost:1313/p/how-to-make-a-diy-musicplayer/Screenshot_20250416-002047_hu_851df75c8bfd9260.png 480w, http://localhost:1313/p/how-to-make-a-diy-musicplayer/Screenshot_20250416-002047_hu_56a1c8f4a42a9f9.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The aesthetic I went with was retro cybercore with lots of anime waifus, hehe.&#34;
@@ -135,15 +135,14 @@
         </item>
         <item>
         <title>My Own Take on Digital Minimalism and Why Is It Aligns With My Privacy &amp; Security stand</title>
-        <link>https://www.ashleehee.com/p/digital-minimalism-ramble/</link>
+        <link>http://localhost:1313/p/digital-minimalism-ramble/</link>
         <pubDate>Sun, 30 Mar 2025 00:00:00 +0000</pubDate>
         
-        <guid>https://www.ashleehee.com/p/digital-minimalism-ramble/</guid>
-        <description>&lt;img src="https://www.ashleehee.com/p/digital-minimalism-ramble/cover.jpg" alt="Featured image of post My Own Take on Digital Minimalism and Why Is It Aligns With My Privacy &amp; Security stand" /&gt;&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+        <guid>http://localhost:1313/p/digital-minimalism-ramble/</guid>
+        <description>&lt;img src="http://localhost:1313/p/digital-minimalism-ramble/cover.jpg" alt="Featured image of post My Own Take on Digital Minimalism and Why Is It Aligns With My Privacy &amp; Security stand" /&gt;&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;I tried to finish a lot of articles for my little blog over the last two years. This one feels important to me, as instead of talking about tips &amp;amp; tricks or writing guides, I talk about my own philosophy and political(?) view. Hopefully, it’ll be easier to finish as it’s an opinion piece and less depends on research.&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;To be CLEAR, I’m a tech LOVER! Because I’m a tech lover, I came to take digital minimalism as a way of life.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;To be CLEAR, I’m a tech LOVER! Because I’m a tech lover, I came to take digital minimalism as a way of life.&lt;/p&gt;&lt;/blockquote&gt;
 &lt;p&gt;I was tempted to write this post as I’ve seen some videos of people switching to “dumb phones” in order to not use social medias.&lt;/p&gt;
 &lt;p&gt;In essence, that idea isn’t bad.&lt;/p&gt;
 &lt;p&gt;I only have 2 concerns:&lt;/p&gt;
@@ -211,21 +210,21 @@
         </item>
         <item>
         <title>I made my tulpas as MDD BJD dolls</title>
-        <link>https://www.ashleehee.com/p/my-cute-dolls-pt1/</link>
+        <link>http://localhost:1313/p/my-cute-dolls-pt1/</link>
         <pubDate>Mon, 05 Feb 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://www.ashleehee.com/p/my-cute-dolls-pt1/</guid>
-        <description>&lt;img src="https://www.ashleehee.com/p/my-cute-dolls-pt1/cover.jpg" alt="Featured image of post I made my tulpas as MDD BJD dolls" /&gt;&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+        <guid>http://localhost:1313/p/my-cute-dolls-pt1/</guid>
+        <description>&lt;img src="http://localhost:1313/p/my-cute-dolls-pt1/cover.jpg" alt="Featured image of post I made my tulpas as MDD BJD dolls" /&gt;&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;Hello! As you guys know, I really love dolls! :) I&amp;rsquo;ve been working on the last year to finish those dolls of my tulpas, so they&amp;rsquo;ll have a physical representation and it&amp;rsquo;ll be easier to talk with them and have fun! &amp;lt;3&lt;/p&gt;
 &lt;p&gt;It&amp;rsquo;s been CRAZY! It was very fun learning for this hobby and now I&amp;rsquo;m hooked! But it was also so time consuming and money consuming? Haha, I feel like I grown insane.&lt;/p&gt;
 &lt;p&gt;Anyways, let&amp;rsquo;s show you the dolls and their new cute outfits! Each of them has 3 outfits! :) I don&amp;rsquo;t show Abby&amp;rsquo;s first outfit as she didn&amp;rsquo;t wear it for quite some time.&lt;/p&gt;
 &lt;h2 id=&#34;1-abby&#34;&gt;1. Abby&lt;/h2&gt;
 &lt;p&gt;Abby is the first ever doll I made! I did her faceup, it took me a couple of tries to get it perfect. It still has flaws but I still love it so much. She&amp;rsquo;s a cool and elegant lady. She loves the stars and gothic lolita fashion.&lt;/p&gt;
 &lt;p&gt;This is her second outfit, looking very soft and cute! :) I love this outfit a lot. This wig is also her second wig. &lt;abbr title=&#34;I don&#39;t know&#34;&gt;IDK&lt;/abbr&gt; if I prefer this one or the former one haha.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://www.ashleehee.com/p/my-cute-dolls-pt1/abby_1.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/my-cute-dolls-pt1/abby_1.jpg&#34;
 	width=&#34;3456&#34;
 	height=&#34;4608&#34;
-	srcset=&#34;https://www.ashleehee.com/p/my-cute-dolls-pt1/abby_1_hu1b2b117111c21f9c4402f96c78ac888b_5060547_480x0_resize_q75_box.jpg 480w, https://www.ashleehee.com/p/my-cute-dolls-pt1/abby_1_hu1b2b117111c21f9c4402f96c78ac888b_5060547_1024x0_resize_q75_box.jpg 1024w&#34;
+	srcset=&#34;http://localhost:1313/p/my-cute-dolls-pt1/abby_1_hu_ad16f1aa19c63bcc.jpg 480w, http://localhost:1313/p/my-cute-dolls-pt1/abby_1_hu_cc525e10ad1af330.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -234,10 +233,10 @@
 		data-flex-basis=&#34;180px&#34;
 	
 &gt;
-&lt;img src=&#34;https://www.ashleehee.com/p/my-cute-dolls-pt1/abby_5.jpg&#34;
+&lt;img src=&#34;http://localhost:1313/p/my-cute-dolls-pt1/abby_5.jpg&#34;
 	width=&#34;3456&#34;
 	height=&#34;4608&#34;
-	srcset=&#34;https://www.ashleehee.com/p/my-cute-dolls-pt1/abby_5_hu37f8842a1cce608ad9fbc529778caceb_4590497_480x0_resize_q75_box.jpg 480w, https://www.ashleehee.com/p/my-cute-dolls-pt1/abby_5_hu37f8842a1cce608ad9fbc529778caceb_4590497_1024x0_resize_q75_box.jpg 1024w&#34;
+	srcset=&#34;http://localhost:1313/p/my-cute-dolls-pt1/abby_5_hu_af4f76c3bb12f82d.jpg 480w, http://localhost:1313/p/my-cute-dolls-pt1/abby_5_hu_2bf89f5b97b3a24e.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -246,10 +245,10 @@
 		data-flex-basis=&#34;180px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://www.ashleehee.com/p/my-cute-dolls-pt1/abby_4.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/my-cute-dolls-pt1/abby_4.jpg&#34;
 	width=&#34;3456&#34;
 	height=&#34;4608&#34;
-	srcset=&#34;https://www.ashleehee.com/p/my-cute-dolls-pt1/abby_4_hu4ac47df028400eb622be8e5bd77d42bd_7352900_480x0_resize_q75_box.jpg 480w, https://www.ashleehee.com/p/my-cute-dolls-pt1/abby_4_hu4ac47df028400eb622be8e5bd77d42bd_7352900_1024x0_resize_q75_box.jpg 1024w&#34;
+	srcset=&#34;http://localhost:1313/p/my-cute-dolls-pt1/abby_4_hu_68604f91292da71d.jpg 480w, http://localhost:1313/p/my-cute-dolls-pt1/abby_4_hu_8255189f95029d6f.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -258,10 +257,10 @@
 		data-flex-basis=&#34;180px&#34;
 	
 &gt;
-&lt;img src=&#34;https://www.ashleehee.com/p/my-cute-dolls-pt1/abby_3.jpg&#34;
+&lt;img src=&#34;http://localhost:1313/p/my-cute-dolls-pt1/abby_3.jpg&#34;
 	width=&#34;3085&#34;
 	height=&#34;4114&#34;
-	srcset=&#34;https://www.ashleehee.com/p/my-cute-dolls-pt1/abby_3_hu966b898992c5cad917709c88f357b23b_5059174_480x0_resize_q75_box.jpg 480w, https://www.ashleehee.com/p/my-cute-dolls-pt1/abby_3_hu966b898992c5cad917709c88f357b23b_5059174_1024x0_resize_q75_box.jpg 1024w&#34;
+	srcset=&#34;http://localhost:1313/p/my-cute-dolls-pt1/abby_3_hu_c4725c4078830a91.jpg 480w, http://localhost:1313/p/my-cute-dolls-pt1/abby_3_hu_bac64acfd925f821.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -270,10 +269,10 @@
 		data-flex-basis=&#34;179px&#34;
 	
 &gt;
-&lt;img src=&#34;https://www.ashleehee.com/p/my-cute-dolls-pt1/abby_6.jpg&#34;
+&lt;img src=&#34;http://localhost:1313/p/my-cute-dolls-pt1/abby_6.jpg&#34;
 	width=&#34;3456&#34;
 	height=&#34;4608&#34;
-	srcset=&#34;https://www.ashleehee.com/p/my-cute-dolls-pt1/abby_6_huf995ac0b322f916143e05c12040c1e17_6704261_480x0_resize_q75_box.jpg 480w, https://www.ashleehee.com/p/my-cute-dolls-pt1/abby_6_huf995ac0b322f916143e05c12040c1e17_6704261_1024x0_resize_q75_box.jpg 1024w&#34;
+	srcset=&#34;http://localhost:1313/p/my-cute-dolls-pt1/abby_6_hu_8f92996a1eae33e7.jpg 480w, http://localhost:1313/p/my-cute-dolls-pt1/abby_6_hu_9ff28b39030d7a1e.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -284,10 +283,10 @@
 &gt;&lt;/p&gt;
 &lt;p&gt;This outfit is her newest outfit! She looks like a gothic mage and i absolutely ADORE it!!! &amp;lt;3
 Please forgive the lighting, I was too lazy to fully edit it.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://www.ashleehee.com/p/my-cute-dolls-pt1/abby_7.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/my-cute-dolls-pt1/abby_7.jpg&#34;
 	width=&#34;3456&#34;
 	height=&#34;4608&#34;
-	srcset=&#34;https://www.ashleehee.com/p/my-cute-dolls-pt1/abby_7_hu2a6193f5af3d9ac179823b39998a4130_5539830_480x0_resize_q75_box.jpg 480w, https://www.ashleehee.com/p/my-cute-dolls-pt1/abby_7_hu2a6193f5af3d9ac179823b39998a4130_5539830_1024x0_resize_q75_box.jpg 1024w&#34;
+	srcset=&#34;http://localhost:1313/p/my-cute-dolls-pt1/abby_7_hu_5596ccf4c2e33c92.jpg 480w, http://localhost:1313/p/my-cute-dolls-pt1/abby_7_hu_a1e2c5faf50a758.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -297,10 +296,10 @@ Please forgive the lighting, I was too lazy to fully edit it.&lt;/p&gt;
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;Here&amp;rsquo;s Ciel and Abby together in their newest outfits:&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://www.ashleehee.com/p/my-cute-dolls-pt1/1000017967.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/my-cute-dolls-pt1/1000017967.jpg&#34;
 	width=&#34;3456&#34;
 	height=&#34;4608&#34;
-	srcset=&#34;https://www.ashleehee.com/p/my-cute-dolls-pt1/1000017967_hu2ca75457081e5f8acf83abd202648d30_8539533_480x0_resize_q75_box.jpg 480w, https://www.ashleehee.com/p/my-cute-dolls-pt1/1000017967_hu2ca75457081e5f8acf83abd202648d30_8539533_1024x0_resize_q75_box.jpg 1024w&#34;
+	srcset=&#34;http://localhost:1313/p/my-cute-dolls-pt1/1000017967_hu_56cac65707f0f7f2.jpg 480w, http://localhost:1313/p/my-cute-dolls-pt1/1000017967_hu_ad6430ebbcdfb133.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -309,10 +308,10 @@ Please forgive the lighting, I was too lazy to fully edit it.&lt;/p&gt;
 		data-flex-basis=&#34;180px&#34;
 	
 &gt;
-&lt;img src=&#34;https://www.ashleehee.com/p/my-cute-dolls-pt1/1000017968.jpg&#34;
+&lt;img src=&#34;http://localhost:1313/p/my-cute-dolls-pt1/1000017968.jpg&#34;
 	width=&#34;3456&#34;
 	height=&#34;4608&#34;
-	srcset=&#34;https://www.ashleehee.com/p/my-cute-dolls-pt1/1000017968_hu56ee47d1f89a10a753e82e5d9eb4f476_8877310_480x0_resize_q75_box.jpg 480w, https://www.ashleehee.com/p/my-cute-dolls-pt1/1000017968_hu56ee47d1f89a10a753e82e5d9eb4f476_8877310_1024x0_resize_q75_box.jpg 1024w&#34;
+	srcset=&#34;http://localhost:1313/p/my-cute-dolls-pt1/1000017968_hu_ba8bdbbd7c221b68.jpg 480w, http://localhost:1313/p/my-cute-dolls-pt1/1000017968_hu_898ae8de8845b577.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -321,10 +320,10 @@ Please forgive the lighting, I was too lazy to fully edit it.&lt;/p&gt;
 		data-flex-basis=&#34;180px&#34;
 	
 &gt;
-&lt;img src=&#34;https://www.ashleehee.com/p/my-cute-dolls-pt1/1000017969.jpg&#34;
+&lt;img src=&#34;http://localhost:1313/p/my-cute-dolls-pt1/1000017969.jpg&#34;
 	width=&#34;3456&#34;
 	height=&#34;4608&#34;
-	srcset=&#34;https://www.ashleehee.com/p/my-cute-dolls-pt1/1000017969_hu30c6ad65871757240e817c7880a6aa9e_8953475_480x0_resize_q75_box.jpg 480w, https://www.ashleehee.com/p/my-cute-dolls-pt1/1000017969_hu30c6ad65871757240e817c7880a6aa9e_8953475_1024x0_resize_q75_box.jpg 1024w&#34;
+	srcset=&#34;http://localhost:1313/p/my-cute-dolls-pt1/1000017969_hu_c464f95e5aac85a8.jpg 480w, http://localhost:1313/p/my-cute-dolls-pt1/1000017969_hu_9ab134aa0296f72e.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -337,10 +336,10 @@ Please forgive the lighting, I was too lazy to fully edit it.&lt;/p&gt;
 &lt;p&gt;Ciel&amp;rsquo;s head I purchased on Yahoo Auction. I tried so hard to get it and I&amp;rsquo;m so happy I did! No. Matter. The. Cost. She&amp;rsquo;s such a lovely girl, gentle and energetic! She loves Abby to death and will do everything for her! :)&lt;/p&gt;
 &lt;p&gt;She loves elegant and traditional outfits, which makes her look like the princess she is! :D&lt;/p&gt;
 &lt;p&gt;This is her first outfit with her new wig, she looks absolutely ethereal and princess-like. She&amp;rsquo;s gorgeous.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://www.ashleehee.com/p/my-cute-dolls-pt1/Ciel_9.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/my-cute-dolls-pt1/Ciel_9.jpg&#34;
 	width=&#34;3456&#34;
 	height=&#34;4608&#34;
-	srcset=&#34;https://www.ashleehee.com/p/my-cute-dolls-pt1/Ciel_9_hu45d49efd4aa91aefba049cd07efed3b9_7339071_480x0_resize_q75_box.jpg 480w, https://www.ashleehee.com/p/my-cute-dolls-pt1/Ciel_9_hu45d49efd4aa91aefba049cd07efed3b9_7339071_1024x0_resize_q75_box.jpg 1024w&#34;
+	srcset=&#34;http://localhost:1313/p/my-cute-dolls-pt1/Ciel_9_hu_863bbc9f94878d96.jpg 480w, http://localhost:1313/p/my-cute-dolls-pt1/Ciel_9_hu_b1fa6ef49ddc8d16.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -350,10 +349,10 @@ Please forgive the lighting, I was too lazy to fully edit it.&lt;/p&gt;
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;Her second outfit is so elegant and cute! she looks like Yuki Oona! She&amp;rsquo;s such a princess here!&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://www.ashleehee.com/p/my-cute-dolls-pt1/Ciel_6.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/my-cute-dolls-pt1/Ciel_6.jpg&#34;
 	width=&#34;3456&#34;
 	height=&#34;4608&#34;
-	srcset=&#34;https://www.ashleehee.com/p/my-cute-dolls-pt1/Ciel_6_hu1ca18af9b679307e998dddfddf92d49a_4673855_480x0_resize_q75_box.jpg 480w, https://www.ashleehee.com/p/my-cute-dolls-pt1/Ciel_6_hu1ca18af9b679307e998dddfddf92d49a_4673855_1024x0_resize_q75_box.jpg 1024w&#34;
+	srcset=&#34;http://localhost:1313/p/my-cute-dolls-pt1/Ciel_6_hu_4da315505001b7f9.jpg 480w, http://localhost:1313/p/my-cute-dolls-pt1/Ciel_6_hu_3f01b66e9eb62796.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -362,10 +361,10 @@ Please forgive the lighting, I was too lazy to fully edit it.&lt;/p&gt;
 		data-flex-basis=&#34;180px&#34;
 	
 &gt;
-&lt;img src=&#34;https://www.ashleehee.com/p/my-cute-dolls-pt1/Ciel_7.jpg&#34;
+&lt;img src=&#34;http://localhost:1313/p/my-cute-dolls-pt1/Ciel_7.jpg&#34;
 	width=&#34;3456&#34;
 	height=&#34;4608&#34;
-	srcset=&#34;https://www.ashleehee.com/p/my-cute-dolls-pt1/Ciel_7_hue60010c98eacb8f00081cceea156da03_6082570_480x0_resize_q75_box.jpg 480w, https://www.ashleehee.com/p/my-cute-dolls-pt1/Ciel_7_hue60010c98eacb8f00081cceea156da03_6082570_1024x0_resize_q75_box.jpg 1024w&#34;
+	srcset=&#34;http://localhost:1313/p/my-cute-dolls-pt1/Ciel_7_hu_60e6cd0a4e0fa25c.jpg 480w, http://localhost:1313/p/my-cute-dolls-pt1/Ciel_7_hu_f06dde72d7c8dfe6.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -374,10 +373,10 @@ Please forgive the lighting, I was too lazy to fully edit it.&lt;/p&gt;
 		data-flex-basis=&#34;180px&#34;
 	
 &gt;
-&lt;img src=&#34;https://www.ashleehee.com/p/my-cute-dolls-pt1/Ciel_8.jpg&#34;
+&lt;img src=&#34;http://localhost:1313/p/my-cute-dolls-pt1/Ciel_8.jpg&#34;
 	width=&#34;3456&#34;
 	height=&#34;4608&#34;
-	srcset=&#34;https://www.ashleehee.com/p/my-cute-dolls-pt1/Ciel_8_hub2dd39508602a284a575542880f044c5_5363933_480x0_resize_q75_box.jpg 480w, https://www.ashleehee.com/p/my-cute-dolls-pt1/Ciel_8_hub2dd39508602a284a575542880f044c5_5363933_1024x0_resize_q75_box.jpg 1024w&#34;
+	srcset=&#34;http://localhost:1313/p/my-cute-dolls-pt1/Ciel_8_hu_51008d0391cf250e.jpg 480w, http://localhost:1313/p/my-cute-dolls-pt1/Ciel_8_hu_b43ba1197c8976d0.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -387,10 +386,10 @@ Please forgive the lighting, I was too lazy to fully edit it.&lt;/p&gt;
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;Last but not least, Ciel in her last outfit, her old wig gives it a girl-next-door vibes. She looks cute and approachable. I absolutely adore how that outfit looks on her. Volks know how to make their outfits! &amp;lt;3&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://www.ashleehee.com/p/my-cute-dolls-pt1/Ciel_1.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/my-cute-dolls-pt1/Ciel_1.jpg&#34;
 	width=&#34;3456&#34;
 	height=&#34;4608&#34;
-	srcset=&#34;https://www.ashleehee.com/p/my-cute-dolls-pt1/Ciel_1_hud488923c7f06510d0e1b1bf1a0653996_5116760_480x0_resize_q75_box.jpg 480w, https://www.ashleehee.com/p/my-cute-dolls-pt1/Ciel_1_hud488923c7f06510d0e1b1bf1a0653996_5116760_1024x0_resize_q75_box.jpg 1024w&#34;
+	srcset=&#34;http://localhost:1313/p/my-cute-dolls-pt1/Ciel_1_hu_210328f65cd7114a.jpg 480w, http://localhost:1313/p/my-cute-dolls-pt1/Ciel_1_hu_96aa2c07a4c29eea.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -399,10 +398,10 @@ Please forgive the lighting, I was too lazy to fully edit it.&lt;/p&gt;
 		data-flex-basis=&#34;180px&#34;
 	
 &gt;
-&lt;img src=&#34;https://www.ashleehee.com/p/my-cute-dolls-pt1/Ciel_5.jpg&#34;
+&lt;img src=&#34;http://localhost:1313/p/my-cute-dolls-pt1/Ciel_5.jpg&#34;
 	width=&#34;3456&#34;
 	height=&#34;4608&#34;
-	srcset=&#34;https://www.ashleehee.com/p/my-cute-dolls-pt1/Ciel_5_hud1f506bc0e4d5bb7851b51c85f626b87_4672555_480x0_resize_q75_box.jpg 480w, https://www.ashleehee.com/p/my-cute-dolls-pt1/Ciel_5_hud1f506bc0e4d5bb7851b51c85f626b87_4672555_1024x0_resize_q75_box.jpg 1024w&#34;
+	srcset=&#34;http://localhost:1313/p/my-cute-dolls-pt1/Ciel_5_hu_470eb5bc60ce11d1.jpg 480w, http://localhost:1313/p/my-cute-dolls-pt1/Ciel_5_hu_f4bcd417011f29b6.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -411,10 +410,10 @@ Please forgive the lighting, I was too lazy to fully edit it.&lt;/p&gt;
 		data-flex-basis=&#34;180px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://www.ashleehee.com/p/my-cute-dolls-pt1/Ciel_2.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/my-cute-dolls-pt1/Ciel_2.jpg&#34;
 	width=&#34;3456&#34;
 	height=&#34;4608&#34;
-	srcset=&#34;https://www.ashleehee.com/p/my-cute-dolls-pt1/Ciel_2_hu865bfef5aa7e877e01a9f8acef2277f0_8439222_480x0_resize_q75_box.jpg 480w, https://www.ashleehee.com/p/my-cute-dolls-pt1/Ciel_2_hu865bfef5aa7e877e01a9f8acef2277f0_8439222_1024x0_resize_q75_box.jpg 1024w&#34;
+	srcset=&#34;http://localhost:1313/p/my-cute-dolls-pt1/Ciel_2_hu_97bbd754eb1255a3.jpg 480w, http://localhost:1313/p/my-cute-dolls-pt1/Ciel_2_hu_91c86d6cfdfc1fd.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -423,10 +422,10 @@ Please forgive the lighting, I was too lazy to fully edit it.&lt;/p&gt;
 		data-flex-basis=&#34;180px&#34;
 	
 &gt;
-&lt;img src=&#34;https://www.ashleehee.com/p/my-cute-dolls-pt1/Ciel_3.jpg&#34;
+&lt;img src=&#34;http://localhost:1313/p/my-cute-dolls-pt1/Ciel_3.jpg&#34;
 	width=&#34;3456&#34;
 	height=&#34;4608&#34;
-	srcset=&#34;https://www.ashleehee.com/p/my-cute-dolls-pt1/Ciel_3_hu15ad4bb551ad08fdc39e8d66fc9d84fa_7960428_480x0_resize_q75_box.jpg 480w, https://www.ashleehee.com/p/my-cute-dolls-pt1/Ciel_3_hu15ad4bb551ad08fdc39e8d66fc9d84fa_7960428_1024x0_resize_q75_box.jpg 1024w&#34;
+	srcset=&#34;http://localhost:1313/p/my-cute-dolls-pt1/Ciel_3_hu_cb14930e69fe4035.jpg 480w, http://localhost:1313/p/my-cute-dolls-pt1/Ciel_3_hu_e9c5b652691003e8.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -435,10 +434,10 @@ Please forgive the lighting, I was too lazy to fully edit it.&lt;/p&gt;
 		data-flex-basis=&#34;180px&#34;
 	
 &gt;
-&lt;img src=&#34;https://www.ashleehee.com/p/my-cute-dolls-pt1/Ciel_4.jpg&#34;
+&lt;img src=&#34;http://localhost:1313/p/my-cute-dolls-pt1/Ciel_4.jpg&#34;
 	width=&#34;3456&#34;
 	height=&#34;4608&#34;
-	srcset=&#34;https://www.ashleehee.com/p/my-cute-dolls-pt1/Ciel_4_hucb3cf2be378c81a4a577bf2c099b5b26_7917809_480x0_resize_q75_box.jpg 480w, https://www.ashleehee.com/p/my-cute-dolls-pt1/Ciel_4_hucb3cf2be378c81a4a577bf2c099b5b26_7917809_1024x0_resize_q75_box.jpg 1024w&#34;
+	srcset=&#34;http://localhost:1313/p/my-cute-dolls-pt1/Ciel_4_hu_88bc047a3ad6c861.jpg 480w, http://localhost:1313/p/my-cute-dolls-pt1/Ciel_4_hu_e80f912170c68c1.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -451,10 +450,10 @@ Please forgive the lighting, I was too lazy to fully edit it.&lt;/p&gt;
 &lt;p&gt;Our last bby, the youngest and baddass Elly! She&amp;rsquo;s a genius who&amp;rsquo;s already working at the largest Cyber Security company at the world besides being just 19. She finished college when she was 17 in Programming and Cyber Security major.&lt;/p&gt;
 &lt;p&gt;She&amp;rsquo;s cool and sassy, she loves her sister ver much and her two friends, Abby and Ciel. She seems aloof and uninterested, but if someone shares the same love as her for puzzles and chess, she&amp;rsquo;ll immediately light up.&lt;/p&gt;
 &lt;p&gt;Her first outfit is cool yet cute. Elly can be embarrased at times to wear it, but she loves it none-the-less. It is coloured in purple and black, her favourite colours.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://www.ashleehee.com/p/my-cute-dolls-pt1/Elly_3.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/my-cute-dolls-pt1/Elly_3.jpg&#34;
 	width=&#34;3456&#34;
 	height=&#34;4608&#34;
-	srcset=&#34;https://www.ashleehee.com/p/my-cute-dolls-pt1/Elly_3_hu0c820a8e7a6a81c234905a43cfc6cef2_7802054_480x0_resize_q75_box.jpg 480w, https://www.ashleehee.com/p/my-cute-dolls-pt1/Elly_3_hu0c820a8e7a6a81c234905a43cfc6cef2_7802054_1024x0_resize_q75_box.jpg 1024w&#34;
+	srcset=&#34;http://localhost:1313/p/my-cute-dolls-pt1/Elly_3_hu_bc27339eb5c74239.jpg 480w, http://localhost:1313/p/my-cute-dolls-pt1/Elly_3_hu_4218ad853783ba1a.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -463,10 +462,10 @@ Please forgive the lighting, I was too lazy to fully edit it.&lt;/p&gt;
 		data-flex-basis=&#34;180px&#34;
 	
 &gt;
-&lt;img src=&#34;https://www.ashleehee.com/p/my-cute-dolls-pt1/Elly_4.jpg&#34;
+&lt;img src=&#34;http://localhost:1313/p/my-cute-dolls-pt1/Elly_4.jpg&#34;
 	width=&#34;3456&#34;
 	height=&#34;4608&#34;
-	srcset=&#34;https://www.ashleehee.com/p/my-cute-dolls-pt1/Elly_4_hu5c815c88ddff7923d560ab73e0ca29c2_7848165_480x0_resize_q75_box.jpg 480w, https://www.ashleehee.com/p/my-cute-dolls-pt1/Elly_4_hu5c815c88ddff7923d560ab73e0ca29c2_7848165_1024x0_resize_q75_box.jpg 1024w&#34;
+	srcset=&#34;http://localhost:1313/p/my-cute-dolls-pt1/Elly_4_hu_e23b4ac7de37a2e9.jpg 480w, http://localhost:1313/p/my-cute-dolls-pt1/Elly_4_hu_fb22e0fe251e28d.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -475,10 +474,10 @@ Please forgive the lighting, I was too lazy to fully edit it.&lt;/p&gt;
 		data-flex-basis=&#34;180px&#34;
 	
 &gt;
-&lt;img src=&#34;https://www.ashleehee.com/p/my-cute-dolls-pt1/Elly_5.jpg&#34;
+&lt;img src=&#34;http://localhost:1313/p/my-cute-dolls-pt1/Elly_5.jpg&#34;
 	width=&#34;3456&#34;
 	height=&#34;4608&#34;
-	srcset=&#34;https://www.ashleehee.com/p/my-cute-dolls-pt1/Elly_5_hu09cbc8caf467e92f8ce85825c218c5b7_8823331_480x0_resize_q75_box.jpg 480w, https://www.ashleehee.com/p/my-cute-dolls-pt1/Elly_5_hu09cbc8caf467e92f8ce85825c218c5b7_8823331_1024x0_resize_q75_box.jpg 1024w&#34;
+	srcset=&#34;http://localhost:1313/p/my-cute-dolls-pt1/Elly_5_hu_1994634c98a381f2.jpg 480w, http://localhost:1313/p/my-cute-dolls-pt1/Elly_5_hu_915f1562e7b655f4.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -488,10 +487,10 @@ Please forgive the lighting, I was too lazy to fully edit it.&lt;/p&gt;
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;Her second outfit gives Cyberpunk, Rain Code vibes. Which Elly loves very much. I didn&amp;rsquo;t take much photos with this one for some reason. I was excited to try the next outfit that I had no time.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://www.ashleehee.com/p/my-cute-dolls-pt1/Elly_6.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/my-cute-dolls-pt1/Elly_6.jpg&#34;
 	width=&#34;3456&#34;
 	height=&#34;4608&#34;
-	srcset=&#34;https://www.ashleehee.com/p/my-cute-dolls-pt1/Elly_6_huecc30923db26c8456427250bd7ab09a5_5838010_480x0_resize_q75_box.jpg 480w, https://www.ashleehee.com/p/my-cute-dolls-pt1/Elly_6_huecc30923db26c8456427250bd7ab09a5_5838010_1024x0_resize_q75_box.jpg 1024w&#34;
+	srcset=&#34;http://localhost:1313/p/my-cute-dolls-pt1/Elly_6_hu_8237c926ec5a2fa4.jpg 480w, http://localhost:1313/p/my-cute-dolls-pt1/Elly_6_hu_738119ae74d90d13.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -501,10 +500,10 @@ Please forgive the lighting, I was too lazy to fully edit it.&lt;/p&gt;
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;Her last outfit is also from Volks. It might look like something Abby will wear as it is quite gothic. But it has a cool and baddass charm, in compared to Abby&amp;rsquo;s elegant and lolita style. It&amp;rsquo;s one of my absolute favourite outfits. The amount of details is crazy. I might film a video soon of dressing those dolls up so you could see how well made and detailed it is! :)&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://www.ashleehee.com/p/my-cute-dolls-pt1/Elly_7.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/my-cute-dolls-pt1/Elly_7.jpg&#34;
 	width=&#34;3456&#34;
 	height=&#34;4608&#34;
-	srcset=&#34;https://www.ashleehee.com/p/my-cute-dolls-pt1/Elly_7_huce008320a1744a1acdb5cfbd0a10e2f0_6803363_480x0_resize_q75_box.jpg 480w, https://www.ashleehee.com/p/my-cute-dolls-pt1/Elly_7_huce008320a1744a1acdb5cfbd0a10e2f0_6803363_1024x0_resize_q75_box.jpg 1024w&#34;
+	srcset=&#34;http://localhost:1313/p/my-cute-dolls-pt1/Elly_7_hu_926d5f20a319e5de.jpg 480w, http://localhost:1313/p/my-cute-dolls-pt1/Elly_7_hu_db73c6044d326933.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -513,10 +512,10 @@ Please forgive the lighting, I was too lazy to fully edit it.&lt;/p&gt;
 		data-flex-basis=&#34;180px&#34;
 	
 &gt;
-&lt;img src=&#34;https://www.ashleehee.com/p/my-cute-dolls-pt1/Elly_8.jpg&#34;
+&lt;img src=&#34;http://localhost:1313/p/my-cute-dolls-pt1/Elly_8.jpg&#34;
 	width=&#34;3456&#34;
 	height=&#34;4608&#34;
-	srcset=&#34;https://www.ashleehee.com/p/my-cute-dolls-pt1/Elly_8_hu15886a7c1aab3d81ee7d95f65f0ed28c_4734912_480x0_resize_q75_box.jpg 480w, https://www.ashleehee.com/p/my-cute-dolls-pt1/Elly_8_hu15886a7c1aab3d81ee7d95f65f0ed28c_4734912_1024x0_resize_q75_box.jpg 1024w&#34;
+	srcset=&#34;http://localhost:1313/p/my-cute-dolls-pt1/Elly_8_hu_dc951687d18cd268.jpg 480w, http://localhost:1313/p/my-cute-dolls-pt1/Elly_8_hu_a219eb6110792715.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -529,17 +528,16 @@ Please forgive the lighting, I was too lazy to fully edit it.&lt;/p&gt;
         </item>
         <item>
         <title>Sanrio My Melody and Kuromi Makeup Look🩷💜 || Rom&amp;nd Sanrio Makeup Collection Review💋</title>
-        <link>https://www.ashleehee.com/p/romand-my-melody-kuromi-makeup-collection-review/</link>
+        <link>http://localhost:1313/p/romand-my-melody-kuromi-makeup-collection-review/</link>
         <pubDate>Wed, 11 Oct 2023 00:00:00 +0000</pubDate>
         
-        <guid>https://www.ashleehee.com/p/romand-my-melody-kuromi-makeup-collection-review/</guid>
-        <description>&lt;img src="https://www.ashleehee.com/p/romand-my-melody-kuromi-makeup-collection-review/cover.jpg" alt="Featured image of post Sanrio My Melody and Kuromi Makeup Look🩷💜 || Rom&amp;nd Sanrio Makeup Collection Review💋" /&gt;&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+        <guid>http://localhost:1313/p/romand-my-melody-kuromi-makeup-collection-review/</guid>
+        <description>&lt;img src="http://localhost:1313/p/romand-my-melody-kuromi-makeup-collection-review/cover.jpg" alt="Featured image of post Sanrio My Melody and Kuromi Makeup Look🩷💜 || Rom&amp;nd Sanrio Makeup Collection Review💋" /&gt;&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;Hello everyone! I&amp;rsquo;m so excited to make this blog post! It&amp;rsquo;ll talk more about the products in details here and write a more coherent review for each product.&lt;/p&gt;
 &lt;p&gt;Check my video here to watch me making those two looks! :)&lt;/p&gt;
 &lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/1QsAbOse35Q?si=7t-v3PMPL3gpNzKv&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen&gt;&lt;/iframe&gt;
 &lt;blockquote&gt;
-&lt;p&gt;I &lt;strong&gt;purchased&lt;/strong&gt; the products myself. Links for products are &lt;strong&gt;affiliated&lt;/strong&gt;.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;I &lt;strong&gt;purchased&lt;/strong&gt; the products myself. Links for products are &lt;strong&gt;affiliated&lt;/strong&gt;.&lt;/p&gt;&lt;/blockquote&gt;
 &lt;h2 id=&#34;products-review&#34;&gt;Products Review&lt;/h2&gt;
 &lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://amzn.to/46h9TPP&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;My Melody Cushion Foundation&lt;/a&gt; - I love this foundation! It&amp;rsquo;s perfect for daily use as it&amp;rsquo;s not too heavy and covers my skin perfectly. It fits my skin tone, which is a HUGE bonus for me because I&amp;rsquo;m so pale, it&amp;rsquo;s hard for me to find a foundation.&lt;/p&gt;
@@ -581,11 +579,11 @@ Please forgive the lighting, I was too lazy to fully edit it.&lt;/p&gt;
         </item>
         <item>
         <title>My Favourite Makeup Products in 2023</title>
-        <link>https://www.ashleehee.com/p/my-favourite-makeup-products-2023/</link>
+        <link>http://localhost:1313/p/my-favourite-makeup-products-2023/</link>
         <pubDate>Sun, 10 Sep 2023 00:00:00 +0000</pubDate>
         
-        <guid>https://www.ashleehee.com/p/my-favourite-makeup-products-2023/</guid>
-        <description>&lt;img src="https://www.ashleehee.com/p/my-favourite-makeup-products-2023/cover.jpg" alt="Featured image of post My Favourite Makeup Products in 2023" /&gt;&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+        <guid>http://localhost:1313/p/my-favourite-makeup-products-2023/</guid>
+        <description>&lt;img src="http://localhost:1313/p/my-favourite-makeup-products-2023/cover.jpg" alt="Featured image of post My Favourite Makeup Products in 2023" /&gt;&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;Mostly a filler post before my bigger content will finally be ready. I love talking about makeup at times and I made some makeup videos in the past so I&amp;rsquo;m happy to talk about something I enjoy. I&amp;rsquo;ll share links, they&amp;rsquo;re not sponsored though, I promise.&lt;/p&gt;
 &lt;h2 id=&#34;face&#34;&gt;face&lt;/h2&gt;
 &lt;h3 id=&#34;makeup-base&#34;&gt;Makeup base&lt;/h3&gt;
@@ -670,11 +668,11 @@ Please forgive the lighting, I was too lazy to fully edit it.&lt;/p&gt;
         </item>
         <item>
         <title>What do I use to make my designs and art?</title>
-        <link>https://www.ashleehee.com/p/my-design-and-art-apps/</link>
+        <link>http://localhost:1313/p/my-design-and-art-apps/</link>
         <pubDate>Wed, 16 Aug 2023 00:00:00 +0000</pubDate>
         
-        <guid>https://www.ashleehee.com/p/my-design-and-art-apps/</guid>
-        <description>&lt;img src="https://www.ashleehee.com/p/my-design-and-art-apps/cover.jpg" alt="Featured image of post What do I use to make my designs and art?" /&gt;&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+        <guid>http://localhost:1313/p/my-design-and-art-apps/</guid>
+        <description>&lt;img src="http://localhost:1313/p/my-design-and-art-apps/cover.jpg" alt="Featured image of post What do I use to make my designs and art?" /&gt;&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;It took us three posts and only now I&amp;rsquo;m talking about design, &lt;abbr title=&#34;Laugh Out Loud&#34;&gt;LOL&lt;/abbr&gt;. I write this post for me and for others that are interested in the creative fields and looking for recommendations for programs and techniques.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;This post is NOT about how to make a good design or the foundation for any of the categories mentioned.&lt;/li&gt;
@@ -696,10 +694,10 @@ Please forgive the lighting, I was too lazy to fully edit it.&lt;/p&gt;
 &lt;h3 id=&#34;a-sketching-program&#34;&gt;A Sketching Program&lt;/h3&gt;
 &lt;p&gt;If you&amp;rsquo;re here, I assume you don&amp;rsquo;t know which drawing app to use or you wanna switch.&lt;/p&gt;
 &lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;#illustrations&#34; &gt;Click here&lt;/a&gt; to check my recommendations. Some of these don&amp;rsquo;t suit for sketching, but check it out, regardless.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://www.ashleehee.com/p/my-design-and-art-apps/IMG_2023_08_15_14_51_59.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/my-design-and-art-apps/IMG_2023_08_15_14_51_59.jpg&#34;
 	width=&#34;576&#34;
 	height=&#34;768&#34;
-	srcset=&#34;https://www.ashleehee.com/p/my-design-and-art-apps/IMG_2023_08_15_14_51_59_hu1c66ed44daf9c6fbafbe95778aee043f_715219_480x0_resize_q75_box.jpg 480w, https://www.ashleehee.com/p/my-design-and-art-apps/IMG_2023_08_15_14_51_59_hu1c66ed44daf9c6fbafbe95778aee043f_715219_1024x0_resize_q75_box.jpg 1024w&#34;
+	srcset=&#34;http://localhost:1313/p/my-design-and-art-apps/IMG_2023_08_15_14_51_59_hu_7224b610768ec356.jpg 480w, http://localhost:1313/p/my-design-and-art-apps/IMG_2023_08_15_14_51_59_hu_ac937a9f244f03a3.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;AI Art by Meitu AI&#34;
@@ -731,7 +729,7 @@ Please forgive the lighting, I was too lazy to fully edit it.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;abbr title=&#34;Free Open Source Software&#34;&gt;FOSS&lt;/abbr&gt;?:&lt;/strong&gt; No, come on, it&amp;rsquo;s Adobe.&lt;/p&gt;
 &lt;p&gt;After Effects is my favourite motion graphics and Animation program. It&amp;rsquo;s easy to use yet advanced on the same time. I use it every time for more advanced video editing.&lt;/p&gt;
 &lt;p&gt;I do not have any alternative that works as well as AE works. You can have your ways to get it, and if all fails, you can beg Adobe for a discount, it usually works.&lt;/p&gt;
-&lt;h3 id=&#34;b-cut-abbr-titlebìjiǎn必剪abbr-by-bilibili&#34;&gt;B-cut &lt;abbr title=&#34;bìjiǎn&#34;&gt;必剪&lt;/abbr&gt; by bilibili&lt;/h3&gt;
+&lt;h3 id=&#34;b-cut-必剪-by-bilibili&#34;&gt;B-cut &lt;abbr title=&#34;bìjiǎn&#34;&gt;必剪&lt;/abbr&gt; by bilibili&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;&lt;abbr title=&#34;Operating System&#34;&gt;OS&lt;/abbr&gt;:&lt;/strong&gt; Android, iOS, MacOS, Windows.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;abbr title=&#34;Free Open Source Software&#34;&gt;FOSS&lt;/abbr&gt;?:&lt;/strong&gt; No.&lt;/p&gt;
 &lt;p&gt;I know I said no links but because it&amp;rsquo;s hard to find, &lt;a class=&#34;link&#34; href=&#34;https://bcut.bilibili.cn/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
@@ -744,10 +742,10 @@ Please forgive the lighting, I was too lazy to fully edit it.&lt;/p&gt;
 &lt;p&gt;Manga? Yes. Illustrations? Yeah. Vector art? Enjoy. Animations? Indeed. 3D for references? Heck yeah!&lt;/p&gt;
 &lt;p&gt;My favourite feature is their asset store which is run by the community and you can find lots of useful assets for free.&lt;/p&gt;
 &lt;p&gt;For now, it&amp;rsquo;s here for frame by frame animation. I really recommend it if you wanna draw animations. My license ran out because no money but I&amp;rsquo;ll return to you, my wife.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://www.ashleehee.com/p/my-design-and-art-apps/IMG_2023_08_13_09_53_33.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/my-design-and-art-apps/IMG_2023_08_13_09_53_33.jpg&#34;
 	width=&#34;576&#34;
 	height=&#34;768&#34;
-	srcset=&#34;https://www.ashleehee.com/p/my-design-and-art-apps/IMG_2023_08_13_09_53_33_huebbfad1edfa8e198fe68a27ac6a615ca_153894_480x0_resize_q75_box.jpg 480w, https://www.ashleehee.com/p/my-design-and-art-apps/IMG_2023_08_13_09_53_33_huebbfad1edfa8e198fe68a27ac6a615ca_153894_1024x0_resize_q75_box.jpg 1024w&#34;
+	srcset=&#34;http://localhost:1313/p/my-design-and-art-apps/IMG_2023_08_13_09_53_33_hu_5cd29e931bbcee0b.jpg 480w, http://localhost:1313/p/my-design-and-art-apps/IMG_2023_08_13_09_53_33_hu_642d749f3e21b4e9.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;AI Art by Meitu AI&#34;
@@ -800,10 +798,10 @@ Please forgive the lighting, I was too lazy to fully edit it.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;abbr title=&#34;Free Open Source Software&#34;&gt;FOSS&lt;/abbr&gt;?:&lt;/strong&gt; Not that I can find.&lt;/p&gt;
 &lt;p&gt;It&amp;rsquo;s mostly used for Instagram Highlight cover, but it has interesting logos and aesthetically-pleasing backgrounds and colours.&lt;/p&gt;
 &lt;p&gt;I like using it for inspiration or quick work. Many times I just drag one of the designs I&amp;rsquo;ve made, use Image Trace on Illustrator and then continuing to work on it.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://www.ashleehee.com/p/my-design-and-art-apps/IMG_2023_08_15_14_51_56.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/my-design-and-art-apps/IMG_2023_08_15_14_51_56.jpg&#34;
 	width=&#34;576&#34;
 	height=&#34;768&#34;
-	srcset=&#34;https://www.ashleehee.com/p/my-design-and-art-apps/IMG_2023_08_15_14_51_56_huebbfad1edfa8e198fe68a27ac6a615ca_219048_480x0_resize_q75_box.jpg 480w, https://www.ashleehee.com/p/my-design-and-art-apps/IMG_2023_08_15_14_51_56_huebbfad1edfa8e198fe68a27ac6a615ca_219048_1024x0_resize_q75_box.jpg 1024w&#34;
+	srcset=&#34;http://localhost:1313/p/my-design-and-art-apps/IMG_2023_08_15_14_51_56_hu_81bded9cc4093574.jpg 480w, http://localhost:1313/p/my-design-and-art-apps/IMG_2023_08_15_14_51_56_hu_7346057ea6947bdd.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;AI Art by Meitu AI&#34;
@@ -853,10 +851,10 @@ Please forgive the lighting, I was too lazy to fully edit it.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;abbr title=&#34;Operating System&#34;&gt;OS&lt;/abbr&gt;:&lt;/strong&gt; Linux, MacOS, Windows.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;abbr title=&#34;Free Open Source Software&#34;&gt;FOSS&lt;/abbr&gt;?&lt;/strong&gt; Not that I can find.&lt;/p&gt;
 &lt;p&gt;Unity is an oldie but a goodie of mine. I learned C# through Unity. I mostly made 2D games on Unity and attempted to make a visual novel, but it&amp;rsquo;s hella good for 3D as well. It can suddenly break games for no reason so if it annoys you, use Godot or Ren&amp;rsquo;py.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://www.ashleehee.com/p/my-design-and-art-apps/IMG_2023_08_15_15_15_56.png&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/my-design-and-art-apps/IMG_2023_08_15_15_15_56.png&#34;
 	width=&#34;576&#34;
 	height=&#34;768&#34;
-	srcset=&#34;https://www.ashleehee.com/p/my-design-and-art-apps/IMG_2023_08_15_15_15_56_huea88d227c4fa21e680a03ad651a4b3c2_733317_480x0_resize_box_3.png 480w, https://www.ashleehee.com/p/my-design-and-art-apps/IMG_2023_08_15_15_15_56_huea88d227c4fa21e680a03ad651a4b3c2_733317_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;http://localhost:1313/p/my-design-and-art-apps/IMG_2023_08_15_15_15_56_hu_4f37acabaf8e8b22.png 480w, http://localhost:1313/p/my-design-and-art-apps/IMG_2023_08_15_15_15_56_hu_733529e1d66ccdbc.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;AI Art by Meitu AI&#34;
@@ -875,11 +873,11 @@ Please forgive the lighting, I was too lazy to fully edit it.&lt;/p&gt;
         </item>
         <item>
         <title>Non Sum Homo, Machina Tantum</title>
-        <link>https://www.ashleehee.com/p/non-sum-homo-machina-tantum/</link>
+        <link>http://localhost:1313/p/non-sum-homo-machina-tantum/</link>
         <pubDate>Sat, 12 Aug 2023 00:00:00 +0000</pubDate>
         
-        <guid>https://www.ashleehee.com/p/non-sum-homo-machina-tantum/</guid>
-        <description>&lt;img src="https://www.ashleehee.com/p/non-sum-homo-machina-tantum/cover.jpg" alt="Featured image of post Non Sum Homo, Machina Tantum" /&gt;&lt;p&gt;&lt;strong&gt;A/N:&lt;/strong&gt; ShuAke Icey AU! I&amp;rsquo;m going to treat this crack game seriously, so uhm, angst here we go? You don&amp;rsquo;t need to play the game to understand anything of the story, but I do recommend it for laughters.&lt;/p&gt;
+        <guid>http://localhost:1313/p/non-sum-homo-machina-tantum/</guid>
+        <description>&lt;img src="http://localhost:1313/p/non-sum-homo-machina-tantum/cover.jpg" alt="Featured image of post Non Sum Homo, Machina Tantum" /&gt;&lt;p&gt;&lt;strong&gt;A/N:&lt;/strong&gt; ShuAke Icey AU! I&amp;rsquo;m going to treat this crack game seriously, so uhm, angst here we go? You don&amp;rsquo;t need to play the game to understand anything of the story, but I do recommend it for laughters.&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;&lt;em&gt;&amp;ldquo;Just defeat him!! Are you that dumb?! You didn’t listen to my instructions again and again and it just slowed all of us down, make you die several times and just wasted our time!&amp;rdquo;&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;Ren sighed, stubbornly looking at that door. All his training and his journey led him to this. The world was vast, even though he’ve seen small parts of it. There was no human alive, narrator claimed it was because of Akechi but Ren wasn’t sure what to believe.&lt;/p&gt;
@@ -921,7 +919,7 @@ Please forgive the lighting, I was too lazy to fully edit it.&lt;/p&gt;
 &lt;p&gt;Akechi could swear Ren was lying. After all, he did nothing but stare into space. Still, his mechanic expression didn’t show any form of a joke or a lie. It was cold as usual. Whatever, if he doesn’t have to fight Ren, he can focus on the important things&amp;mdash;&lt;/p&gt;
 &lt;p&gt;“Dad!!! I looked for you everywhere!” A ginger girl hugged Akechi’s waist.&lt;/p&gt;
 &lt;p&gt;“I’m surprised you arrived here that fast,” he carried the girl on his back. More surprised she wasn’t killed when Ren raided his area.&lt;/p&gt;
-&lt;p&gt;“T~e~l~e~p~o~r~t~a~t~i~o~n”&lt;/p&gt;
+&lt;p&gt;“T&lt;del&gt;e&lt;/del&gt;l&lt;del&gt;e&lt;/del&gt;p&lt;del&gt;o&lt;/del&gt;r&lt;del&gt;t&lt;/del&gt;a&lt;del&gt;t&lt;/del&gt;i&lt;del&gt;o&lt;/del&gt;n”&lt;/p&gt;
 &lt;p&gt;“I get it, no need to sing it.”&lt;/p&gt;
 &lt;p&gt;“Umm&amp;hellip; Dad? Is an android supposed to fall like that?”&lt;/p&gt;
 &lt;p&gt;Akechi groaned, seeing Ren unconscious on the grass. Perhaps Ren acted lunatic because of lack of charging. Perhaps he needed a restart to clear his hardware.&lt;/p&gt;
@@ -1247,11 +1245,11 @@ Please forgive the lighting, I was too lazy to fully edit it.&lt;/p&gt;
         </item>
         <item>
         <title>Privacy/security apps for daily use that are actually pretty?!</title>
-        <link>https://www.ashleehee.com/p/my-privacy-and-security-apps/</link>
+        <link>http://localhost:1313/p/my-privacy-and-security-apps/</link>
         <pubDate>Thu, 10 Aug 2023 00:00:00 +0000</pubDate>
         
-        <guid>https://www.ashleehee.com/p/my-privacy-and-security-apps/</guid>
-        <description>&lt;img src="https://www.ashleehee.com/p/my-privacy-and-security-apps/cover.jpg" alt="Featured image of post Privacy/security apps for daily use that are actually pretty?!" /&gt;&lt;p&gt;you&amp;rsquo;ve probably didn&amp;rsquo;t use some private/&lt;abbr title=&#34;Free Open Source Software&#34;&gt;FOSS&lt;/abbr&gt; apps and switched to a less private alternative. The &lt;abbr title=&#34;User Experience&#34;&gt;UX&lt;/abbr&gt; isn&amp;rsquo;t quite as friendly than the apps you tried to replace, the &lt;abbr title=&#34;User Interface&#34;&gt;UI&lt;/abbr&gt; is outdated at best and doesn&amp;rsquo;t work for you at worst.&lt;/p&gt;
+        <guid>http://localhost:1313/p/my-privacy-and-security-apps/</guid>
+        <description>&lt;img src="http://localhost:1313/p/my-privacy-and-security-apps/cover.jpg" alt="Featured image of post Privacy/security apps for daily use that are actually pretty?!" /&gt;&lt;p&gt;you&amp;rsquo;ve probably didn&amp;rsquo;t use some private/&lt;abbr title=&#34;Free Open Source Software&#34;&gt;FOSS&lt;/abbr&gt; apps and switched to a less private alternative. The &lt;abbr title=&#34;User Experience&#34;&gt;UX&lt;/abbr&gt; isn&amp;rsquo;t quite as friendly than the apps you tried to replace, the &lt;abbr title=&#34;User Interface&#34;&gt;UI&lt;/abbr&gt; is outdated at best and doesn&amp;rsquo;t work for you at worst.&lt;/p&gt;
 &lt;p&gt;I&amp;rsquo;ve been looking left and right for over a year to find apps that are private, secured and with a minimal and modern look. I&amp;rsquo;m not much into retro design unless it&amp;rsquo;s Windows XP aesthetics or KDE.&lt;/p&gt;
 &lt;p&gt;Most is open source, but not all. The closed source don&amp;rsquo;t take information beside what you give and they work locally.&lt;/p&gt;
 &lt;p&gt;I&amp;rsquo;m not a security expert or anything of the sort, I just get my information from PrivacyGuides recommendations, alternativeto.net and my own trial and errors.&lt;/p&gt;
@@ -1280,7 +1278,7 @@ Please forgive the lighting, I was too lazy to fully edit it.&lt;/p&gt;
 &lt;p&gt;If you&amp;rsquo;re not running a custom &lt;abbr title=&#34;Read-only memory&#34;&gt;ROM&lt;/abbr&gt; because it&amp;rsquo;s Samsung and Samsung is a meme, yet you really miss using Caffeine when cooking or reading articles or using walkthroughs for games, I gotchu.&lt;/p&gt;
 &lt;p&gt;In case you don&amp;rsquo;t understand, Caffeine is something you can put on your notification menu and you can keep your phone from sleeping for an extended period of time.&lt;/p&gt;
 &lt;p&gt;Many &lt;abbr title=&#34;Read-only memory&#34;&gt;ROM&lt;/abbr&gt;s that use LineageOS as a base has Caffeine in them. However, you can download the same one and continue using Caffeine despite having a Samsung! You welcome!&lt;/p&gt;
-&lt;h3 id=&#34;5-abbr-titlesecure-digitalsdabbr-maid&#34;&gt;5. &lt;abbr title=&#34;Secure Digital&#34;&gt;SD&lt;/abbr&gt; Maid&lt;/h3&gt;
+&lt;h3 id=&#34;5-sd-maid&#34;&gt;5. &lt;abbr title=&#34;Secure Digital&#34;&gt;SD&lt;/abbr&gt; Maid&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;&lt;abbr title=&#34;Operating System&#34;&gt;OS&lt;/abbr&gt;:&lt;/strong&gt; Android.&lt;/p&gt;
 &lt;p&gt;If you&amp;rsquo;re not familiar, &lt;abbr title=&#34;Secure Digital&#34;&gt;SD&lt;/abbr&gt; maid removes junk from your storage. &lt;abbr title=&#34;Secure Digital&#34;&gt;SD&lt;/abbr&gt; card &amp;amp; main storage. It can also remove junk from your apps that just keeps space on your phone for no reason.&lt;/p&gt;
 &lt;p&gt;This app has been around since 2011, early Android releases! Respect your eldery apps, &lt;abbr title=&#34;Laugh out Loud&#34;&gt;LOL&lt;/abbr&gt;.&lt;/p&gt;
@@ -1359,22 +1357,19 @@ Please forgive the lighting, I was too lazy to fully edit it.&lt;/p&gt;
 &lt;li&gt;We never sell or rent your data or notebook content to third parties.&lt;/li&gt;
 &lt;li&gt;We don&amp;rsquo;t access or collect data from your notebooks or documents without your permission.&lt;/li&gt;
 &lt;li&gt;We use limited, anonymized data to improve our services and meet legal obligations.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/blockquote&gt;
+&lt;/ul&gt;&lt;/blockquote&gt;
 &lt;blockquote&gt;
 &lt;p&gt;We only share your data:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;When you explicitly give us permission to do so and with the third parties specifically identified in this policy.&lt;/li&gt;
 &lt;li&gt;To protect the rights, property, or safety of us, our customers, or others.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/blockquote&gt;
+&lt;/ul&gt;&lt;/blockquote&gt;
 &lt;blockquote&gt;
 &lt;p&gt;What we collect:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Basic personal data (name, email, country) when you register.&lt;/li&gt;
 &lt;li&gt;Anonymous statistical data (crash frequency, feature usage) to enhance the app experience.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/blockquote&gt;
+&lt;/ul&gt;&lt;/blockquote&gt;
 &lt;p&gt;If you DO mind any of those terms, feel free to skip that one. Personally, I don&amp;rsquo;t mind. I wanted to add Goodnotes here because it&amp;rsquo;s something I genuinely use for University and I like it. If there&amp;rsquo;s any alternative of &lt;abbr title=&#34;Free Open Source Software&#34;&gt;FOSS&lt;/abbr&gt; notebook apps you can draw inside/use your apple pencil, please let me know!&lt;/p&gt;
 &lt;h3 id=&#34;3-noto&#34;&gt;3. Noto&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;&lt;abbr title=&#34;Operating System&#34;&gt;OS&lt;/abbr&gt;:&lt;/strong&gt; Android.&lt;/p&gt;
@@ -1405,7 +1400,7 @@ Please forgive the lighting, I was too lazy to fully edit it.&lt;/p&gt;
 &lt;p&gt;If you want a smoother YouTube experience, I recommend using your favourite Piped instance on the browser. You gotta download the SponsorBlock extention if you wanna skip sponsorships though.&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;more-apps&#34;&gt;More Apps&lt;/h2&gt;
-&lt;h3 id=&#34;1-muabbr-titleportable-document-formatpdfabbr-viewer&#34;&gt;1. Mu&lt;abbr title=&#34;Portable Document Format&#34;&gt;PDF&lt;/abbr&gt; Viewer&lt;/h3&gt;
+&lt;h3 id=&#34;1-mupdf-viewer&#34;&gt;1. Mu&lt;abbr title=&#34;Portable Document Format&#34;&gt;PDF&lt;/abbr&gt; Viewer&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;&lt;abbr title=&#34;Operating System&#34;&gt;OS&lt;/abbr&gt;:&lt;/strong&gt; Android.&lt;/p&gt;
 &lt;p&gt;A &lt;abbr title=&#34;Free Open Source Software&#34;&gt;FOSS&lt;/abbr&gt; &lt;abbr title=&#34;Portable Document Format&#34;&gt;PDF&lt;/abbr&gt; Viewer. That&amp;rsquo;s it. You can view &lt;abbr title=&#34;Portable Document Format&#34;&gt;PDF&lt;/abbr&gt;s in it.&lt;/p&gt;
 &lt;h3 id=&#34;2-paseo&#34;&gt;2. Paseo&lt;/h3&gt;
@@ -1414,7 +1409,7 @@ Please forgive the lighting, I was too lazy to fully edit it.&lt;/p&gt;
 &lt;h3 id=&#34;3-proton-mail&#34;&gt;3. Proton Mail&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;&lt;abbr title=&#34;Operating System&#34;&gt;OS&lt;/abbr&gt;:&lt;/strong&gt; Android, iOS, your browser, any email client you have.&lt;/p&gt;
 &lt;p&gt;Pretty and private email service. I&amp;rsquo;m sure you heard about Proton. If you didn&amp;rsquo;t switch from G-mail yet and you want a fast experience without ads, just open an account. Really, you won&amp;rsquo;t regret it. Look how pretty Proton is.&lt;/p&gt;
-&lt;h3 id=&#34;4-proton-abbr-titlevirtual-private-networkvpnabbr&#34;&gt;4. Proton &lt;abbr title=&#34;Virtual Private Network&#34;&gt;VPN&lt;/abbr&gt;&lt;/h3&gt;
+&lt;h3 id=&#34;4-proton-vpn&#34;&gt;4. Proton &lt;abbr title=&#34;Virtual Private Network&#34;&gt;VPN&lt;/abbr&gt;&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;&lt;abbr title=&#34;Operating System&#34;&gt;OS&lt;/abbr&gt;:&lt;/strong&gt; Android, iOS, Linux, MacOS, Windows.&lt;/p&gt;
 &lt;p&gt;Do you need a &lt;abbr title=&#34;Virtual Private Network&#34;&gt;VPN&lt;/abbr&gt;? That leaks everywhere unless it&amp;rsquo;s iOS? Do you need a &lt;abbr title=&#34;Virtual Private Network&#34;&gt;VPN&lt;/abbr&gt; with Netshield to block ads and trackers and Secure Core? Well, Proton&lt;abbr title=&#34;Virtual Private Network&#34;&gt;VPN&lt;/abbr&gt; is your friend!&lt;/p&gt;
 &lt;p&gt;In case you don&amp;rsquo;t know what a &lt;abbr title=&#34;Virtual Private Network&#34;&gt;VPN&lt;/abbr&gt; is, you probably do but I wanna sound smart. &lt;abbr title=&#34;Virtual Private Network&#34;&gt;VPN&lt;/abbr&gt; stands for Virtual Private Network. It sends your internet traffic to the &lt;abbr title=&#34;Virtual Private Network&#34;&gt;VPN&lt;/abbr&gt; provider instead of your internet provider. Yes, you can watch Netflix all over the world, as long as Netflix works there and the &lt;abbr title=&#34; Domain Name System&#34;&gt;DNS&lt;/abbr&gt; doesn&amp;rsquo;t leak.&lt;/p&gt;
@@ -1423,26 +1418,26 @@ Please forgive the lighting, I was too lazy to fully edit it.&lt;/p&gt;
         </item>
         <item>
         <title>Archives</title>
-        <link>https://www.ashleehee.com/archives/</link>
+        <link>http://localhost:1313/archives/</link>
         <pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate>
         
-        <guid>https://www.ashleehee.com/archives/</guid>
+        <guid>http://localhost:1313/archives/</guid>
         <description></description>
         </item>
         <item>
         <title>Links</title>
-        <link>https://www.ashleehee.com/links/</link>
+        <link>http://localhost:1313/links/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://www.ashleehee.com/links/</guid>
+        <guid>http://localhost:1313/links/</guid>
         <description></description>
         </item>
         <item>
         <title>Search</title>
-        <link>https://www.ashleehee.com/search/</link>
+        <link>http://localhost:1313/search/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://www.ashleehee.com/search/</guid>
+        <guid>http://localhost:1313/search/</guid>
         <description></description>
         </item>
         

@@ -1,7 +1,7 @@
 # Change baseurl before deploy
 baseurl = "https://www.ashleehee.com/"
 languageCode = "en-us"
-paginate = 5
+pagerSize = 5
 title = "AshLee's Random Blog Space"
 
 # Theme i18n support

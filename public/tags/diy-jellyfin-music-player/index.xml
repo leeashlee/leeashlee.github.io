@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>DIY Jellyfin music player on AshLee&#39;s Random Blog Space</title>
-        <link>https://www.ashleehee.com/tags/diy-jellyfin-music-player/</link>
-        <description>Recent content in DIY Jellyfin music player on AshLee&#39;s Random Blog Space</description>
+        <title>DIY Jellyfin Music Player on AshLee&#39;s Random Blog Space</title>
+        <link>http://localhost:1313/tags/diy-jellyfin-music-player/</link>
+        <description>Recent content in DIY Jellyfin Music Player on AshLee&#39;s Random Blog Space</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <lastBuildDate>Wed, 16 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://www.ashleehee.com/tags/diy-jellyfin-music-player/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 16 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/diy-jellyfin-music-player/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>How to Make a Jellyfin Music Player for Cheap</title>
-        <link>https://www.ashleehee.com/p/how-to-make-a-diy-musicplayer/</link>
+        <link>http://localhost:1313/p/how-to-make-a-diy-musicplayer/</link>
         <pubDate>Wed, 16 Apr 2025 00:00:00 +0000</pubDate>
         
-        <guid>https://www.ashleehee.com/p/how-to-make-a-diy-musicplayer/</guid>
-        <description>&lt;img src="https://www.ashleehee.com/p/how-to-make-a-diy-musicplayer/cover.jpg" alt="Featured image of post How to Make a Jellyfin Music Player for Cheap" /&gt;&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+        <guid>http://localhost:1313/p/how-to-make-a-diy-musicplayer/</guid>
+        <description>&lt;img src="http://localhost:1313/p/how-to-make-a-diy-musicplayer/cover.jpg" alt="Featured image of post How to Make a Jellyfin Music Player for Cheap" /&gt;&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;You might call me impulsive and crazy, but one of the only things I miss from Android is &lt;a class=&#34;link&#34; href=&#34;https://www.symfonium.app/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Symfonium&lt;/a&gt;, it’s the best music player app for people who self host. It supports Jellyfin and Subsonic and local music and is one of the few music players that feels &lt;em&gt;complete.&lt;/em&gt; &lt;abbr title=&#34;iPhone Operating System&#34;&gt;iOS&lt;/abbr&gt; Jellyfin apps don’t compare to the experience &lt;a class=&#34;link&#34; href=&#34;https://www.symfonium.app/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Symfonium&lt;/a&gt; gave me.&lt;/p&gt;
@@ -36,11 +36,11 @@
 &lt;p&gt;After debloating your phone, put your phone on airplane mode and then connect to your wifi.&lt;/p&gt;
 &lt;p&gt;Airplane mode enhances privacy by turning off all wireless connections on your phone, including cellular networks, Wi-Fi, Bluetooth, and &lt;abbr title=&#34;Global Positioning System&#34;&gt;GPS&lt;/abbr&gt;. This prevents your device from transmitting or receiving any signals, thereby reducing the amount of data that can be collected about your location and activities.&lt;/p&gt;
 &lt;p&gt;Airplane mode also saves battery life, you could solely waste it on listening to music! :)&lt;/p&gt;
-&lt;h2 id=&#34;step-2---install-symfoniumhttpswwwsymfoniumapp&#34;&gt;Step 2 - Install &lt;a class=&#34;link&#34; href=&#34;https://www.symfonium.app/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+&lt;h2 id=&#34;step-2---install-symfonium&#34;&gt;Step 2 - Install &lt;a class=&#34;link&#34; href=&#34;https://www.symfonium.app/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Symfonium&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;I installed it through the Google Play store. I paid for the program so I wanted to have access to it. I also wanted automatic updates. It was a risk I was willing to take. You can download it through Aurora Store, if you want, and using Google Play Store and Google Services is against your &lt;a class=&#34;link&#34; href=&#34;https://www.privacyguides.org/en/basics/threat-modeling/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;threat model&lt;/a&gt;.&lt;/p&gt;
-&lt;h2 id=&#34;step-3---set-symfoniumhttpswwwsymfoniumapp-up-and-enjoy-3&#34;&gt;Step 3 - Set &lt;a class=&#34;link&#34; href=&#34;https://www.symfonium.app/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+&lt;h2 id=&#34;step-3---set-symfonium-up-and-enjoy-3&#34;&gt;Step 3 - Set &lt;a class=&#34;link&#34; href=&#34;https://www.symfonium.app/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Symfonium&lt;/a&gt; up and Enjoy! :3&lt;/h2&gt;
 &lt;p&gt;Open the app, follow the process in the screen and enjoy your new music player!! :) I also added &lt;a class=&#34;link&#34; href=&#34;https://www.symfonium.app/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Symfonium&lt;/a&gt; widget on the home screen to give it more of a music player vibe.&lt;/p&gt;
@@ -52,10 +52,10 @@
 &lt;p&gt;I write this 24ish hours after initial setup! I got sick of the homepage: having apps scattered around all the home screen and I needed a better grid for my widgets.&lt;/p&gt;
 &lt;p&gt;Nova launcher is super easy to install and use. I’ve been using them for years at this point. I put cute image as a widget + &lt;a class=&#34;link&#34; href=&#34;https://www.symfonium.app/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Symfonium&lt;/a&gt; music player widget.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://www.ashleehee.com/p/how-to-make-a-diy-musicplayer/Screenshot_20250416-002047.png&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/how-to-make-a-diy-musicplayer/Screenshot_20250416-002047.png&#34;
 	width=&#34;452&#34;
 	height=&#34;960&#34;
-	srcset=&#34;https://www.ashleehee.com/p/how-to-make-a-diy-musicplayer/Screenshot_20250416-002047_hu3151b222e213a11e1124744c816d074c_587875_480x0_resize_box_3.png 480w, https://www.ashleehee.com/p/how-to-make-a-diy-musicplayer/Screenshot_20250416-002047_hu3151b222e213a11e1124744c816d074c_587875_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;http://localhost:1313/p/how-to-make-a-diy-musicplayer/Screenshot_20250416-002047_hu_851df75c8bfd9260.png 480w, http://localhost:1313/p/how-to-make-a-diy-musicplayer/Screenshot_20250416-002047_hu_56a1c8f4a42a9f9.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The aesthetic I went with was retro cybercore with lots of anime waifus, hehe.&#34;

@@ -2,7 +2,7 @@
 {{- $disqusjs := .Site.Params.Comments.disqusjs -}}
 {{- if and (not $pc.Disable) (and $disqusjs.Shortname $disqusjs.ApiKey) -}}
 
-{{- $style := resources.Get "scss/partials/comments/disqusjs.scss" | resources.ToCSS | minify -}}
+{{- $style := resources.Get "scss/partials/comments/disqusjs.scss" | css.Sass | minify -}}
 <link rel="stylesheet" href="{{ $style.RelPermalink }}">
 
 <div class="disqus-container">
@@ -11,12 +11,12 @@
         let disqusjs;
         function loadDisqusJS() {
             disqusjs = new DisqusJS({
-                shortname: {{ $disqusjs.Shortname }},
-                siteName: {{ .Site.Title }},
-                apikey: {{ $disqusjs.ApiKey }},
-                {{ with $disqusjs.ApiUrl }}api: {{ . }},{{ end }}
-                {{ with $disqusjs.Admin }}admin: {{ . }},{{ end }}
-                {{ with $disqusjs.AdminLabel }}adminLabel: {{ . }}{{ end }}
+                shortname: {{ $disqusjs.Shortname | jsonify }},
+                siteName: {{ .Site.Title | jsonify }},
+                apikey: {{ $disqusjs.ApiKey | jsonify }},
+                {{ with $disqusjs.ApiUrl }}api: {{ . | jsonify }},{{ end }}
+                {{ with $disqusjs.Admin }}admin: {{ . | jsonify }},{{ end }}
+                {{ with $disqusjs.AdminLabel }}adminLabel: {{ . | jsonify }}{{ end }}
             });
         }
 

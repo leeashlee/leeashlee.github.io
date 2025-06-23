@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>mostly FOSS on AshLee&#39;s Random Blog Space</title>
-        <link>https://www.ashleehee.com/tags/mostly-foss/</link>
-        <description>Recent content in mostly FOSS on AshLee&#39;s Random Blog Space</description>
+        <title>Mostly FOSS on AshLee&#39;s Random Blog Space</title>
+        <link>http://localhost:1313/tags/mostly-foss/</link>
+        <description>Recent content in Mostly FOSS on AshLee&#39;s Random Blog Space</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <lastBuildDate>Thu, 10 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://www.ashleehee.com/tags/mostly-foss/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 10 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/mostly-foss/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Privacy/security apps for daily use that are actually pretty?!</title>
-        <link>https://www.ashleehee.com/p/my-privacy-and-security-apps/</link>
+        <link>http://localhost:1313/p/my-privacy-and-security-apps/</link>
         <pubDate>Thu, 10 Aug 2023 00:00:00 +0000</pubDate>
         
-        <guid>https://www.ashleehee.com/p/my-privacy-and-security-apps/</guid>
-        <description>&lt;img src="https://www.ashleehee.com/p/my-privacy-and-security-apps/cover.jpg" alt="Featured image of post Privacy/security apps for daily use that are actually pretty?!" /&gt;&lt;p&gt;you&amp;rsquo;ve probably didn&amp;rsquo;t use some private/&lt;abbr title=&#34;Free Open Source Software&#34;&gt;FOSS&lt;/abbr&gt; apps and switched to a less private alternative. The &lt;abbr title=&#34;User Experience&#34;&gt;UX&lt;/abbr&gt; isn&amp;rsquo;t quite as friendly than the apps you tried to replace, the &lt;abbr title=&#34;User Interface&#34;&gt;UI&lt;/abbr&gt; is outdated at best and doesn&amp;rsquo;t work for you at worst.&lt;/p&gt;
+        <guid>http://localhost:1313/p/my-privacy-and-security-apps/</guid>
+        <description>&lt;img src="http://localhost:1313/p/my-privacy-and-security-apps/cover.jpg" alt="Featured image of post Privacy/security apps for daily use that are actually pretty?!" /&gt;&lt;p&gt;you&amp;rsquo;ve probably didn&amp;rsquo;t use some private/&lt;abbr title=&#34;Free Open Source Software&#34;&gt;FOSS&lt;/abbr&gt; apps and switched to a less private alternative. The &lt;abbr title=&#34;User Experience&#34;&gt;UX&lt;/abbr&gt; isn&amp;rsquo;t quite as friendly than the apps you tried to replace, the &lt;abbr title=&#34;User Interface&#34;&gt;UI&lt;/abbr&gt; is outdated at best and doesn&amp;rsquo;t work for you at worst.&lt;/p&gt;
 &lt;p&gt;I&amp;rsquo;ve been looking left and right for over a year to find apps that are private, secured and with a minimal and modern look. I&amp;rsquo;m not much into retro design unless it&amp;rsquo;s Windows XP aesthetics or KDE.&lt;/p&gt;
 &lt;p&gt;Most is open source, but not all. The closed source don&amp;rsquo;t take information beside what you give and they work locally.&lt;/p&gt;
 &lt;p&gt;I&amp;rsquo;m not a security expert or anything of the sort, I just get my information from PrivacyGuides recommendations, alternativeto.net and my own trial and errors.&lt;/p&gt;
@@ -41,7 +41,7 @@
 &lt;p&gt;If you&amp;rsquo;re not running a custom &lt;abbr title=&#34;Read-only memory&#34;&gt;ROM&lt;/abbr&gt; because it&amp;rsquo;s Samsung and Samsung is a meme, yet you really miss using Caffeine when cooking or reading articles or using walkthroughs for games, I gotchu.&lt;/p&gt;
 &lt;p&gt;In case you don&amp;rsquo;t understand, Caffeine is something you can put on your notification menu and you can keep your phone from sleeping for an extended period of time.&lt;/p&gt;
 &lt;p&gt;Many &lt;abbr title=&#34;Read-only memory&#34;&gt;ROM&lt;/abbr&gt;s that use LineageOS as a base has Caffeine in them. However, you can download the same one and continue using Caffeine despite having a Samsung! You welcome!&lt;/p&gt;
-&lt;h3 id=&#34;5-abbr-titlesecure-digitalsdabbr-maid&#34;&gt;5. &lt;abbr title=&#34;Secure Digital&#34;&gt;SD&lt;/abbr&gt; Maid&lt;/h3&gt;
+&lt;h3 id=&#34;5-sd-maid&#34;&gt;5. &lt;abbr title=&#34;Secure Digital&#34;&gt;SD&lt;/abbr&gt; Maid&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;&lt;abbr title=&#34;Operating System&#34;&gt;OS&lt;/abbr&gt;:&lt;/strong&gt; Android.&lt;/p&gt;
 &lt;p&gt;If you&amp;rsquo;re not familiar, &lt;abbr title=&#34;Secure Digital&#34;&gt;SD&lt;/abbr&gt; maid removes junk from your storage. &lt;abbr title=&#34;Secure Digital&#34;&gt;SD&lt;/abbr&gt; card &amp;amp; main storage. It can also remove junk from your apps that just keeps space on your phone for no reason.&lt;/p&gt;
 &lt;p&gt;This app has been around since 2011, early Android releases! Respect your eldery apps, &lt;abbr title=&#34;Laugh out Loud&#34;&gt;LOL&lt;/abbr&gt;.&lt;/p&gt;
@@ -120,22 +120,19 @@
 &lt;li&gt;We never sell or rent your data or notebook content to third parties.&lt;/li&gt;
 &lt;li&gt;We don&amp;rsquo;t access or collect data from your notebooks or documents without your permission.&lt;/li&gt;
 &lt;li&gt;We use limited, anonymized data to improve our services and meet legal obligations.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/blockquote&gt;
+&lt;/ul&gt;&lt;/blockquote&gt;
 &lt;blockquote&gt;
 &lt;p&gt;We only share your data:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;When you explicitly give us permission to do so and with the third parties specifically identified in this policy.&lt;/li&gt;
 &lt;li&gt;To protect the rights, property, or safety of us, our customers, or others.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/blockquote&gt;
+&lt;/ul&gt;&lt;/blockquote&gt;
 &lt;blockquote&gt;
 &lt;p&gt;What we collect:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Basic personal data (name, email, country) when you register.&lt;/li&gt;
 &lt;li&gt;Anonymous statistical data (crash frequency, feature usage) to enhance the app experience.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/blockquote&gt;
+&lt;/ul&gt;&lt;/blockquote&gt;
 &lt;p&gt;If you DO mind any of those terms, feel free to skip that one. Personally, I don&amp;rsquo;t mind. I wanted to add Goodnotes here because it&amp;rsquo;s something I genuinely use for University and I like it. If there&amp;rsquo;s any alternative of &lt;abbr title=&#34;Free Open Source Software&#34;&gt;FOSS&lt;/abbr&gt; notebook apps you can draw inside/use your apple pencil, please let me know!&lt;/p&gt;
 &lt;h3 id=&#34;3-noto&#34;&gt;3. Noto&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;&lt;abbr title=&#34;Operating System&#34;&gt;OS&lt;/abbr&gt;:&lt;/strong&gt; Android.&lt;/p&gt;
@@ -166,7 +163,7 @@
 &lt;p&gt;If you want a smoother YouTube experience, I recommend using your favourite Piped instance on the browser. You gotta download the SponsorBlock extention if you wanna skip sponsorships though.&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;more-apps&#34;&gt;More Apps&lt;/h2&gt;
-&lt;h3 id=&#34;1-muabbr-titleportable-document-formatpdfabbr-viewer&#34;&gt;1. Mu&lt;abbr title=&#34;Portable Document Format&#34;&gt;PDF&lt;/abbr&gt; Viewer&lt;/h3&gt;
+&lt;h3 id=&#34;1-mupdf-viewer&#34;&gt;1. Mu&lt;abbr title=&#34;Portable Document Format&#34;&gt;PDF&lt;/abbr&gt; Viewer&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;&lt;abbr title=&#34;Operating System&#34;&gt;OS&lt;/abbr&gt;:&lt;/strong&gt; Android.&lt;/p&gt;
 &lt;p&gt;A &lt;abbr title=&#34;Free Open Source Software&#34;&gt;FOSS&lt;/abbr&gt; &lt;abbr title=&#34;Portable Document Format&#34;&gt;PDF&lt;/abbr&gt; Viewer. That&amp;rsquo;s it. You can view &lt;abbr title=&#34;Portable Document Format&#34;&gt;PDF&lt;/abbr&gt;s in it.&lt;/p&gt;
 &lt;h3 id=&#34;2-paseo&#34;&gt;2. Paseo&lt;/h3&gt;
@@ -175,7 +172,7 @@
 &lt;h3 id=&#34;3-proton-mail&#34;&gt;3. Proton Mail&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;&lt;abbr title=&#34;Operating System&#34;&gt;OS&lt;/abbr&gt;:&lt;/strong&gt; Android, iOS, your browser, any email client you have.&lt;/p&gt;
 &lt;p&gt;Pretty and private email service. I&amp;rsquo;m sure you heard about Proton. If you didn&amp;rsquo;t switch from G-mail yet and you want a fast experience without ads, just open an account. Really, you won&amp;rsquo;t regret it. Look how pretty Proton is.&lt;/p&gt;
-&lt;h3 id=&#34;4-proton-abbr-titlevirtual-private-networkvpnabbr&#34;&gt;4. Proton &lt;abbr title=&#34;Virtual Private Network&#34;&gt;VPN&lt;/abbr&gt;&lt;/h3&gt;
+&lt;h3 id=&#34;4-proton-vpn&#34;&gt;4. Proton &lt;abbr title=&#34;Virtual Private Network&#34;&gt;VPN&lt;/abbr&gt;&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;&lt;abbr title=&#34;Operating System&#34;&gt;OS&lt;/abbr&gt;:&lt;/strong&gt; Android, iOS, Linux, MacOS, Windows.&lt;/p&gt;
 &lt;p&gt;Do you need a &lt;abbr title=&#34;Virtual Private Network&#34;&gt;VPN&lt;/abbr&gt;? That leaks everywhere unless it&amp;rsquo;s iOS? Do you need a &lt;abbr title=&#34;Virtual Private Network&#34;&gt;VPN&lt;/abbr&gt; with Netshield to block ads and trackers and Secure Core? Well, Proton&lt;abbr title=&#34;Virtual Private Network&#34;&gt;VPN&lt;/abbr&gt; is your friend!&lt;/p&gt;
 &lt;p&gt;In case you don&amp;rsquo;t know what a &lt;abbr title=&#34;Virtual Private Network&#34;&gt;VPN&lt;/abbr&gt; is, you probably do but I wanna sound smart. &lt;abbr title=&#34;Virtual Private Network&#34;&gt;VPN&lt;/abbr&gt; stands for Virtual Private Network. It sends your internet traffic to the &lt;abbr title=&#34;Virtual Private Network&#34;&gt;VPN&lt;/abbr&gt; provider instead of your internet provider. Yes, you can watch Netflix all over the world, as long as Netflix works there and the &lt;abbr title=&#34; Domain Name System&#34;&gt;DNS&lt;/abbr&gt; doesn&amp;rsquo;t leak.&lt;/p&gt;
